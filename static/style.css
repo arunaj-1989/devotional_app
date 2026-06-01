@@ -1,0 +1,288 @@
+/* Main background */
+body {
+    background-color: #F8F2E8 !important;
+    color: #462A19;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Global Header */
+.app-header {
+    background-color: #462A19;
+    color: #F8F2E8;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.app-header h1 {
+    margin: 0;
+    font-family: serif;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+/* Main container for flashcard and controls */
+#flashcard-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 40vh; /* Adjust as needed */
+    max-width: 720px;
+    width: 90%;
+    padding: 40px 30px;
+    margin: 50px auto 20px auto;
+    background: #F8F2E8; /* Main background color for the container */
+    border-radius: 24px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    position: relative;
+    box-sizing: border-box;
+}
+
+/* Styling for the individual flashcard */
+.flashcard {
+    background: #FFFFFF;
+    border-radius: 24px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    padding: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: all 0.3s ease; /* For hover effect */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flashcard:hover {
+    transform: translateY(-5px); /* Lift effect */
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.1); /* Enhanced shadow */
+}
+
+/* Language selection form */
+.language-form {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+/* Styling for the script text */
+.script-text {
+    color: #B8860B;
+    font-size: clamp(1.5rem, 4vw, 2.2rem);
+    font-weight: 700;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+    width: 100%;
+    white-space: pre-wrap;
+    text-align: center; /* Ensure text is centered */
+}
+
+/* Styling for the English transliteration */
+.english-text {
+    color: #3C1D1D;
+    font-size: 1.15rem;
+    font-style: italic;
+    margin-bottom: 24px;
+    line-height: 1.6;
+    width: 100%;
+    white-space: pre-wrap;
+    text-align: center; /* Ensure text is centered */
+}
+
+/* Meaning text */
+.meaning-text {
+    color: #5A4337;
+    font-size: 1.05rem;
+    width: 100%;
+    margin-top: 10px;
+    border-top: 1px solid rgba(100, 65, 18, 0.15);
+    padding-top: 24px;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    text-align: center; /* Ensure text is centered */
+}
+
+/* Language selection form elements */
+.language-form label {
+    font-weight: 600;
+    color: #462A19;
+    font-size: 1.1rem;
+}
+
+.language-form select {
+    padding: 8px 15px;
+    border-radius: 18px;
+    border: 1px solid #B8860B;
+    background-color: #FFFFFF;
+    color: #462A19;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    -webkit-appearance: none; /* Remove default arrow for better styling */
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23B8860B%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px;
+    padding-right: 30px; /* Space for the custom arrow */
+}
+
+.language-form select:hover {
+    border-color: #7A4A1D;
+}
+
+/* Button styling */
+.nav-button {
+    background-color: #FFFFFF;
+    color: #7A4A1D;
+    border: 2px solid #B8860B;
+    border-radius: 24px;
+    padding: 10px 32px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    min-width: 140px;
+    margin: 0 10px;
+}
+
+.nav-button:hover {
+    background-color: #B8860B;
+    color: #FFFFFF;
+}
+
+/* Navigation buttons container */
+.navigation-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Space between buttons and counter */
+    width: 100%;
+}
+
+/* Verse counter */
+.verse-counter {
+    font-size: 1.1rem;
+    color: #5A4337;
+    font-weight: 600;
+    min-width: 80px; /* Ensure it doesn't jump around */
+}
+
+.nav-button:disabled {
+    background-color: #E0E0E0;
+    border-color: #C0C0C0;
+    color: #A0A0A0;
+    cursor: not-allowed;
+}
+
+/* Scalable Stotram Grid */
+.stotram-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.stotram-card {
+    background: #FFFFFF;
+    border: 2px solid #B8860B;
+    border-radius: 24px;
+    padding: 30px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.stotram-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(184, 134, 11, 0.15);
+    border-color: #B8860B;
+}
+
+.stotram-icon { font-size: 3rem; margin-bottom: 15px; }
+.stotram-card h2 { margin: 0 0 10px 0; font-size: 1.4rem; color: #462A19; }
+.stotram-card p { font-size: 0.95rem; color: #5A4337; margin-bottom: 25px; line-height: 1.5; }
+
+.card-actions { display: flex; flex-direction: column; gap: 10px; width: 100%; }
+.lang-btn {
+    background: #F8F2E8;
+    color: #7A4A1D;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 14px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+}
+.lang-btn:hover { background: #B8860B; color: #FFFFFF; }
+
+.selection-card:hover {
+    transform: translateY(-5px);
+    background-color: #B8860B;
+    color: #FFFFFF !important;
+    box-shadow: 0 12px 30px rgba(184, 134, 11, 0.2);
+}
+
+.selection-card .script-preview {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.selection-card .plus {
+    font-size: 1.1rem;
+    margin: 5px 0;
+    opacity: 0.7;
+}
+
+/* Home Link in Flashcard */
+.home-navigation {
+    margin-top: 30px;
+    border-top: 1px solid rgba(100, 65, 18, 0.1);
+    padding-top: 20px;
+    width: 100%;
+}
+
+.change-lang-link {
+    text-decoration: none;
+    color: #B8860B;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+/* Global Footer */
+.app-footer {
+    padding: 30px 0;
+    text-align: center;
+    color: #7A4A1D;
+    font-size: 0.85rem;
+    opacity: 0.7;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 700px) {
+    #flashcard-container { padding: 30px 20px; border-radius: 20px; }
+    .flashcard { padding: 20px; }
+    .script-text { font-size: clamp(1.2rem, 3.5vw, 1.8rem); }
+    .english-text { font-size: 0.95rem; }
+    .meaning-text { font-size: 0.9rem; padding-top: 15px; }
+    .language-form { flex-direction: column; gap: 15px; }
+    .navigation-buttons { flex-wrap: nowrap; gap: 10px; }
+    .selection-grid { flex-direction: column; align-items: center; }
+    .nav-button { min-width: 100px; padding: 10px 5px; margin: 0; font-size: 0.85rem; }
+    .verse-counter { font-size: 0.9rem; min-width: 60px; white-space: nowrap; }
+}

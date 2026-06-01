@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ stotram_title }} - Stotra Reader</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header class="app-header">
+        <h1>Sanatana Stotra Sangrahah</h1>
+    </header>
+
+    <div id="flashcard-container">
+        <h4 style="margin: 0 0 15px 0; color: #B8860B; opacity: 0.8;">{{ stotram_title }}</h4>
+        
+        <form action="/stotram/{{ stotram_id }}/flashcard/{{ current_id }}" method="post" class="language-form">
+            <label for="language-select">Select Language:</label>
+            <select name="selected_language" id="language-select" onchange="this.form.submit()">
+                {% for lang_option in languages %}
+                    <option value="{{ lang_option }}" {% if lang_option == selected_language %}selected{% endif %}>
+                        {{ lang_option.capitalize() }}
+                    </option>
+                {% endfor %}
+            </select>
+        </form>
+
+        <div class="flashcard">
+            <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
+            <div class="english-text">{{ verse.english }}</div>
+            <div class="meaning-text">{{ verse.meaning }}</div>
+        </div>
+
+        <div class="navigation-buttons">
+            <form action="/stotram/{{ stotram_id }}/flashcard/{{ current_id }}" method="post" style="display:inline;">
+                <input type="hidden" name="direction" value="prev">
+                <input type="hidden" name="selected_language" value="{{ selected_language }}">
+                <button type="submit" class="nav-button" {% if current_id == 0 %}disabled{% endif %}>Previous</button>
+            </form>
+            <span class="verse-counter">{{ current_id }} / {{ total_verses }}</span>
+            <form action="/stotram/{{ stotram_id }}/flashcard/{{ current_id }}" method="post" style="display:inline;">
+                <input type="hidden" name="direction" value="next">
+                <input type="hidden" name="selected_language" value="{{ selected_language }}">
+                <button type="submit" class="nav-button" {% if current_id == total_verses %}disabled{% endif %}>Next</button>
+            </form>
+        </div>
+        <div class="home-navigation">
+            <a href="/" class="change-lang-link">← Choose Another Stotram</a>
+        </div>
+    </div>
+
+    <footer class="app-footer">
+        <p>© 2024 Sanatana Stotra Sangrahah • Author: Arunaj • May all be blessed.</p>
+    </footer>
+
+    <script>
+        const stotramId = "{{ stotram_id }}";
+        const currentId = {{ current_id }};
+        const totalVerses = {{ total_verses }};
+        const lang = "{{ selected_language }}";
+
+        function navigate(direction) {
+            if (direction === 'next' && currentId < totalVerses) {
+                window.location.href = `/stotram/${stotramId}/flashcard/${currentId + 1}?lang=${lang}`;
+            } else if (direction === 'prev' && currentId > 0) {
+                window.location.href = `/stotram/${stotramId}/flashcard/${currentId - 1}?lang=${lang}`;
+            }
+        }
+
+        // Keyboard Navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === "ArrowUp" || e.key === "ArrowRight") {
+                navigate('next');
+            } else if (e.key === "ArrowDown" || e.key === "ArrowLeft") {
+                navigate('prev');
+            }
+        });
+
+        // Swipe Gestures
+        let touchstartY = 0;
+        let touchendY = 0;
+
+        document.addEventListener('touchstart', e => {
+            touchstartY = e.changedTouches[0].screenY;
+        }, false);
+
+        document.addEventListener('touchend', e => {
+            touchendY = e.changedTouches[0].screenY;
+            handleGesture();
+        }, false);
+
+        function handleGesture() {
+            const threshold = 50; // minimum distance for a swipe
+            if (touchendY < touchstartY - threshold) {
+                navigate('next'); // Swipe Up
+            }
+            if (touchendY > touchstartY + threshold) {
+                navigate('prev'); // Swipe Down
+            }
+        }
+    </script>
+</body>
+</html>

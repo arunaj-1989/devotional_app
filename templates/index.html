@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', path='/style.css') }}"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', path='/favicon.ico') }}">
+    <title>Stotra Reader</title>
+</head>
+<body>
+    <div id="swipe-area">
+        <h1>Stotra Reader</h1>
+        <p>Current Verse Index: {{ page }}</p>
+        
+        <form action="/navigate" method="post">
+            <button name="direction" value="prev">Previous</button>
+            <button name="direction" value="next">Next</button>
+        </form>
+    </div>
+</body>
+</html>
