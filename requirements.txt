@@ -1,6 +1,3 @@
-fastapi
-uvicorn[standard]
+flask
 jinja2
-python-multipart
 itsdangerous
-a2wsgi
