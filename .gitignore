@@ -6,6 +6,8 @@ __pycache__/
 # Virtual Environments
 env/
 bin/
+.venv/
+venv/
 
 # Local environment variables
 .env
