@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "meaning": "The Auspicious Mother, the Supreme Empress, the Sovereign of the Lion Throne, who emerged from the fire of pure consciousness, and is intent on accomplishing divine tasks.[cite: 1]"
+  },
+  {
+    "id": 2,
+    "meaning": "She shines like a thousand rising suns, is endowed with four arms, holds the noose of attachment, and shines with the goad of anger.[cite: 1]"
+  },
+  {
+    "id": 3,
+    "meaning": "She holds the sugarcane bow of the mind and five arrows of the senses, immersing the universe in her rosy dawn-like radiance.[cite: 1]"
+  },
+  {
+    "id": 4,
+    "meaning": "Her hair is adorned with Champaka, Ashoka, Punnaga, and Saugandhika flowers, and she wears a glittering crown of Kuruvinda gems.[cite: 1]"
+  },
+  {
+    "id": 5,
+    "meaning": "Her forehead shines like the eighth-day moon, and she wears a musk mark resembling the spot on the moon.[cite: 1]"
+  },
+  {
+    "id": 6,
+    "meaning": "Her eyebrows resemble auspicious arches to Cupid's abode, and her eyes dart like fish in the overflow of her facial beauty.[cite: 1]"
+  },
+  {
+    "id": 7,
+    "meaning": "Her nose shines like a newly blossomed Champaka flower, and she wears a nose-ring that outshines the stars.[cite: 1]"
+  },
+  {
+    "id": 8,
+    "meaning": "Her ears are beautifully adorned with Kadamba blossoms, and she wears the sun and moon as her twin earrings.[cite: 1]"
+  },
+  {
+    "id": 9,
+    "meaning": "Her cheeks outshine mirrors made of Padmaraga gems, and her lips put to shame the redness of fresh coral.[cite: 1]"
+  },
+  {
+    "id": 10,
+    "meaning": "Her teeth shine like two rows of the sprouts of pure knowledge, filling all directions with the fragrance of her camphor-laced betel.[cite: 1]"
+  },
+  {
+    "id": 11,
+    "meaning": "Her voice is sweeter than the notes of Saraswati's Kachchapi veena, and her sweet smile immerses the mind of Lord Kameshwara.[cite: 1]"
+  },
+  {
+    "id": 12,
+    "meaning": "She is adorned with a matchlessly beautiful chin, and wears the sacred thread tied by Lord Kameshwara around her neck.[cite: 1]"
+  },
+  {
+    "id": 13,
+    "meaning": "Her arms are adorned with beautiful golden armlets and bracelets, and she wears a gem-studded necklace with a dangling pearl pendant.[cite: 1]"
+  },
+  {
+    "id": 14,
+    "meaning": "Her breasts are offered as the price for the jewel of Kameshwara's love, resembling fruits on the creeper of her abdominal hair rising from her navel.[cite: 1]"
+  },
+  {
+    "id": 15,
+    "meaning": "Her waist is inferred only by the creeper of hair, bearing three folds bound like a belt beneath the weight of her heavy breasts.[cite: 1]"
+  },
+  {
+    "id": 16,
+    "meaning": "She wears a radiant, deep red silken garment over her hips, adorned with a beautiful gem-studded waistband with tinkling bells.[cite: 1]"
+  },
+  {
+    "id": 17,
+    "meaning": "Her thighs, of tender beauty known only to her Lord Kameshwara, are adorned with knee-joints resembling jeweled crowns.[cite: 1]"
+  },
+  {
+    "id": 18,
+    "meaning": "Her calves resemble Cupid's arrow-quivers covered with Indragopa insects, having hidden ankles and insteps arching like tortoise shells.[cite: 1]"
+  },
+  {
+    "id": 19,
+    "meaning": "She dispels the darkness of ignorance with the brilliant rays of her toenails, and her feet defeat the beauty of lotuses.[cite: 1]"
+  },
+  {
+    "id": 20,
+    "meaning": "Her lotus-feet are adorned with tinkling gem-studded anklets; she walks slowly like a swan and is the ultimate treasure of immense beauty.[cite: 1]"
+  },
+  {
+    "id": 21,
+    "meaning": "She is entirely rosy-hued with flawless limbs, adorned with all ornaments, seated on the lap of Shiva-Kameshwara, the auspicious one whose husband obeys her.[cite: 1]"
+  },
+  {
+    "id": 22,
+    "meaning": "She resides on the central peak of Mount Meru, is the ruler of Srinagar, dwells in the wish-fulfilling jewel house, and is seated on the throne of five Brahmas.[cite: 1]"
+  },
+  {
+    "id": 23,
+    "meaning": "She resides in the great lotus forest and the Kadamba forest, sits in the center of the ocean of nectar, has fierce eyes, and grants all desires.[cite: 1]"
+  },
+  {
+    "id": 24,
+    "meaning": "Her glory is praised by hosts of gods and sages, and she is accompanied by the army of Shaktis ready to slay the demon Bhandasura.[cite: 1]"
+  },
+  {
+    "id": 25,
+    "meaning": "She is served by herds of elephants led by the Goddess Sampatkari, and surrounded by millions of horses commanded by the Goddess Ashwarudha.[cite: 1]"
+  },
+  {
+    "id": 26,
+    "meaning": "She rides the Chakraraja chariot adorned with all weapons, and is served by Goddess Mantrini riding the Geyachakra chariot.[cite: 1]"
+  },
+  {
+    "id": 27,
+    "meaning": "She is preceded by Goddess Dandanatha riding the Kirichakra chariot, and is situated within the fortress of fire created by Goddess Jwalamalini.[cite: 1]"
+  },
+  {
+    "id": 28,
+    "meaning": "She rejoices at the valor of the Shaktis bent on slaying Bhandasura's army, and is eager to witness the martial prowess of the Nithya deities.[cite: 1]"
+  },
+  {
+    "id": 29,
+    "meaning": "She is delighted by the valor of Goddess Bala in slaying Bhandasura's sons, and is pleased with Goddess Mantrini for slaying Vishanga.[cite: 1]"
+  },
+  {
+    "id": 30,
+    "meaning": "She is pleased by Goddess Varahi's prowess in slaying Vishukra, and created Lord Ganesha by a mere glance at Lord Kameshwara's face.[cite: 1]"
+  },
+  {
+    "id": 31,
+    "meaning": "She is thrilled when Maha Ganesha shattered the obstacle-machine, and rained counter-weapons upon the missiles released by Bhandasura.[cite: 1]"
+  },
+  {
+    "id": 32,
+    "meaning": "She created the ten avatars of Narayana from her fingernails, and incinerated the demon army with the fire of the great Pashupatastra.[cite: 1]"
+  },
+  {
+    "id": 33,
+    "meaning": "She burned Bhandasura and his city Shunyaka to ashes with the Kameshwara missile; her glory is praised by Brahma, Vishnu, Indra, and other gods.[cite: 1]"
+  },
+  {
+    "id": 34,
+    "meaning": "She is the life-restoring medicine for Cupid who was burnt by Shiva's eye, and her lotus face is the essence of the Vagbhava Koota.[cite: 1]"
+  },
+  {
+    "id": 35,
+    "meaning": "Her form from the neck to the waist is the Madhya Koota, and her form below the waist is the Shakti Koota.[cite: 1]"
+  },
+  {
+    "id": 36,
+    "meaning": "She is the soul of the root mantra, her body is formed of the three basic Kootas, she revels in the nectar of Kula, and is the protector of Kula traditions.[cite: 1]"
+  },
+  {
+    "id": 37,
+    "meaning": "She is the lady of the Kula, resides within the Kula, is the essence of Kaula, the Kula Yogini, beyond the Kula (Akula), dwelling within the Samaya, and devoted to Samayachara.[cite: 1]"
+  },
+  {
+    "id": 38,
+    "meaning": "She resides securely in the Muladhara chakra, pierces the Brahma Granthi, manifests in the Manipura chakra, and pierces the Vishnu Granthi.[cite: 1]"
+  },
+  {
+    "id": 39,
+    "meaning": "She dwells in the center of the Ajna chakra, pierces the Rudra Granthi, ascends to the Sahasrara, and showers the essence of nectar.[cite: 1]"
+  },
+  {
+    "id": 40,
+    "meaning": "She is radiant as a streak of lightning, stationed above the six chakras, the Great Power, the coiled Kundalini serpent, and as slender as a lotus stem.[cite: 1]"
+  },
+  {
+    "id": 41,
+    "meaning": "She is the consort of Bhava, reachable through deep meditation, the axe that fells the forest of worldly existence, fond of auspiciousness, the embodiment of grace, and bestower of prosperity on devotees.[cite: 1]"
+  },
+  {
+    "id": 42,
+    "meaning": "She is fond of devotion, attainable through devotion, won over by devotion, dispeller of fear, consort of Shambhu, worshipped by Sharada, consort of Sharva, and bestower of happiness.[cite: 1]"
+  },
+  {
+    "id": 43,
+    "meaning": "She is the consort of Shankara, creator of wealth, the chaste one, has a face like the autumn moon, is slender-waisted, the embodiment of peace, without support, and immaculate.[cite: 1]"
+  },
+  {
+    "id": 44,
+    "meaning": "She is untainted, pure, eternal, formless, untroubled, without attributes, undivided, tranquil, desireless, and indestructible.[cite: 1]"
+  },
+  {
+    "id": 45,
+    "meaning": "She is eternally liberated, unchanging, beyond the material universe, without dependency, eternally pure, eternally awake, flawless, and uninterrupted.[cite: 1]"
+  },
+  {
+    "id": 46,
+    "meaning": "She is causeless, unblemished, without limitations, without a superior master, devoid of passion, destroyer of attachments, pride-less, and destroyer of arrogance.[cite: 1]"
+  },
+  {
+    "id": 47,
+    "meaning": "She is without anxieties, free from ego, free from delusion, destroyer of delusions, devoid of 'mine', destroyer of selfishness, sinless, and destroyer of sins.[cite: 1]"
+  },
+  {
+    "id": 48,
+    "meaning": "She is devoid of anger, pacifier of anger, free from greed, destroyer of greed, free from doubt, destroyer of doubts, without rebirth, and destroyer of worldly bonds.[cite: 1]"
+  },
+  {
+    "id": 49,
+    "meaning": "She is free from mental modifications, unhindered, without differences, destroyer of divisions, imperishable, conqueror of death, inactive, and accepting nothing.[cite: 1]"
+  },
+  {
+    "id": 50,
+    "meaning": "She is incomparable, has dark blue hair, is free from danger, indestructible, difficult to attain, hard to reach, the Goddess Durga, destroyer of sorrow, and bestower of happiness.[cite: 1]"
+  },
+  {
+    "id": 51,
+    "meaning": "She is far from the wicked, destroyer of evil conduct, free from defects, omniscient, deeply compassionate, and has none equal or superior.[cite: 1]"
+  },
+  {
+    "id": 52,
+    "meaning": "She embodies all power, is all-auspicious, bestower of the right path, Sovereign of all, omnipresent, and the essence of all mantras.[cite: 1]"
+  },
+  {
+    "id": 53,
+    "meaning": "She is the soul of all yantras, the form of all tantras, the supreme mental state, the Great Sovereign, the Great Goddess, the Great Wealth, and the beloved of Lord Mrida.[cite: 1]"
+  },
+  {
+    "id": 54,
+    "meaning": "She is of immense form, highly venerable, destroyer of the greatest sins, the Great Illusion, the Great Reality, the Great Power, and the Great Delight.[cite: 1]"
+  },
+  {
+    "id": 55,
+    "meaning": "She is the Great Enjoyment, the Great Supremacy, the Great Valor, the Great Strength, the Great Intelligence, the Great Attainment, and Sovereign of the Lords of Yoga.[cite: 1]"
+  },
+  {
+    "id": 56,
+    "meaning": "She embodies the Great Tantra, the Great Mantra, the Great Yantra, sits on the Great Throne, is worshipped through the Great Sacrifice, and is adored by Maha Bhairava.[cite: 1]"
+  },
+  {
+    "id": 57,
+    "meaning": "She is the witness to Maheshwara's great cosmic dance, the Great Queen of Maha Kameshwara, and the Supreme Beautiful Goddess of the Three Cities.[cite: 1]"
+  },
+  {
+    "id": 58,
+    "meaning": "She is worshipped with sixty-four traditional offerings, embodies the sixty-four arts, and is served by hosts of sixty-four crore Yoginis.[cite: 1]"
+  },
+  {
+    "id": 59,
+    "meaning": "She embodies the knowledge of Manu and the Moon, dwells in the center of the lunar orb, is of beautiful form, has a lovely smile, and wears the beautiful crescent moon.[cite: 1]"
+  },
+  {
+    "id": 60,
+    "meaning": "She is the Sovereign of the moving and non-moving universe, dwells in the Chakraraja, is Goddess Parvati, lotus-eyed, and radiant like the Padmaraga ruby.[cite: 1]"
+  },
+  {
+    "id": 61,
+    "meaning": "She is seated on a throne of five corpses, embodies the five Brahmas, is full of consciousness, supreme bliss, and the dense embodiment of pure knowledge.[cite: 1]"
+  },
+  {
+    "id": 62,
+    "meaning": "She is the meditator, the meditation, and the object of meditation, beyond right and wrong, of universal form, the waking state, the dreaming state, and the soul of the dream state.[cite: 1]"
+  },
+  {
+    "id": 63,
+    "meaning": "She is the deep sleep state, the soul of deep sleep, the fourth state, beyond all states, the Creator in the form of Brahma, and the Protector in the form of Govinda.[cite: 1]"
+  },
+  {
+    "id": 64,
+    "meaning": "She is the Destroyer in the form of Rudra, the sovereign of concealment, the bestower of grace in the form of Sadashiva, and devoted to the five cosmic acts.[cite: 1]"
+  },
+  {
+    "id": 65,
+    "meaning": "She dwells in the center of the solar orb, is the fierce Bhairavi, wears a garland of prosperity, is seated on a lotus, the Supreme Goddess, and the sister of Padmanabha.[cite: 1]"
+  },
+  {
+    "id": 66,
+    "meaning": "She creates and dissolves universes with the opening and closing of her eyes, has a thousand heads and faces, a thousand eyes, and a thousand feet.[cite: 1]"
+  },
+  {
+    "id": 67,
+    "meaning": "She is the mother of all from Brahma to the smallest insect, establishes the Varnas and Ashramas, her commands form the Vedas, and she bestows the fruits of deeds.[cite: 1]"
+  },
+  {
+    "id": 68,
+    "meaning": "The dust of her lotus feet is the vermilion mark on the part-line of the Vedas, and she is the pearl found within the oyster shells of all scriptural texts.[cite: 1]"
+  },
+  {
+    "id": 69,
+    "meaning": "She bestows the four aims of life, is the Complete One, the Enjoyer, Sovereign of the Universe, the Divine Mother, without beginning or end, and served by Hari, Brahma, and Indra.[cite: 1]"
+  },
+  {
+    "id": 70,
+    "meaning": "She is Narayani, the form of sound, beyond name and form, the maker of 'Hrim', embodying 'Hrim', residing in the heart, and beyond what is to be accepted or rejected.[cite: 1]"
+  },
+  {
+    "id": 71,
+    "meaning": "She is worshipped by the King of Kings, the Queen, the Beautiful One, lotus-eyed, the Delighter, the Lovely One, the essence of taste, and wears a girdle of tinkling bells.[cite: 1]"
+  },
+  {
+    "id": 72,
+    "meaning": "She is Goddess Lakshmi, has a face like the full moon, is the form of Rati, beloved of Rati, the Protector, destroyer of demons, the beautiful woman, and fond of love play.[cite: 1]"
+  },
+  {
+    "id": 73,
+    "meaning": "She is the desired one, the form of the art of love, fond of Kadamba flowers, the Auspicious One, the root of the universe, and the ocean of the essence of compassion.[cite: 1]"
+  },
+  {
+    "id": 74,
+    "meaning": "She embodies all arts, is of artistic speech, the Beloved, fond of Kadambari wine, bestower of boons, beautiful-eyed, and intoxicated by Varuni wine.[cite: 1]"
+  },
+  {
+    "id": 75,
+    "meaning": "She transcends the universe, is known through the Vedas, resides in the Vindhya mountains, is the Creator, Mother of the Vedas, the illusion of Vishnu, and the playful one.[cite: 1]"
+  },
+  {
+    "id": 76,
+    "meaning": "She is the form of the field, sovereign of the field, protector of the field and its knower, free from decay and growth, and worshipped by the field's guardian.[cite: 1]"
+  },
+  {
+    "id": 77,
+    "meaning": "She is the Victorious One, the Pure One, worthy of worship, affectionate to her worshippers, the Goddess of Speech, the beautiful-haired one, residing in the orb of fire.[cite: 1]"
+  },
+  {
+    "id": 78,
+    "meaning": "She is the wish-fulfilling creeper for devotees, liberator from animalistic bonds, destroyer of all heretics, and initiator of righteous conduct.[cite: 1]"
+  },
+  {
+    "id": 79,
+    "meaning": "She is soothing moonlight for those scorched by misery, eternally youthful, worshipped by ascetics, slender-waisted, and the dispeller of ignorance.[cite: 1]"
+  },
+  {
+    "id": 80,
+    "meaning": "She is pure consciousness, the true meaning of 'Tat', the single essence of consciousness, and her fraction of bliss forms the bliss of Brahma and others.[cite: 1]"
+  },
+  {
+    "id": 81,
+    "meaning": "She is Supreme speech, inner consciousness, seeing speech, the Supreme Deity, middle speech, articulated speech, and the swan in the minds of devotees.[cite: 1]"
+  },
+  {
+    "id": 82,
+    "meaning": "She is the life-breath of Kameshwara, the grateful one, worshipped by Cupid, filled with romantic love, the Victorious One, residing in Jalandhara.[cite: 1]"
+  },
+  {
+    "id": 83,
+    "meaning": "She dwells in the Odyana Peetha, resides in the Bindu Mandala, is worshipped through secret sacrifices, and pleased by secret offerings.[cite: 1]"
+  },
+  {
+    "id": 84,
+    "meaning": "She is pleased instantly, the witness of the universe, devoid of any witness, accompanied by deities of the six limbs, and endowed with the six attributes.[cite: 1]"
+  },
+  {
+    "id": 85,
+    "meaning": "She is eternally compassionate, peerless, bestower of liberation's bliss, the Eternal One, embodying the sixteen-syllabled mantra, and sharing half of Shiva's body.[cite: 1]"
+  },
+  {
+    "id": 86,
+    "meaning": "She is endowed with effulgence, the form of effulgence, the Famous One, the Supreme Goddess, the unmanifest primal nature, and the form of both manifest and unmanifest.[cite: 1]"
+  },
+  {
+    "id": 87,
+    "meaning": "She is all-pervading, of diverse forms, the form of both knowledge and ignorance, and the moonlight that gladdens the lotus eyes of Maha Kameshwara.[cite: 1]"
+  },
+  {
+    "id": 88,
+    "meaning": "She is the sun whose rays dispel darkness in devotees' hearts, served by Shiva as messenger, worshipped by Shiva, the form of Shiva, and the maker of auspiciousness.[cite: 1]"
+  },
+  {
+    "id": 89,
+    "meaning": "She is beloved of Shiva, supreme to Shiva, loved by the righteous, worshipped by the righteous, immeasurable, self-luminous, and beyond the reach of mind and speech.[cite: 1]"
+  },
+  {
+    "id": 90,
+    "meaning": "She is the power of consciousness, the form of consciousness, the material power, the soul of the material universe, Gayatri, Vyahriti, Sandhya, and worshipped by the twice-born.[cite: 1]"
+  },
+  {
+    "id": 91,
+    "meaning": "She is seated on the ultimate truth, embodies the ultimate truth, resides within the five sheaths, is of boundless glory, eternally youthful, and radiant with divine bliss.[cite: 1]"
+  },
+  {
+    "id": 92,
+    "meaning": "Her eyes roll in divine intoxication, her cheeks are flushed with divine bliss, her limbs are smeared with sandalwood paste, and she is fond of Champaka flowers.[cite: 1]"
+  },
+  {
+    "id": 93,
+    "meaning": "She is the skillful one, of tender form, Goddess Kurukulla, Sovereign of the Kula, residing in the Kula Kunda, and worshipped by those on the Kaula path.[cite: 1]"
+  },
+  {
+    "id": 94,
+    "meaning": "She is the Mother of Kartikeya and Ganesha, Contentment, Nourishment, Intelligence, Steadfastness, Peace, the Auspicious One, Radiance, Delighter, and Destroyer of obstacles.[cite: 1]"
+  },
+  {
+    "id": 95,
+    "meaning": "She is full of radiance, three-eyed, with beautiful rolling eyes, takes any form at will, wears a garland, is the Swan, the Mother, and resides in the Malaya mountains.[cite: 1]"
+  },
+  {
+    "id": 96,
+    "meaning": "She has a beautiful face, is the Lotus, has beautiful eyebrows, the Radiant One, Sovereign of the gods, the blue-necked one, the luminous one, the agitator, and of subtle form.[cite: 1]"
+  },
+  {
+    "id": 97,
+    "meaning": "She is the Sovereign of the thunderbolt, the beautiful Goddess, devoid of the stages of age, Sovereign of the Siddhas, the knowledge of the Siddhas, Mother of the Siddhas, and the glorious one.[cite: 1]"
+  },
+  {
+    "id": 98,
+    "meaning": "She resides in the Vishuddhi chakra, is of rosy complexion, three-eyed, armed with weapons like the club, and endowed with a single face.[cite: 1]"
+  },
+  {
+    "id": 99,
+    "meaning": "She is fond of milk-porridge, resides in the skin, strikes terror in the ignorant, is surrounded by Maha Shaktis like Amrita, and is in the form of Dakineshwari.[cite: 1]"
+  },
+  {
+    "id": 100,
+    "meaning": "She resides in the Anahata lotus, is of dark radiant hue, has two faces, shining fangs, wears a rosary, and resides in the blood.[cite: 1]"
+  },
+  {
+    "id": 101,
+    "meaning": "She is surrounded by powers like Kalaratri, is fond of oily food, bestows boons to great warriors, and is in the form of Mother Rakini.[cite: 1]"
+  },
+  {
+    "id": 102,
+    "meaning": "She resides in the Manipura lotus, has three faces, is armed with the thunderbolt and other weapons, and is surrounded by Damari and other Shaktis.[cite: 1]"
+  },
+  {
+    "id": 103,
+    "meaning": "She is of red complexion, seated in the flesh, fond of jaggery rice, bestows happiness on all devotees, and is in the form of Mother Lakini.[cite: 1]"
+  },
+  {
+    "id": 104,
+    "meaning": "She dwells in the Swadhisthana lotus, enchants with four faces, is armed with a trident and other weapons, is of yellow complexion, and is immensely proud.[cite: 1]"
+  },
+  {
+    "id": 105,
+    "meaning": "She is seated in the fat, is fond of honey, surrounded by Bandini and other Shaktis, has her heart set on curd-rice, and is in the form of Goddess Kakini.[cite: 1]"
+  },
+  {
+    "id": 106,
+    "meaning": "She resides in the Muladhara lotus, has five faces, is seated in the bones, armed with a goad and other weapons, and is served by Varada and other Shaktis.[cite: 1]"
+  },
+  {
+    "id": 107,
+    "meaning": "Her mind is fond of green-gram rice, she is in the form of Mother Sakini; she resides in the Ajna chakra lotus, is of white complexion, and has six faces.[cite: 1]"
+  },
+  {
+    "id": 108,
+    "meaning": "She is seated in the marrow, accompanied by Hamsavati and other principal Shaktis, exclusively relishes turmeric-rice, and is in the form of Goddess Hakini.[cite: 1]"
+  },
+  {
+    "id": 109,
+    "meaning": "She is stationed in the thousand-petalled lotus, glows with all colors, holds all weapons, is stationed in the pure essence, and faces all directions.[cite: 1]"
+  },
+  {
+    "id": 110,
+    "meaning": "Her mind is fond of all food, she is in the form of Mother Yakini; she is Swaha, Swadha, non-intelligence, intellect, Shruti, Smriti, and the supreme one.[cite: 1]"
+  },
+  {
+    "id": 111,
+    "meaning": "She is of meritorious fame, attainable through merit, whose name is meritorious to hear, worshipped by Indra's wife, liberator from bonds, and has beautiful wavy hair.[cite: 1]"
+  },
+  {
+    "id": 112,
+    "meaning": "She is the form of reflective consciousness, pure knowledge, mother of the universe, healer of all diseases, and preventer of untimely deaths.[cite: 1]"
+  },
+  {
+    "id": 113,
+    "meaning": "She is foremost among everything, of inconceivable form, destroyer of the sins of Kali age, Katyayini, destroyer of time, and worshipped by Lord Vishnu.[cite: 1]"
+  },
+  {
+    "id": 114,
+    "meaning": "Her mouth is filled with betel leaves, she is radiant like the pomegranate flower, fawn-eyed, the Enchantress, the Principal One, consort of Mrida, and the form of a friend.[cite: 1]"
+  },
+  {
+    "id": 115,
+    "meaning": "She is eternally satisfied, the treasure-house of devotees, the controller, Sovereign of all, attainable through friendship, and witness to the great cosmic dissolution.[cite: 1]"
+  },
+  {
+    "id": 116,
+    "meaning": "She is the Supreme Power, the supreme state, the dense embodiment of pure wisdom, languid from Madhvi wine, divinely intoxicated, and embodies the alphabet.[cite: 1]"
+  },
+  {
+    "id": 117,
+    "meaning": "She resides in great Kailasa, has arms soft as lotus stalks, is the Venerable One, the embodiment of compassion, and sovereign of a vast empire.[cite: 1]"
+  },
+  {
+    "id": 118,
+    "meaning": "She embodies knowledge of the Self, great knowledge, Sri Vidya, is worshipped by Kama, the sixteen-syllabled mantra, the three-peaked one, and resides in Kamakoti.[cite: 1]"
+  },
+  {
+    "id": 119,
+    "meaning": "She is served by millions of Lakshmis, is situated in the head, radiant like the moon, and has a forehead shining like a rainbow.[cite: 1]"
+  },
+  {
+    "id": 120,
+    "meaning": "She is situated in the heart, radiant like the sun, the lamp within the triangle, daughter of Daksha, slayer of demons, and destroyer of Daksha's sacrifice.[cite: 1]"
+  },
+  {
+    "id": 121,
+    "meaning": "She has large darting eyes, a face radiant with a gentle smile, is the form of the Guru, the treasure of virtues, Mother of the Vedas, and mother of Kartikeya.[cite: 1]"
+  },
+  {
+    "id": 122,
+    "meaning": "She is Sovereign of the gods, establishing justice, the form of the ether of the heart, and is worshipped during the lunar phases.[cite: 1]"
+  },
+  {
+    "id": 123,
+    "meaning": "She is the soul of all arts, Sovereign of the arts, delights in poetry, and is served by Lakshmi and Saraswati on her left and right.[cite: 1]"
+  },
+  {
+    "id": 124,
+    "meaning": "She is the Primal Power, the immeasurable, the supreme soul, the Supreme One, of pure form, Mother of countless universes, and of divine form.[cite: 1]"
+  },
+  {
+    "id": 125,
+    "meaning": "She makes the sound 'Klim', is the absolute one, the secret one, bestower of ultimate liberation, Goddess Tripura, worshipped by the three worlds, the trinity, and sovereign of gods.[cite: 1]"
+  },
+  {
+    "id": 126,
+    "meaning": "She embodies the three syllables, is rich in divine fragrance, adorned with vermilion, is Uma, daughter of the mountain king, Gauri, and served by Gandharvas.[cite: 1]"
+  },
+  {
+    "id": 127,
+    "meaning": "She is the womb of the universe, the golden womb, bestower of boons, Sovereign of Speech, attainable through meditation, indivisible, bestower and embodiment of knowledge.[cite: 1]"
+  },
+  {
+    "id": 128,
+    "meaning": "She is known through the Vedantas, the form of truth and bliss, worshipped by Lopamudra, and creates the mandalas of the universe in playful sport.[cite: 1]"
+  },
+  {
+    "id": 129,
+    "meaning": "She is invisible, devoid of objective reality, the knower, free from being an object of knowledge, the Yogini, bestower of Yoga, fit for Yoga, the bliss of Yoga, and bearer of the eras.[cite: 1]"
+  },
+  {
+    "id": 130,
+    "meaning": "She embodies the powers of will, knowledge, and action, is the foundation of all, firmly established, and embodies both the real and the unreal.[cite: 1]"
+  },
+  {
+    "id": 131,
+    "meaning": "She embodies the eight forms, conqueror of the unborn, director of the worldly journey, the Solitary One, of earthly form, non-dual, and free from duality.[cite: 1]"
+  },
+  {
+    "id": 132,
+    "meaning": "She gives food and wealth, is the Ancient One, the unity of Brahman and Atman, the Great One, wife of Brahma, power of Brahma, bliss of Brahman, and fond of offerings.[cite: 1]"
+  },
+  {
+    "id": 133,
+    "meaning": "She is the form of language, has a vast army, is beyond existence and non-existence, easily worshipped, doer of auspiciousness, the beautiful one, and easily attainable.[cite: 1]"
+  },
+  {
+    "id": 134,
+    "meaning": "She is the supreme sovereign of kings, bestower of kingdoms, beloved of the kingdom, of shining compassion, and establishes her dependents on royal thrones.[cite: 1]"
+  },
+  {
+    "id": 135,
+    "meaning": "She is the wealth of the kingdom, sovereign of the treasury, commander of the four-fold army, bestower of empires, devoted to truth, and girdled by the oceans.[cite: 1]"
+  },
+  {
+    "id": 136,
+    "meaning": "She is the initiated one, pacifier of demons, mesmerizer of all worlds, bestower of all wealth, Savitri, and the form of existence, consciousness, and bliss.[cite: 1]"
+  },
+  {
+    "id": 137,
+    "meaning": "She is unbounded by space and time, all-pervading, enchantress of all, Saraswati, embodying the scriptures, Mother of Guha, and of secret form.[cite: 1]"
+  },
+  {
+    "id": 138,
+    "meaning": "She is free from all limitations, the devoted wife of Sadashiva, Sovereign of traditional knowledge, the Chaste One, and the form of the lineage of Gurus.[cite: 1]"
+  },
+  {
+    "id": 139,
+    "meaning": "She transcends the Kula, is worshipped by the Sun, Maya, sweet as honey, the Earth, Mother of Ganesha, secretly worshipped, of tender limbs, and beloved of the Guru.[cite: 1]"
+  },
+  {
+    "id": 140,
+    "meaning": "She is independent, Sovereign of all tantras, the form of Dakshinamurti, worshipped by Sanaka, and bestower of the knowledge of Shiva.[cite: 1]"
+  },
+  {
+    "id": 141,
+    "meaning": "She is the spark of consciousness, the bud of bliss, the form of love, doer of endearing deeds, fond of reciting her names, the knowledge of Nandi, and sovereign of dance.[cite: 1]"
+  },
+  {
+    "id": 142,
+    "meaning": "She is the substratum of the illusory universe, bestower and form of liberation, fond of the Lasya dance, cause of dissolution, modesty, and worshipped by Rambha.[cite: 1]"
+  },
+  {
+    "id": 143,
+    "meaning": "She is a shower of nectar on the fire of worldly existence, a wildfire to sins, a strong wind to misfortune, and the sun's radiance to the darkness of old age.[cite: 1]"
+  },
+  {
+    "id": 144,
+    "meaning": "She is moonlight expanding the ocean of fortune, a raincloud to the devotee's mind, a thunderbolt to diseases, and an axe to the tree of death.[cite: 1]"
+  },
+  {
+    "id": 145,
+    "meaning": "She is the Great Sovereign, Great Kali, Great Devourer, Great Eater, the leafless one (Aparna), Chandika, and slayer of the demons Chanda and Munda.[cite: 1]"
+  },
+  {
+    "id": 146,
+    "meaning": "She embodies the perishable and imperishable, Sovereign of all worlds, supporter of the universe, bestower of the three goals, the fortunate one, three-eyed, and embodying the three Gunas.[cite: 1]"
+  },
+  {
+    "id": 147,
+    "meaning": "She bestows heaven and liberation, is the Pure One, resembling the red hibiscus, full of vitality, possessing radiance, the form of sacrifice, and fond of vows.[cite: 1]"
+  },
+  {
+    "id": 148,
+    "meaning": "She is difficult to worship and conquer, fond of Patali flowers, the Great One, residing on Mount Meru, and fond of Mandara flowers.[cite: 1]"
+  },
+  {
+    "id": 149,
+    "meaning": "She is worshipped by heroes, of cosmic form, free from passion, facing all directions, the inner self, the supreme space, bestower of life, and the form of life breath.[cite: 1]"
+  },
+  {
+    "id": 150,
+    "meaning": "She is worshipped by Martanda Bhairava, entrusted the kingdom to Mantrini, Sovereign of Tripura, has a victorious army, and is beyond the three Gunas.[cite: 1]"
+  },
+  {
+    "id": 151,
+    "meaning": "She is the form of truth, knowledge, and bliss, devoted to perfect harmony, has matted hair, wears a garland of arts, grants all desires, and takes any form at will.[cite: 1]"
+  },
+  {
+    "id": 152,
+    "meaning": "She is the treasure of arts, the art of poetry, knower and treasure of aesthetic essence, the nourished one, the ancient one, worthy of worship, the lotus, and lotus-eyed.[cite: 1]"
+  },
+  {
+    "id": 153,
+    "meaning": "She is the supreme light, supreme abode, supreme atom, supreme of the supreme, holding a noose, destroyer of bonds, and piercer of the supreme mantra.[cite: 1]"
+  },
+  {
+    "id": 154,
+    "meaning": "She is with and without form, eternally satisfied, the swan in the minds of sages, devoted to truth, the form of truth, inner controller, and the chaste one.[cite: 1]"
+  },
+  {
+    "id": 155,
+    "meaning": "She is Goddess Brahmani, Mother of Brahma, of many forms, worshipped by the wise, Mother of all, whose commands are formidable, firmly established, and of manifest form.[cite: 1]"
+  },
+  {
+    "id": 156,
+    "meaning": "She is Sovereign of life breath, giver of life breath, embodying the fifty Shakti Peethas, free from chains, stationed in solitude, mother of heroes, and creator of space.[cite: 1]"
+  },
+  {
+    "id": 157,
+    "meaning": "She is bestower of liberation, abode of liberation, form of the original idol, knower of thoughts, destroyer of the disease of worldly existence, and turner of its wheel.[cite: 1]"
+  },
+  {
+    "id": 158,
+    "meaning": "She is the essence of meters, scriptures, and mantras, slender-waisted, of exalted fame, of unrestrained glory, and the form of the alphabet.[cite: 1]"
+  },
+  {
+    "id": 159,
+    "meaning": "She bestows rest to people tormented by birth, death, and old age, is proclaimed by all Upanishads, and is the soul of the art transcending peace.[cite: 1]"
+  },
+  {
+    "id": 160,
+    "meaning": "She is of profound depth, residing in the sky, proud, engrossed in music, free from imagination, the supreme limit, the Beloved, whose half body is Shiva.[cite: 1]"
+  },
+  {
+    "id": 161,
+    "meaning": "She is free from cause and effect, rippling with the sport of love, wearing glittering golden earrings, and assuming physical forms for divine sport.[cite: 1]"
+  },
+  {
+    "id": 162,
+    "meaning": "She is free from birth and decay, the charming one, granting boons instantly, worshipped by those looking inward, and difficult to attain for those looking outward.[cite: 1]"
+  },
+  {
+    "id": 163,
+    "meaning": "She is the threefold Vedas, abode of the three goals, existing in three places, Goddess Tripura Malini, free from disease, without support, reveling in the self, and showering nectar.[cite: 1]"
+  },
+  {
+    "id": 164,
+    "meaning": "She is the expert in lifting those drowning in worldly existence, fond of sacrifices, the performer of sacrifices, and the form of the patron of the sacrifice.[cite: 1]"
+  },
+  {
+    "id": 165,
+    "meaning": "She is the foundation of Dharma, controller of wealth, enhancer of wealth and grains, fond of the wise, in the form of the wise, and causing the universe to revolve.[cite: 1]"
+  },
+  {
+    "id": 166,
+    "meaning": "She is the devourer of the universe, radiant like coral, Goddess Vaishnavi, the form of Vishnu, without a source, the source of all, firmly established, and the form of the Kula.[cite: 1]"
+  },
+  {
+    "id": 167,
+    "meaning": "She is fond of the assembly of heroes, the Heroine, free from the bondage of actions, the form of primordial sound, creator of knowledge, healthy, skillful, and seated in the Bindu.[cite: 1]"
+  },
+  {
+    "id": 168,
+    "meaning": "She transcends categories, embodies the categories, is the form of the meaning of truth, fond of Sama chants, of gentle nature, and the wife of Sadashiva.[cite: 1]"
+  },
+  {
+    "id": 169,
+    "meaning": "She traverses the right and left paths, is the dispeller of all adversities, established in herself, sweet by nature, courageous, and worshipped by the courageous.[cite: 1]"
+  },
+  {
+    "id": 170,
+    "meaning": "She is worshipped with the offering of consciousness, fond of the flower of consciousness, ever-risen, eternally satisfied, and radiant like the rising sun.[cite: 1]"
+  },
+  {
+    "id": 171,
+    "meaning": "She is the southern path, worshipped facing south, with a gentle smile on her lotus face, the Kaulini, the absolute one, the priceless one, and bestower of ultimate liberation.[cite: 1]"
+  },
+  {
+    "id": 172,
+    "meaning": "She is fond of hymns, the thoughtful one, whose glory is praised by the Vedas, the intelligent one, the honorable one, the Great Sovereign, and of auspicious form.[cite: 1]"
+  },
+  {
+    "id": 173,
+    "meaning": "She is the Mother of the universe, supporter of the world, large-eyed, passionless, bold, supremely generous, supremely joyful, and the form of the mind.[cite: 1]"
+  },
+  {
+    "id": 174,
+    "meaning": "Her hair is the sky, she sits in celestial vehicles, wields the thunderbolt, is the Sovereign of the left path, fond of the five sacrifices, and reclines on five corpses.[cite: 1]"
+  },
+  {
+    "id": 175,
+    "meaning": "She is the fifth state, Sovereign of the five elements, worshipped with five-fold offerings, eternal, possessing eternal wealth, bestower of happiness, and enchantress of Shiva.[cite: 1]"
+  },
+  {
+    "id": 176,
+    "meaning": "She is the Earth, daughter of the mountain, fortunate, righteous, promoter of righteousness, transcending worlds and Gunas, and the essence of peace.[cite: 1]"
+  },
+  {
+    "id": 177,
+    "meaning": "She is radiant like the Bandhuka flower, the young girl, reveling in divine sport, highly auspicious, bestower of happiness, beautifully adorned, and an auspicious married woman.[cite: 1]"
+  },
+  {
+    "id": 178,
+    "meaning": "She is pleased by the worship of auspicious women, the radiant one, of pure mind, satisfied by the offering in the Bindu, the first-born, and Goddess Tripurambika.[cite: 1]"
+  },
+  {
+    "id": 179,
+    "meaning": "She is worshipped with the ten Mudras, Goddess Tripura, controlling prosperity, the Mudra of knowledge, attainable through knowledge, and the form of knower, knowledge, and known.[cite: 1]"
+  },
+  {
+    "id": 180,
+    "meaning": "She is the Yoni Mudra, Sovereign of the three segments, Mother of the three Gunas, residing in the triangle, of wondrous deeds, and bestower of desired goals.[cite: 1]"
+  },
+  {
+    "id": 181,
+    "meaning": "She is known through profound spiritual practice, the form transcending the six paths, embodiment of unconditional compassion, and lamp that dispels the darkness of ignorance.[cite: 1]"
+  },
+  {
+    "id": 182,
+    "meaning": "She is known even to children and cowherds, whose commands cannot be transgressed, residing in the royal Sri Chakra, and the glorious and beautiful Goddess of the Three Cities.[cite: 1]"
+  }
+]

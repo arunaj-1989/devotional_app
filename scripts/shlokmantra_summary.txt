@@ -1,0 +1,15 @@
+shlokmantra_malayalam.txt marker count 187 unique 183 max 183
+first markers [1, 2, 3, 4, 1, 2, 3, 4, 5, 6]
+last markers [174, 175, 176, 177, 178, 179, 180, 181, 182, 183]
+first snippet '\u0d36\u0d4d\u0d30\u0d40 \u0d32\u0d32\u0d3f\u0d24\u0d3e \u0d38\u0d39\u0d38\u0d4d\u0d30 \u0d28\u0d3e\u0d2e \u0d38\u0d4d\u0d24\u0d4b\u0d24\u0d4d\u0d30\u0d2e\u0d4d - Malayalam - \u0d35\u0d47\u0d26\u0d02 - \u0d26\u0d47\u0d35\u0d40 \u0d38\u0d4d\u0d24\u0d4b\u0d24\u0d4d\u0d30\u0d19\u0d4d\u0d19\u0d7e - \u0d36\u0d4d\u0d30\u0d40 \u0d15\u0d43\u0d37\u0d4d\u0d23 \u0d1c\u0d28\u0d4d\u0d2e\u0d3e\u0d37\u0d4d\u0d1f\u0d2e\u0d3f | ShlokMantra: A Library Of Vedas, Stotrams, & Devotional Literature | All Festivals | All Authors | All Deities | Favorite | MCQ | Blog | Wh'
+---
+shlokmantra_hindi.txt marker count 187 unique 183 max 183
+first markers [1, 2, 3, 4, 1, 2, 3, 4, 5, 6]
+last markers [174, 175, 176, 177, 178, 179, 180, 181, 182, 183]
+first snippet '\u0936\u094d\u0930\u0940 \u0932\u0932\u093f\u0924\u093e \u0938\u0939\u0938\u094d\u0930 \u0928\u093e\u092e \u0938\u094d\u0924\u094b\u0924\u094d\u0930\u092e\u094d - Hindi - \u0935\u0947\u0926 - \u0926\u0947\u0935\u0940 \u0938\u094d\u0924\u094b\u0924\u094d\u0930 - \u0936\u094d\u0930\u0940 \u0915\u0943\u0937\u094d\u0923 \u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940 | ShlokMantra: A Library Of Vedas, Stotrams, & Devotional Literature | All Festivals | All Authors | All Deities | Favorite | MCQ | Blog | WhatsApp Ch'
+---
+shlokmantra_english.txt marker count 187 unique 183 max 183
+first markers [1, 2, 3, 4, 1, 2, 3, 4, 5, 6]
+last markers [174, 175, 176, 177, 178, 179, 180, 181, 182, 183]
+first snippet 'Sree Lalitha Sahasra Nama Stotram - English - Vedam - Devi Stotrams - Sri Krishna Janmashtami | ShlokMantra: A Library Of Vedas, Stotrams, & Devotional Literature | All Festivals | All Authors | All Deities | Favorite | MCQ | Blog | W'
+---

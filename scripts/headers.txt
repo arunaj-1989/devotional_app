@@ -1,0 +1,34 @@
+h2: Nyāsaḥ
+0:table:'\n\n \nMūla sāhitya (original text) \nTranslation\n\n\n \n asya śrī lalitā sahasranāma stotra mālā mantrasya \n This is the prayer-garland mantra named śrī lalitā sahasranāma\n\n\n\n vaśinyādi vāgdevatā ṛṣayaḥ \n v'
+---
+h2: Dhyānam
+0:table:'\n\n\nMūla sāhitya (original text)\nTranslation\n\n\n\n sindūrāruṇa-vigrahāṃ trinayanāṃ māṇikyamauli-sphurat \n (She with) a vermilion-red coloured form, with three eyes, sporting a crown of rubies\n\n\n\ntārā-nāy'
+---
+h2: Stotram
+0:p:'atha śrī lalitā sahasranāma stotram\nom\n'
+1:p:'śrīmātā [N 1] śrīmahārājñī [N 2] śrīmat-siṃhāsaneśvarī [N 3]\ncidagni-kuṇḍa-sambhūtā [N 4] devakārya-samudyatā [N 5]\n'
+2:p:'udyadbhānu-sahasrābhā [N 6] caturbāhu-samanvitā [N 7]\nrāgasvarūpa-pāśāḍhyā [N 8] krodhākārāṅkuśojjvalā [N 9]\n'
+3:p:'manorūpekṣu-kodaṇḍā [N 10] pañcatanmātra-sāyakā [N 11]\nnijāruṇa-prabhāpūra-majjadbrahmāṇḍa-maṇḍalā [N 12]\n'
+4:p:'campakāśoka-punnāga-saugandhika-lasatkacā [N 13]\nkuruvindamaṇi-śreṇī-kanatkoṭīra-maṇḍitā [N 14]\n'
+5:p:'aṣṭamīcandra-vibhrāja-dalikasthala-śobhitā [N 15]\nmukhacandra-kalaṅkābha-mṛganābhi-viśeṣakā [N 16]\n'
+6:p:'vadanasmara-māṅgalya-gṛhatoraṇa-cillikā [N 17]\nvaktralakṣmī-parīvāha-calanmīnābha-locanā [N 18]\n'
+7:p:'navacampaka-puṣpābha-nāsādaṇḍa-virājitā [N 19]\ntārākānti-tiraskāri-nāsābharaṇa-bhāsurā [N 20]\n'
+8:p:'kadambamañjarī-kḷpta-karṇapūra-manoharā [N 21]\ntāṭaṅka-yugalī-bhūta-tapanoḍupa-maṇḍalā [N 22]\n'
+9:p:'padmarāga-śilādarśa-paribhāvi-kapolabhūḥ [N 23]\nnavavidruma-bimbaśrī-nyakkāri-radanacchadā[variation 1] [N 24]\n'
+10:p:'śuddha-vidyāṅkurākāra-dvijapaṅkti-dvayojjvalā [N 25]\nkarpūra-vīṭikāmoda-samākarṣi-digantarā [N 26]\n'
+11:p:'nija-sallāpa[variation 2]-mādhurya-vinirbhartsita-kacchapī [N 27]\nmandasmita-prabhāpūra-majjatkāmeśa-mānasā [N 28]\n'
+12:p:'anākalita-sādṛśya-cibukaśrī[variation 3]-virājitā [N 29]\nkāmeśa-baddha-māṅgalya-sūtra-śobhita-kandharā [N 30]\n'
+13:p:'kanakāṅgada-keyūra-kamanīya-bhujānvitā [N 31]\nratnagraiveya-cintāka-lola-muktā-phalānvitā [N 32]\n'
+14:p:'kāmeśvara-premaratna-maṇi-pratipaṇa-stanī [N 33]\nnābhyālavāla-romāli-latā-phala-kucadvayī [N 34]\n'
+15:p:'lakṣyaroma-latādhāratā-samunneya-madhyamā [N 35]\nstanabhāra-dalanmadhya-paṭṭabandha-valitrayā [N 36]\n'
+16:p:'aruṇāruṇa-kausumbha-vastra-bhāsvat-kaṭītaṭī [N 37]\nratna-kiṅkiṇikā-ramya-raśanā-dāma-bhūṣitā [N 38]\n'
+17:p:'kāmeśa-jñāta-saubhāgya-mārdavoru-dvayānvitā [N 39]\nmāṇikya-mukuṭākāra-jānudvaya-virājitā [N 40]\n'
+18:p:'indragopa-parikṣipta-smaratūṇābha-jaṅghikā [N 41]\ngūḍhagulphā [N 42] kūrmapṛṣṭha-jayiṣṇu-prapadānvitā [N 43]\n'
+19:p:'nakha-dīdhiti-saṃchanna-namajjana-tamoguṇā [N 44]\npadadvaya-prabhājāla-parākṛta-saroruhā [N 45]\n'
+---
+h2: Variations
+0:ol:'\n↑ or daśanacchadā\n\n↑ or nija-saṃlāpa\n\n↑ or cubukaśrī\n\n↑ or nissaṃśayā\n\n↑ 5.0 5.1 or catuḥ\n\n↑ or pākhaṇḍā\n\n↑ or nissīma\n\n↑ or vimodinī\n\n↑ or ajājetrī\n\n↑ or mārtaṇḍa\n\n↑ or sudhāsrutiḥ\n\n↑ or nirbhagna\n\n'
+---
+h2: Meanings
+0:ol:'\n↑ śrī mātā - Auspicious mother\n\n↑ śrī mahā rājñī - Divine empress\n\n↑ śrīmat siṃha-āsana īśvarī - Glorious mistress seated on the lion (or lion throne)\n\n↑ cid-agni-kuṇḍa sam-bhūtā - she who originated'
+---
