@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Request, Form, HTTPException
+from a2wsgi import ASGIMiddleware
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from starlette.middleware.sessions import SessionMiddleware
@@ -161,3 +162,6 @@ async def post_flashcard(request: Request, stotram_id: str, verse_id: int, direc
     
     # Redirect to the GET endpoint with the new ID and selected language
     return RedirectResponse(url=f"/stotram/{stotram_id}/flashcard/{new_id}?lang={new_lang}", status_code=303)
+
+# WSGI bridge for PythonAnywhere
+application = ASGIMiddleware(app)
