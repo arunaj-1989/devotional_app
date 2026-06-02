@@ -1,388 +1,262 @@
-/* Main background */
+/* --- Global Styles --- */
 body {
-    background-color: #FFFFFF !important;
-    color: #462A19;
+    background-color: #ffffff !important;
+    color: #1a1a1a;
     margin: 0;
     padding: 0;
-    font-family: 'Montserrat', sans-serif;
-    font-family: sans-serif;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    overflow-y: auto;
-    height: 100vh;
-    overflow: hidden;
 }
 
-/* Global Header */
 .app-header {
-    background-color: #462A19;
-    color: #F8F2E8;
-    padding: 20px 0;
+    background-color: #ffffff;
+    color: #1a1a1a;
+    padding: 25px 0;
     text-align: center;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid #eeeeee;
+    position: sticky;
+    top: 0;
+    z-index: 1100;
 }
 
 .app-header h1 {
     margin: 0;
-    font-family: serif;
-    font-weight: 400;
-    letter-spacing: 1.5px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 0.5px;
 }
 
-/* Main container for flashcard and controls */
-#flashcard-container {
+.app-footer {
+    padding: 20px 0;
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 0.8rem;
+    background-color: #ffffff;
+    border-top: 1px solid #eeeeee;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* --- Layout Containers --- */
+.home-content-wrapper {
+    flex: 1;
+    padding: 0 0 100px 0;
+    background-color: #ffffff;
+}
+
+.flashcard-page-container {
     flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
-    max-width: 100%;
-    width: 100%;
-    padding: 10px;
+    max-width: 800px;
+    width: 95%;
     margin: 0 auto;
-    padding-bottom: 75px; /* Add padding for fixed footer */
-    background: #FFFFFF;
-    position: relative;
-    box-sizing: border-box;
+    padding-bottom: 100px;
     overflow-y: auto;
 }
 
-/* Styling for the individual flashcard */
-.flashcard {
-    background: #FFFFFF;
-    border-radius: 24px;
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.03);
-    padding: 30px;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 4px; /* Increased flashcard size by reducing bottom margin */
-    margin-bottom: 11px; /* Increased flashcard size by reducing bottom margin */
-    box-sizing: border-box;
-    transition: all 0.3s ease; /* For hover effect */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    overflow-y: auto;
-}
-
-.flashcard:hover {
-    transform: translateY(-5px); /* Lift effect */
-    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.1); /* Enhanced shadow */
-}
-
-/* Verse ID inside card */
-.verse-id {
-    font-size: 0.9rem;
-    color: #B8860B;
-    font-weight: 700;
-    margin-bottom: 20px;
-    opacity: 0.6;
-}
-
-/* Top controls row */
-.controls-row {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid rgba(100, 65, 18, 0.1);
-}
-
-.home-link {
-    text-decoration: none;
-    font-size: 1.6rem;
-    cursor: pointer;
-}
-
-/* New styles for the language toggle */
-.language-toggle {
-    display: flex;
-    border: 1px solid #B8860B;
-    border-radius: 18px;
-    overflow: hidden;
-    background-color: #FFFFFF; /* White background */
-    width: fit-content; /* Make it fit content */
-}
-
-.language-toggle input[type="radio"] {
-    display: none; /* Hide the actual radio button */
-}
-
-.language-toggle label {
-    padding: 8px 15px;
-    cursor: pointer;
-    font-size: 1rem;
-    font-weight: 600;
-    color: #462A19;
-    transition: background-color 0.2s, color 0.2s;
-    user-select: none; /* Prevent text selection */
-    min-width: 30px; /* Ensure a minimum width for 'M' and 'S' */
+/* --- Homepage Wix Style --- */
+.hero-section {
     text-align: center;
+    padding: 100px 20px;
+    background: #1a1a1a;
+    color: #ffffff;
+    margin-bottom: 60px;
 }
 
-.language-toggle input[type="radio"]:checked + label {
-    background-color: #B8860B; /* Highlight active selection */
-    color: #FFFFFF;
-}
-
-.language-toggle label:first-of-type {
-    border-right: 1px solid #B8860B; /* Separator between M and S */
-}
-
-/* Adjustments for flashcard container to accommodate new toggle position */
-#flashcard-container {
-    /* ... existing styles ... */
-    padding-top: 10px; /* Adjust padding if needed after moving home-navigation */
-}
-
-/* Remove nav-button styles as they are no longer used */
-.nav-button, .nav-button:disabled {
-    display: none; /* Hide the buttons and their disabled state */
-}
-
-/* Adjust navigation-buttons container if it's empty now, or just for verse counter */
-.navigation-buttons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    width: 100%;
-    margin: 10px 0; /* Keep margin for verse counter */
-}
-
-/* Mobile responsive adjustments */
-@media (max-width: 700px) {
-    #flashcard-container { padding: 30px 20px; border-radius: 20px; }
-    .flashcard { padding: 20px; }
-    .script-text { font-size: clamp(1.2rem, 3.5vw, 1.8rem); }
-    .english-text { font-size: 0.95rem; }
-    .meaning-text { font-size: 0.9rem; padding-top: 15px; }
-    .language-form { flex-direction: row; gap: 0; margin-bottom: 20px; } /* Keep as row, remove gap */
-    .language-toggle label {
-        padding: 6px 12px; /* Smaller padding for mobile */
-        font-size: 0.9rem;
-    }
-    .home-navigation {
-        margin-bottom: 10px; /* Adjust margin for mobile */
-    }
-    .navigation-buttons { flex-wrap: nowrap; gap: 10px; }
-    .selection-grid { flex-direction: column; align-items: center; }
-    .verse-counter { font-size: 0.9rem; min-width: 60px; white-space: nowrap; }
-}
-/* Styling for the script text */
-.script-text {
-    color: #B8860B;
-    font-size: clamp(1.3rem, 5.5vw, 2.8rem);
-    font-weight: 700;
+.hero-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 8vw, 4.5rem);
     margin-bottom: 20px;
-    line-height: 1.5;
-    letter-spacing: 0.2px;
-    width: 100%;
-    white-space: pre-wrap;
-    text-align: center; /* Ensure text is centered */
-}
-
-/* Styling for the English transliteration */
-.english-text {
-    color: #3C1D1D;
-    font-size: clamp(1rem, 3vw, 1.4rem);
-    font-style: italic;
-    margin-bottom: 24px;
-    line-height: 1.6;
-    width: 100%;
-    white-space: pre-wrap;
-    text-align: center; /* Ensure text is centered */
-}
-
-/* Meaning text */
-.meaning-text {
-    color: #5A4337;
-    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
-    width: 100%;
-    margin-top: 10px;
-    border-top: 1px solid rgba(100, 65, 18, 0.15);
-    padding-top: 24px;
-    line-height: 1.6;
-    white-space: pre-wrap;
-    text-align: center; /* Ensure text is centered */
-}
-
-/* Language selection form elements */
-.language-form label {
-    font-weight: 600;
-    color: #462A19;
-    font-size: 1.1rem;
-}
-
-.language-form select {
-    padding: 8px 15px;
-    border-radius: 18px;
-    border: 1px solid #B8860B;
-    background-color: #FFFFFF;
-    color: #462A19;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    -webkit-appearance: none; /* Remove default arrow for better styling */
-    -moz-appearance: none;
-    appearance: none;
-    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23B8860B%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E');
-    background-repeat: no-repeat;
-    background-position: right 10px center;
-    background-size: 12px;
-    padding-right: 30px; /* Space for the custom arrow */
-}
-
-.language-form select:hover {
-    border-color: #7A4A1D;
-}
-
-/* Button styling */
-.nav-button {
-    background-color: #FFFFFF;
-    color: #7A4A1D;
-    border: 2px solid #B8860B;
-    border-radius: 24px;
-    padding: 10px 32px;
-    font-size: 1rem;
     font-weight: 700;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    min-width: 140px;
-    margin: 0 10px;
 }
 
-.nav-button:hover {
-    background-color: #B8860B;
-    color: #FFFFFF;
+.hero-subtitle {
+    font-size: 1.2rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #d4af37;
 }
 
-/* Navigation buttons container */
-.navigation-buttons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    width: 100%;
-    margin: 10px 0;
+.stotram-selection-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
-/* Verse counter */
-.verse-counter {
-    font-size: 0.95rem;
-    color: #5A4337;
-    font-weight: 600;
-    min-width: 60px;
-    opacity: 0.8;
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
-.nav-button:disabled {
-    background-color: #E0E0E0;
-    border-color: #C0C0C0;
-    color: #A0A0A0;
-    cursor: not-allowed;
-}
-
-/* Scalable Stotram Grid */
 .stotram-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 24px;
-    width: 100%;
-    margin-top: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 40px;
 }
 
 .stotram-card {
-    background: #FFFFFF;
-    border: 2px solid #B8860B;
-    border-radius: 24px;
-    padding: 30px;
-    transition: all 0.3s ease;
+    background: #ffffff;
+    padding: 40px;
+    border: 1px solid #eeeeee;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
     display: flex;
     flex-direction: column;
     align-items: center;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    text-align: center;
 }
 
 .stotram-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 30px rgba(184, 134, 11, 0.15);
-    border-color: #B8860B;
+    border-color: #d4af37;
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.05);
 }
 
-.stotram-icon { font-size: 3rem; margin-bottom: 15px; }
-.stotram-card h2 { margin: 0 0 10px 0; font-size: 1.4rem; color: #462A19; }
-.stotram-card p { font-size: 0.95rem; color: #5A4337; margin-bottom: 25px; line-height: 1.5; }
-
-.card-actions { display: flex; flex-direction: column; gap: 10px; width: 100%; }
-.lang-btn {
-    background: #F8F2E8;
-    color: #7A4A1D;
-    text-decoration: none;
-    padding: 12px;
-    border-radius: 14px;
-    font-weight: 700;
-    font-size: 0.9rem;
-    transition: background 0.2s;
-}
-.lang-btn:hover { background: #B8860B; color: #FFFFFF; }
-
-.selection-card:hover {
-    transform: translateY(-5px);
-    background-color: #B8860B;
-    color: #FFFFFF !important;
-    box-shadow: 0 12px 30px rgba(184, 134, 11, 0.2);
-}
-
-.selection-card .script-preview {
-    font-size: 1.4rem;
-    font-weight: 700;
-}
-
-.selection-card .plus {
-    font-size: 1.1rem;
-    margin: 5px 0;
-    opacity: 0.7;
-}
-
-/* Home Link in Flashcard */
-.home-navigation {
-    width: 100%;
-    text-align: left;
+.stotram-icon {
+    font-size: 3rem;
     margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid rgba(100, 65, 18, 0.1);
 }
 
-.change-lang-link {
-    text-decoration: none;
-    color: #B8860B;
-    font-weight: 600;
+.stotram-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    margin: 10px 0;
+}
+
+.stotram-card p {
     font-size: 0.95rem;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
 }
 
-/* Global Footer */
-.app-footer {
-    padding: 30px 0;
+.card-actions {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.lang-btn {
+    flex: 1;
+    padding: 12px 0;
+    border: 1px solid #1a1a1a;
+    text-decoration: none;
+    color: #1a1a1a;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+    background: #1a1a1a;
+    color: #ffffff;
+}
+
+/* --- Flashcard App View --- */
+.controls-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+.home-link {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: #1a1a1a;
+    transition: color 0.3s;
+}
+
+.home-link:hover { color: #d4af37; }
+
+.language-toggle {
+    display: flex;
+    background: #f4f4f4;
+    border-radius: 30px;
+    padding: 4px;
+}
+
+.language-toggle label {
+    padding: 6px 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+.language-toggle input[type="radio"]:checked + label {
+    background: #1a1a1a;
+    color: #ffffff;
+}
+
+.flashcard {
+    background: #ffffff;
+    border: 1px solid #eeeeee;
+    padding: 50px 30px;
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.02);
+}
+
+.verse-id {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    color: #d4af37;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.script-text {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.4rem, 6vw, 2.5rem);
+    line-height: 1.4;
+    margin-bottom: 25px;
     text-align: center;
-    color: #7A4A1D;
-    font-size: 0.85rem;
-    opacity: 0.7;
 }
 
-/* Mobile responsive adjustments */
-@media (max-width: 700px) {
-    #flashcard-container { padding: 30px 20px; border-radius: 20px; }
-    .flashcard { padding: 20px; }
-    .language-form { flex-direction: column; gap: 15px; }
-    .navigation-buttons { flex-wrap: nowrap; gap: 10px; }
-    .selection-grid { flex-direction: column; align-items: center; }
-    .nav-button { min-width: 100px; padding: 10px 5px; margin: 0; font-size: 0.85rem; }
-    .verse-counter { font-size: 0.9rem; min-width: 60px; white-space: nowrap; }
+.english-text {
+    font-size: clamp(1rem, 3vw, 1.2rem);
+    font-style: italic;
+    color: #666;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.meaning-text {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #333;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 30px;
+    text-align: center;
+    max-width: 600px;
+}
+
+@media (max-width: 600px) {
+    .hero-section { padding: 60px 20px; }
+    .stotram-card { padding: 30px 20px; }
+    .flashcard { padding: 40px 20px; }
 }
