@@ -100,6 +100,15 @@ def get_flashcard(stotram_id, verse_id):
     else:
         verse = verses[verse_id - 1]
 
+    if request.headers.get('Accept') == 'application/json':
+        return {
+            "verse": verse,
+            "current_id": verse_id,
+            "total_verses": count + 1,
+            "selected_language": lang,
+            "stotram_title": STOTRAMS_CONFIG[stotram_id]["title"]
+        }
+
     return render_template(
         "flashcard.html",
         verse=verse,

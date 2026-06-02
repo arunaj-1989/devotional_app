@@ -1,9 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sanatana Stotra Sangrahah - Devotional Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
@@ -11,28 +12,31 @@
         <h1>Sanatana Stotra Sangrahah</h1>
     </header>
 
-    <div id="flashcard-container">
-        <h1 style="margin-bottom: 10px; color: #462A19;">Devotional Library</h1>
-        <p style="margin-bottom: 40px; color: #5A4337; opacity: 0.8;">Select a stotram to begin your practice.</p>
+    <div class="home-content-wrapper">
+        <section class="hero-section">
+            <h1 class="hero-title">Discover Ancient Wisdom</h1>
+            <p class="hero-subtitle">Explore a curated collection of sacred stotrams with meanings and translations.</p>
+        </section>
         
-        <div class="stotram-grid">
-            {% for stotram in stotrams %}
-            <div class="stotram-card">
-                <div class="stotram-icon">{{ stotram.icon }}</div>
-                <h2>{{ stotram.title }}</h2>
-                <p>{{ stotram.description }}</p>
-                
-                <div class="card-actions">
-                    <a href="/stotram/{{ stotram.id }}/flashcard/0?lang=sanskrit" class="lang-btn">Sanskrit + Eng</a>
-                    <a href="/stotram/{{ stotram.id }}/flashcard/0?lang=malayalam" class="lang-btn">Malayalam + Eng</a>
+        <section class="stotram-selection-section">
+            <h2 class="section-title">Our Devotional Library</h2>
+            <p class="section-description">Select a stotram to begin your daily practice.</p>
+            
+            <div class="stotram-grid">
+                {% for stotram in stotrams %}
+                <div class="stotram-card">
+                    <div class="stotram-icon">{{ stotram.icon }}</div>
+                    <h2>{{ stotram.title }}</h2>
+                    <p>{{ stotram.description }}</p>
+                    
+                    <div class="card-actions">
+                        <a href="/stotram/{{ stotram.id }}/flashcard/0?lang=sanskrit" class="lang-btn">Sanskrit + Eng</a>
+                        <a href="/stotram/{{ stotram.id }}/flashcard/0?lang=malayalam" class="lang-btn">Malayalam + Eng</a>
+                    </div>
                 </div>
+                {% endfor %}
             </div>
-            {% endfor %}
-        </div>
+        </section>
     </div>
-
-    <footer class="app-footer">
-        <p>© 2024 Sanatana Stotra Sangrahah • Author: Arunaj • May all be blessed.</p>
-    </footer>
+    <footer class="app-footer"></footer>
 </body>
-</html>
