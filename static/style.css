@@ -202,6 +202,10 @@ body {
     background: #ffffff;
 }
 
+.language-toggle input[type="radio"] {
+    display: none;
+}
+
 .language-toggle label {
     padding: 8px 18px;
     font-size: 0.7rem;
