@@ -177,28 +177,39 @@ body {
 }
 
 .home-link {
-    font-size: 1.4rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
     text-decoration: none;
     color: #1a1a1a;
-    transition: color 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s ease;
 }
 
-.home-link:hover { color: #d4af37; }
+.home-link:hover { 
+    color: #d4af37;
+    transform: translateX(-3px);
+}
+
+.nav-arrow { font-size: 1rem; }
 
 .language-toggle {
     display: flex;
-    background: #f4f4f4;
-    border-radius: 30px;
-    padding: 4px;
+    border: 1px solid #eeeeee;
+    background: #ffffff;
 }
 
 .language-toggle label {
-    padding: 6px 20px;
-    font-size: 0.8rem;
-    font-weight: 700;
+    padding: 8px 18px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     cursor: pointer;
-    border-radius: 20px;
-    transition: all 0.3s;
+    transition: all 0.3s ease;
 }
 
 .language-toggle input[type="radio"]:checked + label {
