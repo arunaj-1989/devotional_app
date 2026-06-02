@@ -23,7 +23,10 @@
         </div>
 
         <div class="flashcard">
-            <div class="verse-id">#{{ current_id }}</div>
+            <div class="card-header">
+                <div class="verse-id">#{{ current_id }}</div>
+                <button class="listen-btn" onclick="speakText()" title="Listen to Sanskrit">🔊</button>
+            </div>
             <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
             <div class="english-text">{{ verse.english }}</div>
             <div class="meaning-text">{{ verse.meaning }}</div>
@@ -41,14 +44,36 @@
         let currentId = {{ current_id }};
         const totalVerses = {{ total_verses }};
         let lang = "{{ selected_language }}";
+        let currentSanskrit = {{ verse.sanskrit | tojson }};
+        let selectedVoice = null;
+
+        function setupSpeechVoice() {
+            if ('speechSynthesis' in window) {
+                const voices = window.speechSynthesis.getVoices();
+                // Prioritize Sanskrit (sa-), then Marathi (mr-), then Hindi (hi-)
+                selectedVoice = voices.find(v => v.lang.toLowerCase().startsWith('sa-')) ||
+                                voices.find(v => v.lang.toLowerCase().startsWith('mr-')) ||
+                                voices.find(v => v.lang.toLowerCase().startsWith('hi-'));
+            }
+        }
+
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.onvoiceschanged = setupSpeechVoice;
+            setupSpeechVoice();
+        }
 
         async function fetchVerse(vid) {
+            // Stop any ongoing speech when navigating away from the current content
+            if ('speechSynthesis' in window) {
+                window.speechSynthesis.cancel();
+            }
             const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}`;
             try {
                 const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
                 const data = await response.json();
                 
                 currentId = data.current_id;
+                currentSanskrit = data.verse.sanskrit;
                 
                 // Update text content
                 document.querySelector('.verse-id').textContent = `#${data.current_id}`;
@@ -61,6 +86,38 @@
             } catch (error) {
                 console.error("Failed to fetch verse:", error);
             }
+        }
+
+        function speakText() {
+            if (!('speechSynthesis' in window)) {
+                alert("Text-to-speech is not supported in your browser.");
+                return;
+            }
+
+            // Chrome bug fix: explicitly resume the engine and clear any existing queue
+            window.speechSynthesis.resume();
+            window.speechSynthesis.cancel();
+
+            if (!currentSanskrit) return;
+
+            // Clean text: replace Dandams with commas to create natural breathing pauses
+            const textToSpeak = currentSanskrit.replace(/[।॥]/g, ',');
+            const utterance = new SpeechSynthesisUtterance(textToSpeak);
+
+            if (selectedVoice) {
+                utterance.voice = selectedVoice;
+                utterance.lang = selectedVoice.lang;
+            } else {
+                utterance.lang = 'sa-IN';
+            }
+
+            utterance.rate = 0.8; // Slightly slower for meditative clarity
+            utterance.pitch = 1;
+
+            // 100ms delay ensures the cancel command is processed by hardware
+            setTimeout(() => {
+                window.speechSynthesis.speak(utterance);
+            }, 100);
         }
 
         function setLanguage(newLang) {
