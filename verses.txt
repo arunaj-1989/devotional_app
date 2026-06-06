@@ -4,1273 +4,1478 @@
     "malayalam": "ശ്രീമാതാ, ശ്രീമഹാരാജ്ഞീ, ശ്രീമത്-സിംഹാസനേശ്വരീ । || ചിദഗ്നി-കുംഡ-സംഭൂതാ, ദേവകാര്യ-സമുദ്യതാ",
     "sanskrit": "श्रीमाता, श्रीमहाराज्ञी, श्रीमत्-सिंहासनेश्वरी । || चिदग्नि-कुंड-संभूता, देवकार्य-समुद्यता",
     "english": "śrīmātā, śrīmahārājñī, śrīmat-siṃhāsanēśvarī । || chidagni-kuṇḍa-sambhūtā, dēvakārya-samudyatā",
-    "meaning": "The Auspicious Mother, the Supreme Empress, the Sovereign of the Lion Throne, who emerged from the fire of pure consciousness, and is intent on accomplishing divine tasks.[cite: 1]"
+    "meaning": "The Auspicious Mother, the Supreme Empress, the Sovereign of the Lion Throne, who emerged from the fire of pure consciousness, and is intent on accomplishing divine tasks.[cite: 1]",
+    "start_time": 153,
+    "end_time": 168
   },
   {
     "id": 2,
     "malayalam": "ഉദ്യദ്ഭാനു-സഹസ്രാഭാ, ചതുര്ബാഹു-സമന്വിതാ । || രാഗസ്വരൂപ-പാശാഢ്യാ, ക്രോധാകാരാംകുശോജ്ജ്വലാ",
     "sanskrit": "उद्यद्भानु-सहस्राभा, चतुर्बाहु-समन्विता । || रागस्वरूप-पाशाढ्या, क्रोधाकारांकुशोज्ज्वला",
     "english": "udyadbhānu-sahasrābhā, chaturbāhu-samanvitā । || rāgasvarūpa-pāśāḍhyā, krōdhākārāṅkuśōjjvalā",
-    "meaning": "She shines like a thousand rising suns, is endowed with four arms, holds the noose of attachment, and shines with the goad of anger.[cite: 1]"
+    "meaning": "She shines like a thousand rising suns, is endowed with four arms, holds the noose of attachment, and shines with the goad of anger.[cite: 1]",
+    "start_time": 167,
+    "end_time": 180
   },
   {
     "id": 3,
     "malayalam": "മനോരൂപേക്ഷു-കോദംഡാ, പംചതന്മാത്ര-സായകാ । || നിജാരുണ പ്രഭാപൂര മജ്ജദ്-ബ്രഹ്മാംഡമംഡലാ",
     "sanskrit": "मनोरूपेक्षु-कोदंडा, पंचतन्मात्र-सायका । || निजारुण प्रभापूर मज्जद्-ब्रह्मांडमंडला",
     "english": "manōrūpēkṣu-kōdaṇḍā, pañchatanmātra-sāyakā । || nijāruṇa prabhāpūra majjad-brahmāṇḍamaṇḍalā",
-    "meaning": "She holds the sugarcane bow of the mind and five arrows of the senses, immersing the universe in her rosy dawn-like radiance.[cite: 1]"
+    "meaning": "She holds the sugarcane bow of the mind and five arrows of the senses, immersing the universe in her rosy dawn-like radiance.[cite: 1]",
+    "start_time": 180,
+    "end_time": 193
   },
   {
     "id": 4,
     "malayalam": "ചംപകാശോക പുന്നാഗ സൌഗംധിക ലസത്കചാ || കുരുവിംദ മണിശ്രേണീ കനത്കോടീര മംഡിതാ",
     "sanskrit": "चंपकाशोक पुन्नाग सौगंधिक लसत्कचा || कुरुविंद मणिश्रेणी कनत्कोटीर मंडिता",
     "english": "champakāśōka punnāga saugandhika lasatkachā || kuruvinda maṇiśrēṇī kanatkōṭīra maṇḍitā",
-    "meaning": "Her hair is adorned with Champaka, Ashoka, Punnaga, and Saugandhika flowers, and she wears a glittering crown of Kuruvinda gems.[cite: 1]"
+    "meaning": "Her hair is adorned with Champaka, Ashoka, Punnaga, and Saugandhika flowers, and she wears a glittering crown of Kuruvinda gems.[cite: 1]",
+    "start_time": 193,
+    "end_time": 205
   },
   {
     "id": 5,
     "malayalam": "അഷ്ടമീ ചംദ്ര വിഭ്രാജ ദളികസ്ഥല ശോഭിതാ । || മുഖചംദ്ര കളംകാഭ മൃഗനാഭി വിശേഷകാ",
     "sanskrit": "अष्टमी चंद्र विभ्राज दलिकस्थल शोभिता । || मुखचंद्र कलंकाभ मृगनाभि विशेषका",
     "english": "aṣṭamī chandra vibhrāja daḻikasthala śōbhitā । || mukhachandra kaḻaṅkābha mṛganābhi viśēṣakā",
-    "meaning": "Her forehead shines like the eighth-day moon, and she wears a musk mark resembling the spot on the moon.[cite: 1]"
+    "meaning": "Her forehead shines like the eighth-day moon, and she wears a musk mark resembling the spot on the moon.[cite: 1]",
+    "start_time": 204,
+    "end_time": 216
   },
   {
     "id": 6,
     "malayalam": "വദനസ്മര മാംഗല്യ ഗൃഹതോരണ ചില്ലികാ । || വക്ത്രലക്ഷ്മീ പരീവാഹ ചലന്മീനാഭ ലോചനാ",
     "sanskrit": "वदनस्मर मांगल्य गृहतोरण चिल्लिका । || वक्त्रलक्ष्मी परीवाह चलन्मीनाभ लोचना",
     "english": "vadanasmara māṅgalya gṛhatōraṇa chillikā । || vaktralakṣmī parīvāha chalanmīnābha lōchanā",
-    "meaning": "Her eyebrows resemble auspicious arches to Cupid's abode, and her eyes dart like fish in the overflow of her facial beauty.[cite: 1]"
+    "meaning": "Her eyebrows resemble auspicious arches to Cupid's abode, and her eyes dart like fish in the overflow of her facial beauty.[cite: 1]",
+    "start_time": 215,
+    "end_time": 227
   },
   {
     "id": 7,
     "malayalam": "നവചംപക പുഷ്പാഭ നാസാദംഡ വിരാജിതാ । || താരാകാംതി തിരസ്കാരി നാസാഭരണ ഭാസുരാ",
     "sanskrit": "नवचंपक पुष्पाभ नासादंड विराजिता । || ताराकांति तिरस्कारि नासाभरण भासुरा",
     "english": "navachampaka puṣpābha nāsādaṇḍa virājitā । || tārākānti tiraskāri nāsābharaṇa bhāsurā",
-    "meaning": "Her nose shines like a newly blossomed Champaka flower, and she wears a nose-ring that outshines the stars.[cite: 1]"
+    "meaning": "Her nose shines like a newly blossomed Champaka flower, and she wears a nose-ring that outshines the stars.[cite: 1]",
+    "start_time": 226,
+    "end_time": 239
   },
   {
     "id": 8,
     "malayalam": "കദംബ മംജരീകൢപ്ത കര്ണപൂര മനോഹരാ । || താടംക യുഗളീഭൂത തപനോഡുപ മംഡലാ",
     "sanskrit": "कदंब मंजरीकॢप्त कर्णपूर मनोहरा । || ताटंक युगलीभूत तपनोडुप मंडला",
     "english": "kadamba mañjarīkL​ipta karṇapūra manōharā । || tāṭaṅka yugaḻībhūta tapanōḍupa maṇḍalā",
-    "meaning": "Her ears are beautifully adorned with Kadamba blossoms, and she wears the sun and moon as her twin earrings.[cite: 1]"
+    "meaning": "Her ears are beautifully adorned with Kadamba blossoms, and she wears the sun and moon as her twin earrings.[cite: 1]",
+    "start_time": 238,
+    "end_time": 250
   },
   {
     "id": 9,
     "malayalam": "പദ്മരാഗ ശിലാദര്ശ പരിഭാവി കപോലഭൂഃ । || നവവിദ്രുമ ബിംബശ്രീഃ ന്യക്കാരി രദനച്ഛദാ",
     "sanskrit": "पद्मराग शिलादर्श परिभावि कपोलभूः । || नवविद्रुम बिंबश्रीः न्यक्कारि रदनच्छदा",
     "english": "padmarāga śilādarśa paribhāvi kapōlabhūḥ । || navavidruma bimbaśrīḥ nyakkāri radanachChadā",
-    "meaning": "Her cheeks outshine mirrors made of Padmaraga gems, and her lips put to shame the redness of fresh coral.[cite: 1]"
+    "meaning": "Her cheeks outshine mirrors made of Padmaraga gems, and her lips put to shame the redness of fresh coral.[cite: 1]",
+    "start_time": 249,
+    "end_time": 261
   },
   {
     "id": 10,
     "malayalam": "ശുദ്ധ വിദ്യാംകുരാകാര ദ്വിജപംക്തി ദ്വയോജ്ജ്വലാ । || കര്പൂരവീടി കാമോദ സമാകര്ഷദ്ദിഗംതരാ",
     "sanskrit": "शुद्ध विद्यांकुराकार द्विजपंक्ति द्वयोज्ज्वला । || कर्पूरवीटि कामोद समाकर्षद्दिगंतरा",
     "english": "śuddha vidyāṅkurākāra dvijapaṅkti dvayōjjvalā । || karpūravīṭi kāmōda samākarṣaddigantarā",
-    "meaning": "Her teeth shine like two rows of the sprouts of pure knowledge, filling all directions with the fragrance of her camphor-laced betel.[cite: 1]"
+    "meaning": "Her teeth shine like two rows of the sprouts of pure knowledge, filling all directions with the fragrance of her camphor-laced betel.[cite: 1]",
+    "start_time": 261,
+    "end_time": 274
   },
   {
     "id": 11,
     "malayalam": "നിജസല്ലാപ മാധുര്യ വിനിര്ഭത്സിത കച്ഛപീ । || മംദസ്മിത പ്രഭാപൂര മജ്ജത്-കാമേശ മാനസാ",
     "sanskrit": "निजसल्लाप माधुर्य विनिर्भत्सित कच्छपी । || मंदस्मित प्रभापूर मज्जत्-कामेश मानसा",
     "english": "nijasallāpa mādhurya vinirbhatsita kachChapī । || mandasmita prabhāpūra majjat-kāmēśa mānasā",
-    "meaning": "Her voice is sweeter than the notes of Saraswati's Kachchapi veena, and her sweet smile immerses the mind of Lord Kameshwara.[cite: 1]"
+    "meaning": "Her voice is sweeter than the notes of Saraswati's Kachchapi veena, and her sweet smile immerses the mind of Lord Kameshwara.[cite: 1]",
+    "start_time": 273,
+    "end_time": 285
   },
   {
     "id": 12,
     "malayalam": "അനാകലിത സാദൃശ്യ ചുബുക ശ്രീ വിരാജിതാ । || കാമേശബദ്ധ മാംഗല്യ സൂത്രശോഭിത കംഥരാ",
     "sanskrit": "अनाकलित सादृश्य चुबुक श्री विराजिता । || कामेशबद्ध मांगल्य सूत्रशोभित कंथरा",
     "english": "anākalita sādṛśya chubuka śrī virājitā । || kāmēśabaddha māṅgalya sūtraśōbhita kantharā",
-    "meaning": "She is adorned with a matchlessly beautiful chin, and wears the sacred thread tied by Lord Kameshwara around her neck.[cite: 1]"
+    "meaning": "She is adorned with a matchlessly beautiful chin, and wears the sacred thread tied by Lord Kameshwara around her neck.[cite: 1]",
+    "start_time": 285.5,
+    "end_time": 298
   },
   {
     "id": 13,
     "malayalam": "കനകാംഗദ കേയൂര കമനീയ ഭുജാന്വിതാ । || രത്നഗ്രൈവേയ ചിംതാക ലോലമുക്താ ഫലാന്വിതാ",
     "sanskrit": "कनकांगद केयूर कमनीय भुजान्विता । || रत्नग्रैवेय चिंताक लोलमुक्ता फलान्विता",
     "english": "kanakāṅgada kēyūra kamanīya bhujānvitā । || ratnagraivēya chintāka lōlamuktā phalānvitā",
-    "meaning": "Her arms are adorned with beautiful golden armlets and bracelets, and she wears a gem-studded necklace with a dangling pearl pendant.[cite: 1]"
+    "meaning": "Her arms are adorned with beautiful golden armlets and bracelets, and she wears a gem-studded necklace with a dangling pearl pendant.[cite: 1]",
+    "start_time": 297,
+    "end_time": 310.7
   },
   {
     "id": 14,
     "malayalam": "കാമേശ്വര പ്രേമരത്ന മണി പ്രതിപണസ്തനീ। || നാഭ്യാലവാല രോമാളി ലതാഫല കുചദ്വയീ",
     "sanskrit": "कामेश्वर प्रेमरत्न मणि प्रतिपणस्तनी। || नाभ्यालवाल रोमालि लताफल कुचद्वयी",
     "english": "kāmēśvara prēmaratna maṇi pratipaṇastanī। || nābhyālavāla rōmāḻi latāphala kuchadvayī",
-    "meaning": "Her breasts are offered as the price for the jewel of Kameshwara's love, resembling fruits on the creeper of her abdominal hair rising from her navel.[cite: 1]"
+    "meaning": "Her breasts are offered as the price for the jewel of Kameshwara's love, resembling fruits on the creeper of her abdominal hair rising from her navel.[cite: 1]",
+    "start_time": 310,
+    "end_time": 322.7
   },
   {
     "id": 15,
     "malayalam": "ലക്ഷ്യരോമലതാ ധാരതാ സമുന്നേയ മധ്യമാ । || സ്തനഭാര ദളന്-മധ്യ പട്ടബംധ വളിത്രയാ",
     "sanskrit": "लक्ष्यरोमलता धारता समुन्नेय मध्यमा । || स्तनभार दलन्-मध्य पट्टबंध वलित्रया",
     "english": "lakṣyarōmalatā dhāratā samunnēya madhyamā । || stanabhāra daḻan-madhya paṭṭabandha vaḻitrayā",
-    "meaning": "Her waist is inferred only by the creeper of hair, bearing three folds bound like a belt beneath the weight of her heavy breasts.[cite: 1]"
+    "meaning": "Her waist is inferred only by the creeper of hair, bearing three folds bound like a belt beneath the weight of her heavy breasts.[cite: 1]",
+    "start_time": 322,
+    "end_time": 334
   },
   {
     "id": 16,
     "malayalam": "അരുണാരുണ കൌസുംഭ വസ്ത്ര ഭാസ്വത്-കടീതടീ । || രത്നകിംകിണി കാരമ്യ രശനാദാമ ഭൂഷിതാ",
     "sanskrit": "अरुणारुण कौसुंभ वस्त्र भास्वत्-कटीतटी । || रत्नकिंकिणि कारम्य रशनादाम भूषिता",
     "english": "aruṇāruṇa kausumbha vastra bhāsvat-kaṭītaṭī । || ratnakiṅkiṇi kāramya raśanādāma bhūṣitā",
-    "meaning": "She wears a radiant, deep red silken garment over her hips, adorned with a beautiful gem-studded waistband with tinkling bells.[cite: 1]"
+    "meaning": "She wears a radiant, deep red silken garment over her hips, adorned with a beautiful gem-studded waistband with tinkling bells.[cite: 1]",
+    "start_time": 333.5,
+    "end_time": 346
   },
   {
     "id": 17,
     "malayalam": "കാമേശ ജ്ഞാത സൌഭാഗ്യ മാര്ദവോരു ദ്വയാന്വിതാ । || മാണിക്യ മകുടാകാര ജാനുദ്വയ വിരാജിതാ",
     "sanskrit": "कामेश ज्ञात सौभाग्य मार्दवोरु द्वयान्विता । || माणिक्य मकुटाकार जानुद्वय विराजिता",
     "english": "kāmēśa jñāta saubhāgya mārdavōru dvayānvitā । || māṇikya makuṭākāra jānudvaya virājitā",
-    "meaning": "Her thighs, of tender beauty known only to her Lord Kameshwara, are adorned with knee-joints resembling jeweled crowns.[cite: 1]"
+    "meaning": "Her thighs, of tender beauty known only to her Lord Kameshwara, are adorned with knee-joints resembling jeweled crowns.[cite: 1]",
+    "start_time": 345.5,
+    "end_time": 359.5
   },
   {
     "id": 18,
     "malayalam": "ഇംദ്രഗോപ പരിക്ഷിപ്ത സ്മര തൂണാഭ ജംഘികാ । || ഗൂഢഗുല്ഭാ കൂര്മപൃഷ്ഠ ജയിഷ്ണു പ്രപദാന്വിതാ",
     "sanskrit": "इंद्रगोप परिक्षिप्त स्मर तूणाभ जंघिका । || गूढगुल्भा कूर्मपृष्ठ जयिष्णु प्रपदान्विता",
     "english": "indragōpa parikṣipta smara tūṇābha jaṅghikā । || gūḍhagulbhā kūrmapṛṣṭha jayiṣṇu prapadānvitā",
-    "meaning": "Her calves resemble Cupid's arrow-quivers covered with Indragopa insects, having hidden ankles and insteps arching like tortoise shells.[cite: 1]"
+    "meaning": "Her calves resemble Cupid's arrow-quivers covered with Indragopa insects, having hidden ankles and insteps arching like tortoise shells.[cite: 1]",
+    "start_time": 359,
+    "end_time": 371.7
   },
   {
     "id": 19,
     "malayalam": "നഖദീധിതി സംഛന്ന നമജ്ജന തമോഗുണാ । || പദദ്വയ പ്രഭാജാല പരാകൃത സരോരുഹാ",
     "sanskrit": "नखदीधिति संछन्न नमज्जन तमोगुणा । || पदद्वय प्रभाजाल पराकृत सरोरुहा",
     "english": "nakhadīdhiti sañChanna namajjana tamōguṇā । || padadvaya prabhājāla parākṛta sarōruhā",
-    "meaning": "She dispels the darkness of ignorance with the brilliant rays of her toenails, and her feet defeat the beauty of lotuses.[cite: 1]"
+    "meaning": "She dispels the darkness of ignorance with the brilliant rays of her toenails, and her feet defeat the beauty of lotuses.[cite: 1]",
+    "start_time": 371,
+    "end_time": 383
   },
   {
     "id": 20,
     "malayalam": "ശിംജാന മണിമംജീര മംഡിത ശ്രീ പദാംബുജാ । || മരാളീ മംദഗമനാ, മഹാലാവണ്യ ശേവധിഃ",
     "sanskrit": "शिंजान मणिमंजीर मंडित श्री पदांबुजा । || मराली मंदगमना, महालावण्य शेवधिः",
     "english": "śiñjāna maṇimañjīra maṇḍita śrī padāmbujā । || marāḻī mandagamanā, mahālāvaṇya śēvadhiḥ",
-    "meaning": "Her lotus-feet are adorned with tinkling gem-studded anklets; she walks slowly like a swan and is the ultimate treasure of immense beauty.[cite: 1]"
+    "meaning": "Her lotus-feet are adorned with tinkling gem-studded anklets; she walks slowly like a swan and is the ultimate treasure of immense beauty.[cite: 1]",
+    "start_time": 381.7,
+    "end_time": 395
   },
   {
     "id": 21,
     "malayalam": "സർവാരുണാഽനവദ്യാംഗീ സർവാഭരണ ഭൂഷിതാ । || ശിവകാമേശ്വരാംകസ്ഥാ, ശിവാ, സ്വാധീന വല്ലഭാ",
     "sanskrit": "सर्वारुणाऽनवद्यांगी सर्वाभरण भूषिता । || शिवकामेश्वरांकस्था, शिवा, स्वाधीन वल्लभा",
     "english": "sarvāruṇā'navadyāṅgī sarvābharaṇa bhūṣitā । || śivakāmēśvarāṅkasthā, śivā, svādhīna vallabhā",
-    "meaning": "She is entirely rosy-hued with flawless limbs, adorned with all ornaments, seated on the lap of Shiva-Kameshwara, the auspicious one whose husband obeys her.[cite: 1]"
+    "meaning": "She is entirely rosy-hued with flawless limbs, adorned with all ornaments, seated on the lap of Shiva-Kameshwara, the auspicious one whose husband obeys her.[cite: 1]",
+    "start_time": 332,
+    "end_time": 341
   },
   {
     "id": 22,
     "malayalam": "സുമേരു മധ്യശൃംഗസ്ഥാ, ശ്രീമന്നഗര നായികാ । || ചിംതാമണി ഗൃഹാംതസ്ഥാ, പംചബ്രഹ്മാസനസ്ഥിതാ",
     "sanskrit": "सुमेरु मध्यशृंगस्था, श्रीमन्नगर नायिका । || चिंतामणि गृहांतस्था, पंचब्रह्मासनस्थिता",
     "english": "sumēru madhyaśṛṅgasthā, śrīmannagara nāyikā । || chintāmaṇi gṛhāntasthā, pañchabrahmāsanasthitā",
-    "meaning": "She resides on the central peak of Mount Meru, is the ruler of Srinagar, dwells in the wish-fulfilling jewel house, and is seated on the throne of five Brahmas.[cite: 1]"
+    "meaning": "She resides on the central peak of Mount Meru, is the ruler of Srinagar, dwells in the wish-fulfilling jewel house, and is seated on the throne of five Brahmas.[cite: 1]",
+    "start_time": 341,
+    "end_time": 350
   },
   {
     "id": 23,
     "malayalam": "മഹാപദ്മാടവീ സംസ്ഥാ, കദംബ വനവാസിനീ । || സുധാസാഗര മധ്യസ്ഥാ, കാമാക്ഷീ കാമദായിനീ",
     "sanskrit": "महापद्माटवी संस्था, कदंब वनवासिनी । || सुधासागर मध्यस्था, कामाक्षी कामदायिनी",
     "english": "mahāpadmāṭavī saṃsthā, kadamba vanavāsinī । || sudhāsāgara madhyasthā, kāmākṣī kāmadāyinī",
-    "meaning": "She resides in the great lotus forest and the Kadamba forest, sits in the center of the ocean of nectar, has fierce eyes, and grants all desires.[cite: 1]"
+    "meaning": "She resides in the great lotus forest and the Kadamba forest, sits in the center of the ocean of nectar, has fierce eyes, and grants all desires.[cite: 1]",
+    "start_time": 350,
+    "end_time": 359
   },
   {
     "id": 24,
     "malayalam": "ദേവര്ഷി ഗണസംഘാത സ്തൂയമാനാത്മ വൈഭവാ । || ഭംഡാസുര വധോദ്യുക്ത ശക്തിസേനാ സമന്വിതാ",
     "sanskrit": "देवर्षि गणसंघात स्तूयमानात्म वैभवा । || भंडासुर वधोद्युक्त शक्तिसेना समन्विता",
     "english": "dēvarṣi gaṇasaṅghāta stūyamānātma vaibhavā । || bhaṇḍāsura vadhōdyukta śaktisēnā samanvitā",
-    "meaning": "Her glory is praised by hosts of gods and sages, and she is accompanied by the army of Shaktis ready to slay the demon Bhandasura.[cite: 1]"
+    "meaning": "Her glory is praised by hosts of gods and sages, and she is accompanied by the army of Shaktis ready to slay the demon Bhandasura.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 25,
     "malayalam": "സംപത്കരീ സമാരൂഢ സിംധുര വ്രജസേവിതാ । || അശ്വാരൂഢാധിഷ്ഠിതാശ്വ കോടികോടി ഭിരാവൃതാ",
     "sanskrit": "संपत्करी समारूढ सिंधुर व्रजसेविता । || अश्वारूढाधिष्ठिताश्व कोटिकोटि भिरावृता",
     "english": "sampatkarī samārūḍha sindhura vrajasēvitā । || aśvārūḍhādhiṣṭhitāśva kōṭikōṭi bhirāvṛtā",
-    "meaning": "She is served by herds of elephants led by the Goddess Sampatkari, and surrounded by millions of horses commanded by the Goddess Ashwarudha.[cite: 1]"
+    "meaning": "She is served by herds of elephants led by the Goddess Sampatkari, and surrounded by millions of horses commanded by the Goddess Ashwarudha.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 26,
     "malayalam": "ചക്രരാജ രഥാരൂഢ സർവായുധ പരിഷ്കൃതാ । || ഗേയചക്ര രഥാരൂഢ മംത്രിണീ പരിസേവിതാ",
     "sanskrit": "चक्रराज रथारूढ सर्वायुध परिष्कृता । || गेयचक्र रथारूढ मंत्रिणी परिसेविता",
     "english": "chakrarāja rathārūḍha sarvāyudha pariṣkṛtā । || gēyachakra rathārūḍha mantriṇī parisēvitā",
-    "meaning": "She rides the Chakraraja chariot adorned with all weapons, and is served by Goddess Mantrini riding the Geyachakra chariot.[cite: 1]"
+    "meaning": "She rides the Chakraraja chariot adorned with all weapons, and is served by Goddess Mantrini riding the Geyachakra chariot.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 27,
     "malayalam": "കിരിചക്ര രഥാരൂഢ ദംഡനാഥാ പുരസ്കൃതാ । || ജ്വാലാമാലിനി കാക്ഷിപ്ത വഹ്നിപ്രാകാര മധ്യഗാ",
     "sanskrit": "किरिचक्र रथारूढ दंडनाथा पुरस्कृता । || ज्वालामालिनि काक्षिप्त वह्निप्राकार मध्यगा",
     "english": "kirichakra rathārūḍha daṇḍanāthā puraskṛtā । || jvālāmālini kākṣipta vahniprākāra madhyagā",
-    "meaning": "She is preceded by Goddess Dandanatha riding the Kirichakra chariot, and is situated within the fortress of fire created by Goddess Jwalamalini.[cite: 1]"
+    "meaning": "She is preceded by Goddess Dandanatha riding the Kirichakra chariot, and is situated within the fortress of fire created by Goddess Jwalamalini.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 28,
     "malayalam": "ഭംഡസൈന്യ വധോദ്യുക്ത ശക്തി വിക്രമഹര്ഷിതാ । || നിത്യാ പരാക്രമാടോപ നിരീക്ഷണ സമുത്സുകാ",
     "sanskrit": "भंडसैन्य वधोद्युक्त शक्ति विक्रमहर्षिता । || नित्या पराक्रमाटोप निरीक्षण समुत्सुका",
     "english": "bhaṇḍasainya vadhōdyukta śakti vikramaharṣitā । || nityā parākramāṭōpa nirīkṣaṇa samutsukā",
-    "meaning": "She rejoices at the valor of the Shaktis bent on slaying Bhandasura's army, and is eager to witness the martial prowess of the Nithya deities.[cite: 1]"
+    "meaning": "She rejoices at the valor of the Shaktis bent on slaying Bhandasura's army, and is eager to witness the martial prowess of the Nithya deities.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 29,
     "malayalam": "ഭംഡപുത്ര വധോദ്യുക്ത ബാലാവിക്രമ നംദിതാ । || മംത്രിണ്യംബാ വിരചിത വിഷംഗ വധതോഷിതാ",
     "sanskrit": "भंडपुत्र वधोद्युक्त बालाविक्रम नंदिता । || मंत्रिण्यंबा विरचित विषंग वधतोषिता",
     "english": "bhaṇḍaputra vadhōdyukta bālāvikrama nanditā । || mantriṇyambā virachita viṣaṅga vadhatōṣitā",
-    "meaning": "She is delighted by the valor of Goddess Bala in slaying Bhandasura's sons, and is pleased with Goddess Mantrini for slaying Vishanga.[cite: 1]"
+    "meaning": "She is delighted by the valor of Goddess Bala in slaying Bhandasura's sons, and is pleased with Goddess Mantrini for slaying Vishanga.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 30,
     "malayalam": "വിശുക്ര പ്രാണഹരണ വാരാഹീ വീര്യനംദിതാ । || കാമേശ്വര മുഖാലോക കല്പിത ശ്രീ ഗണേശ്വരാ",
     "sanskrit": "विशुक्र प्राणहरण वाराही वीर्यनंदिता । || कामेश्वर मुखालोक कल्पित श्री गणेश्वरा",
     "english": "viśukra prāṇaharaṇa vārāhī vīryananditā । || kāmēśvara mukhālōka kalpita śrī gaṇēśvarā",
-    "meaning": "She is pleased by Goddess Varahi's prowess in slaying Vishukra, and created Lord Ganesha by a mere glance at Lord Kameshwara's face.[cite: 1]"
+    "meaning": "She is pleased by Goddess Varahi's prowess in slaying Vishukra, and created Lord Ganesha by a mere glance at Lord Kameshwara's face.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 31,
     "malayalam": "മഹാഗണേശ നിര്ഭിന്ന വിഘ്നയംത്ര പ്രഹര്ഷിതാ । || ഭംഡാസുരേംദ്ര നിര്മുക്ത ശസ്ത്ര പ്രത്യസ്ത്ര വര്ഷിണീ",
     "sanskrit": "महागणेश निर्भिन्न विघ्नयंत्र प्रहर्षिता । || भंडासुरेंद्र निर्मुक्त शस्त्र प्रत्यस्त्र वर्षिणी",
     "english": "mahāgaṇēśa nirbhinna vighnayantra praharṣitā । || bhaṇḍāsurēndra nirmukta śastra pratyastra varṣiṇī",
-    "meaning": "She is thrilled when Maha Ganesha shattered the obstacle-machine, and rained counter-weapons upon the missiles released by Bhandasura.[cite: 1]"
+    "meaning": "She is thrilled when Maha Ganesha shattered the obstacle-machine, and rained counter-weapons upon the missiles released by Bhandasura.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 32,
     "malayalam": "കരാംഗുളി നഖോത്പന്ന നാരായണ ദശാകൃതിഃ । || മഹാപാശുപതാസ്ത്രാഗ്നി നിര്ദഗ്ധാസുര സൈനികാ",
     "sanskrit": "करांगुलि नखोत्पन्न नारायण दशाकृतिः । || महापाशुपतास्त्राग्नि निर्दग्धासुर सैनिका",
     "english": "karāṅguḻi nakhōtpanna nārāyaṇa daśākṛtiḥ । || mahāpāśupatāstrāgni nirdagdhāsura sainikā",
-    "meaning": "She created the ten avatars of Narayana from her fingernails, and incinerated the demon army with the fire of the great Pashupatastra.[cite: 1]"
+    "meaning": "She created the ten avatars of Narayana from her fingernails, and incinerated the demon army with the fire of the great Pashupatastra.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 33,
     "malayalam": "കാമേശ്വരാസ്ത്ര നിര്ദഗ്ധ സഭംഡാസുര ശൂന്യകാ । || ബ്രഹ്മോപേംദ്ര മഹേംദ്രാദി ദേവസംസ്തുത വൈഭവാ",
     "sanskrit": "कामेश्वरास्त्र निर्दग्ध सभंडासुर शून्यका । || ब्रह्मोपेंद्र महेंद्रादि देवसंस्तुत वैभवा",
     "english": "kāmēśvarāstra nirdagdha sabhaṇḍāsura śūnyakā । || brahmōpēndra mahēndrādi dēvasaṃstuta vaibhavā",
-    "meaning": "She burned Bhandasura and his city Shunyaka to ashes with the Kameshwara missile; her glory is praised by Brahma, Vishnu, Indra, and other gods.[cite: 1]"
+    "meaning": "She burned Bhandasura and his city Shunyaka to ashes with the Kameshwara missile; her glory is praised by Brahma, Vishnu, Indra, and other gods.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 34,
     "malayalam": "ഹരനേത്രാഗ്നി സംദഗ്ധ കാമ സംജീവനൌഷധിഃ । || ശ്രീമദ്വാഗ്ഭവ കൂടൈക സ്വരൂപ മുഖപംകജാ",
     "sanskrit": "हरनेत्राग्नि संदग्ध काम संजीवनौषधिः । || श्रीमद्वाग्भव कूटैक स्वरूप मुखपंकजा",
     "english": "haranētrāgni sandagdha kāma sañjīvanauṣadhiḥ । || śrīmadvāgbhava kūṭaika svarūpa mukhapaṅkajā",
-    "meaning": "She is the life-restoring medicine for Cupid who was burnt by Shiva's eye, and her lotus face is the essence of the Vagbhava Koota.[cite: 1]"
+    "meaning": "She is the life-restoring medicine for Cupid who was burnt by Shiva's eye, and her lotus face is the essence of the Vagbhava Koota.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 35,
     "malayalam": "കംഠാധഃ കടിപര്യംത മധ്യകൂട സ്വരൂപിണീ । || ശക്തികൂടൈക താപന്ന കട്യഥോഭാഗ ധാരിണീ",
     "sanskrit": "कंठाधः कटिपर्यंत मध्यकूट स्वरूपिणी । || शक्तिकूटैक तापन्न कट्यथोभाग धारिणी",
     "english": "kaṇṭhādhaḥ kaṭiparyanta madhyakūṭa svarūpiṇī । || śaktikūṭaika tāpanna kaṭyathōbhāga dhāriṇī",
-    "meaning": "Her form from the neck to the waist is the Madhya Koota, and her form below the waist is the Shakti Koota.[cite: 1]"
+    "meaning": "Her form from the neck to the waist is the Madhya Koota, and her form below the waist is the Shakti Koota.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 36,
     "malayalam": "മൂലമംത്രാത്മികാ, മൂലകൂട ത്രയ കളേബരാ । || കുളാമൃതൈക രസികാ, കുളസംകേത പാലിനീ",
     "sanskrit": "मूलमंत्रात्मिका, मूलकूट त्रय कलेबरा । || कुलामृतैक रसिका, कुलसंकेत पालिनी",
     "english": "mūlamantrātmikā, mūlakūṭa traya kaḻēbarā । || kuḻāmṛtaika rasikā, kuḻasaṅkēta pālinī",
-    "meaning": "She is the soul of the root mantra, her body is formed of the three basic Kootas, she revels in the nectar of Kula, and is the protector of Kula traditions.[cite: 1]"
+    "meaning": "She is the soul of the root mantra, her body is formed of the three basic Kootas, she revels in the nectar of Kula, and is the protector of Kula traditions.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 37,
     "malayalam": "കുളാംഗനാ, കുളാംതഃസ്ഥാ, കൌളിനീ, കുളയോഗിനീ । || അകുളാ, സമയാംതഃസ്ഥാ, സമയാചാര തത്പരാ",
     "sanskrit": "कुलांगना, कुलांतःस्था, कौलिनी, कुलयोगिनी । || अकुला, समयांतःस्था, समयाचार तत्परा",
     "english": "kuḻāṅganā, kuḻāntaḥsthā, kauḻinī, kuḻayōginī । || akuḻā, samayāntaḥsthā, samayāchāra tatparā",
-    "meaning": "She is the lady of the Kula, resides within the Kula, is the essence of Kaula, the Kula Yogini, beyond the Kula (Akula), dwelling within the Samaya, and devoted to Samayachara.[cite: 1]"
+    "meaning": "She is the lady of the Kula, resides within the Kula, is the essence of Kaula, the Kula Yogini, beyond the Kula (Akula), dwelling within the Samaya, and devoted to Samayachara.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 38,
     "malayalam": "മൂലാധാരൈക നിലയാ, ബ്രഹ്മഗ്രംഥി വിഭേദിനീ । || മണിപൂരാംത രുദിതാ, വിഷ്ണുഗ്രംഥി വിഭേദിനീ",
     "sanskrit": "मूलाधारैक निलया, ब्रह्मग्रंथि विभेदिनी । || मणिपूरांत रुदिता, विष्णुग्रंथि विभेदिनी",
     "english": "mūlādhāraika nilayā, brahmagranthi vibhēdinī । || maṇipūrānta ruditā, viṣṇugranthi vibhēdinī",
-    "meaning": "She resides securely in the Muladhara chakra, pierces the Brahma Granthi, manifests in the Manipura chakra, and pierces the Vishnu Granthi.[cite: 1]"
+    "meaning": "She resides securely in the Muladhara chakra, pierces the Brahma Granthi, manifests in the Manipura chakra, and pierces the Vishnu Granthi.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 39,
     "malayalam": "ആജ്ഞാ ചക്രാംതരാളസ്ഥാ, രുദ്രഗ്രംഥി വിഭേദിനീ । || സഹസ്രാരാംബുജാ രൂഢാ, സുധാസാരാഭി വര്ഷിണീ",
     "sanskrit": "आज्ञा चक्रांतरालस्था, रुद्रग्रंथि विभेदिनी । || सहस्रारांबुजा रूढा, सुधासाराभि वर्षिणी",
     "english": "ājñā chakrāntarāḻasthā, rudragranthi vibhēdinī । || sahasrārāmbujā rūḍhā, sudhāsārābhi varṣiṇī",
-    "meaning": "She dwells in the center of the Ajna chakra, pierces the Rudra Granthi, ascends to the Sahasrara, and showers the essence of nectar.[cite: 1]"
+    "meaning": "She dwells in the center of the Ajna chakra, pierces the Rudra Granthi, ascends to the Sahasrara, and showers the essence of nectar.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 40,
     "malayalam": "തടില്ലതാ സമരുചിഃ, ഷട്-ചക്രോപരി സംസ്ഥിതാ । || മഹാശക്തിഃ, കുംഡലിനീ, ബിസതംതു തനീയസീ",
     "sanskrit": "तटिल्लता समरुचिः, षट्-चक्रोपरि संस्थिता । || महाशक्तिः, कुंडलिनी, बिसतंतु तनीयसी",
     "english": "taṭillatā samaruchiḥ, ṣaṭ-chakrōpari saṃsthitā । || mahāśaktiḥ, kuṇḍalinī, bisatantu tanīyasī",
-    "meaning": "She is radiant as a streak of lightning, stationed above the six chakras, the Great Power, the coiled Kundalini serpent, and as slender as a lotus stem.[cite: 1]"
+    "meaning": "She is radiant as a streak of lightning, stationed above the six chakras, the Great Power, the coiled Kundalini serpent, and as slender as a lotus stem.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 41,
     "malayalam": "ഭവാനീ, ഭാവനാഗമ്യാ, ഭവാരണ്യ കുഠാരികാ । || ഭദ്രപ്രിയാ, ഭദ്രമൂര്തി, ര്ഭക്തസൌഭാഗ്യ ദായിനീ",
     "sanskrit": "भवानी, भावनागम्या, भवारण्य कुठारिका । || भद्रप्रिया, भद्रमूर्ति, र्भक्तसौभाग्य दायिनी",
     "english": "bhavānī, bhāvanāgamyā, bhavāraṇya kuṭhārikā । || bhadrapriyā, bhadramūrti, rbhaktasaubhāgya dāyinī",
-    "meaning": "She is the consort of Bhava, reachable through deep meditation, the axe that fells the forest of worldly existence, fond of auspiciousness, the embodiment of grace, and bestower of prosperity on devotees.[cite: 1]"
+    "meaning": "She is the consort of Bhava, reachable through deep meditation, the axe that fells the forest of worldly existence, fond of auspiciousness, the embodiment of grace, and bestower of prosperity on devotees.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 42,
     "malayalam": "ഭക്തിപ്രിയാ, ഭക്തിഗമ്യാ, ഭക്തിവശ്യാ, ഭയാപഹാ । || ശാംഭവീ, ശാരദാരാധ്യാ, ശർവാണീ, ശര്മദായിനീ",
     "sanskrit": "भक्तिप्रिया, भक्तिगम्या, भक्तिवश्या, भयापहा । || शांभवी, शारदाराध्या, शर्वाणी, शर्मदायिनी",
     "english": "bhaktipriyā, bhaktigamyā, bhaktivaśyā, bhayāpahā । || śāmbhavī, śāradārādhyā, śarvāṇī, śarmadāyinī",
-    "meaning": "She is fond of devotion, attainable through devotion, won over by devotion, dispeller of fear, consort of Shambhu, worshipped by Sharada, consort of Sharva, and bestower of happiness.[cite: 1]"
+    "meaning": "She is fond of devotion, attainable through devotion, won over by devotion, dispeller of fear, consort of Shambhu, worshipped by Sharada, consort of Sharva, and bestower of happiness.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 43,
     "malayalam": "ശാംകരീ, ശ്രീകരീ, സാധ്വീ, ശരച്ചംദ്രനിഭാനനാ । || ശാതോദരീ, ശാംതിമതീ, നിരാധാരാ, നിരംജനാ",
     "sanskrit": "शांकरी, श्रीकरी, साध्वी, शरच्चंद्रनिभानना । || शातोदरी, शांतिमती, निराधारा, निरंजना",
     "english": "śāṅkarī, śrīkarī, sādhvī, śarachchandranibhānanā । || śātōdarī, śāntimatī, nirādhārā, nirañjanā",
-    "meaning": "She is the consort of Shankara, creator of wealth, the chaste one, has a face like the autumn moon, is slender-waisted, the embodiment of peace, without support, and immaculate.[cite: 1]"
+    "meaning": "She is the consort of Shankara, creator of wealth, the chaste one, has a face like the autumn moon, is slender-waisted, the embodiment of peace, without support, and immaculate.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 44,
     "malayalam": "നിര്ലേപാ, നിര്മലാ, നിത്യാ, നിരാകാരാ, നിരാകുലാ । || നിര്ഗുണാ, നിഷ്കളാ, ശാംതാ, നിഷ്കാമാ, നിരുപപ്ലവാ",
     "sanskrit": "निर्लेपा, निर्मला, नित्या, निराकारा, निराकुला । || निर्गुणा, निष्कला, शांता, निष्कामा, निरुपप्लवा",
     "english": "nirlēpā, nirmalā, nityā, nirākārā, nirākulā । || nirguṇā, niṣkaḻā, śāntā, niṣkāmā, nirupaplavā",
-    "meaning": "She is untainted, pure, eternal, formless, untroubled, without attributes, undivided, tranquil, desireless, and indestructible.[cite: 1]"
+    "meaning": "She is untainted, pure, eternal, formless, untroubled, without attributes, undivided, tranquil, desireless, and indestructible.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 45,
     "malayalam": "നിത്യമുക്താ, നിർവികാരാ, നിഷ്പ്രപംചാ, നിരാശ്രയാ । || നിത്യശുദ്ധാ, നിത്യബുദ്ധാ, നിരവദ്യാ, നിരംതരാ",
     "sanskrit": "नित्यमुक्ता, निर्विकारा, निष्प्रपंचा, निराश्रया । || नित्यशुद्धा, नित्यबुद्धा, निरवद्या, निरंतरा",
     "english": "nityamuktā, nirvikārā, niṣprapañchā, nirāśrayā । || nityaśuddhā, nityabuddhā, niravadyā, nirantarā",
-    "meaning": "She is eternally liberated, unchanging, beyond the material universe, without dependency, eternally pure, eternally awake, flawless, and uninterrupted.[cite: 1]"
+    "meaning": "She is eternally liberated, unchanging, beyond the material universe, without dependency, eternally pure, eternally awake, flawless, and uninterrupted.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 46,
     "malayalam": "നിഷ്കാരണാ, നിഷ്കളംകാ, നിരുപാധി, ര്നിരീശ്വരാ । || നീരാഗാ, രാഗമഥനീ, നിര്മദാ, മദനാശിനീ",
     "sanskrit": "निष्कारणा, निष्कलंका, निरुपाधि, र्निरीश्वरा । || नीरागा, रागमथनी, निर्मदा, मदनाशिनी",
     "english": "niṣkāraṇā, niṣkaḻaṅkā, nirupādhi, rnirīśvarā । || nīrāgā, rāgamathanī, nirmadā, madanāśinī",
-    "meaning": "She is causeless, unblemished, without limitations, without a superior master, devoid of passion, destroyer of attachments, pride-less, and destroyer of arrogance.[cite: 1]"
+    "meaning": "She is causeless, unblemished, without limitations, without a superior master, devoid of passion, destroyer of attachments, pride-less, and destroyer of arrogance.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 47,
     "malayalam": "നിശ്ചിംതാ, നിരഹംകാരാ, നിര്മോഹാ, മോഹനാശിനീ । || നിര്മമാ, മമതാഹംത്രീ, നിഷ്പാപാ, പാപനാശിനീ",
     "sanskrit": "निश्चिंता, निरहंकारा, निर्मोहा, मोहनाशिनी । || निर्ममा, ममताहंत्री, निष्पापा, पापनाशिनी",
     "english": "niśchintā, nirahaṅkārā, nirmōhā, mōhanāśinī । || nirmamā, mamatāhantrī, niṣpāpā, pāpanāśinī",
-    "meaning": "She is without anxieties, free from ego, free from delusion, destroyer of delusions, devoid of 'mine', destroyer of selfishness, sinless, and destroyer of sins.[cite: 1]"
+    "meaning": "She is without anxieties, free from ego, free from delusion, destroyer of delusions, devoid of 'mine', destroyer of selfishness, sinless, and destroyer of sins.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 48,
     "malayalam": "നിഷ്ക്രോധാ, ക്രോധശമനീ, നിര്ലോഭാ, ലോഭനാശിനീ । || നിഃസംശയാ, സംശയഘ്നീ, നിര്ഭവാ, ഭവനാശിനീ",
     "sanskrit": "निष्क्रोधा, क्रोधशमनी, निर्लोभा, लोभनाशिनी । || निःसंशया, संशयघ्नी, निर्भवा, भवनाशिनी",
     "english": "niṣkrōdhā, krōdhaśamanī, nirlōbhā, lōbhanāśinī । || niḥsaṃśayā, saṃśayaghnī, nirbhavā, bhavanāśinī",
-    "meaning": "She is devoid of anger, pacifier of anger, free from greed, destroyer of greed, free from doubt, destroyer of doubts, without rebirth, and destroyer of worldly bonds.[cite: 1]"
+    "meaning": "She is devoid of anger, pacifier of anger, free from greed, destroyer of greed, free from doubt, destroyer of doubts, without rebirth, and destroyer of worldly bonds.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 49,
     "malayalam": "നിർവികല്പാ, നിരാബാധാ, നിര്ഭേദാ, ഭേദനാശിനീ । || നിര്നാശാ, മൃത്യുമഥനീ, നിഷ്ക്രിയാ, നിഷ്പരിഗ്രഹാ",
     "sanskrit": "निर्विकल्पा, निराबाधा, निर्भेदा, भेदनाशिनी । || निर्नाशा, मृत्युमथनी, निष्क्रिया, निष्परिग्रहा",
     "english": "nirvikalpā, nirābādhā, nirbhēdā, bhēdanāśinī । || nirnāśā, mṛtyumathanī, niṣkriyā, niṣparigrahā",
-    "meaning": "She is free from mental modifications, unhindered, without differences, destroyer of divisions, imperishable, conqueror of death, inactive, and accepting nothing.[cite: 1]"
+    "meaning": "She is free from mental modifications, unhindered, without differences, destroyer of divisions, imperishable, conqueror of death, inactive, and accepting nothing.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 50,
     "malayalam": "നിസ്തുലാ, നീലചികുരാ, നിരപായാ, നിരത്യയാ । || ദുര്ലഭാ, ദുര്ഗമാ, ദുര്ഗാ, ദുഃഖഹംത്രീ, സുഖപ്രദാ",
     "sanskrit": "निस्तुला, नीलचिकुरा, निरपाया, निरत्यया । || दुर्लभा, दुर्गमा, दुर्गा, दुःखहंत्री, सुखप्रदा",
     "english": "nistulā, nīlachikurā, nirapāyā, niratyayā । || durlabhā, durgamā, durgā, duḥkhahantrī, sukhapradā",
-    "meaning": "She is incomparable, has dark blue hair, is free from danger, indestructible, difficult to attain, hard to reach, the Goddess Durga, destroyer of sorrow, and bestower of happiness.[cite: 1]"
+    "meaning": "She is incomparable, has dark blue hair, is free from danger, indestructible, difficult to attain, hard to reach, the Goddess Durga, destroyer of sorrow, and bestower of happiness.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 51,
     "malayalam": "ദുഷ്ടദൂരാ, ദുരാചാര ശമനീ, ദോഷവര്ജിതാ । || സർവജ്ഞാ, സാംദ്രകരുണാ, സമാനാധികവര്ജിതാ",
     "sanskrit": "दुष्टदूरा, दुराचार शमनी, दोषवर्जिता । || सर्वज्ञा, सांद्रकरुणा, समानाधिकवर्जिता",
     "english": "duṣṭadūrā, durāchāra śamanī, dōṣavarjitā । || sarvajñā, sāndrakaruṇā, samānādhikavarjitā",
-    "meaning": "She is far from the wicked, destroyer of evil conduct, free from defects, omniscient, deeply compassionate, and has none equal or superior.[cite: 1]"
+    "meaning": "She is far from the wicked, destroyer of evil conduct, free from defects, omniscient, deeply compassionate, and has none equal or superior.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 52,
     "malayalam": "സർവശക്തിമയീ, സർവമംഗളാ, സദ്ഗതിപ്രദാ । || സർവേശ്വരീ, സർവമയീ, സർവമംത്ര സ്വരൂപിണീ",
     "sanskrit": "सर्वशक्तिमयी, सर्वमंगला, सद्गतिप्रदा । || सर्वेश्वरी, सर्वमयी, सर्वमंत्र स्वरूपिणी",
     "english": "sarvaśaktimayī, sarvamaṅgaḻā, sadgatipradā । || sarvēśvarī, sarvamayī, sarvamantra svarūpiṇī",
-    "meaning": "She embodies all power, is all-auspicious, bestower of the right path, Sovereign of all, omnipresent, and the essence of all mantras.[cite: 1]"
+    "meaning": "She embodies all power, is all-auspicious, bestower of the right path, Sovereign of all, omnipresent, and the essence of all mantras.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 53,
     "malayalam": "സർവയംത്രാത്മികാ, സർവതംത്രരൂപാ, മനോന്മനീ । || മാഹേശ്വരീ, മഹാദേവീ, മഹാലക്ഷ്മീ, ര്മൃഡപ്രിയാ",
     "sanskrit": "सर्वयंत्रात्मिका, सर्वतंत्ररूपा, मनोन्मनी । || माहेश्वरी, महादेवी, महालक्ष्मी, र्मृडप्रिया",
     "english": "sarvayantrātmikā, sarvatantrarūpā, manōnmanī । || māhēśvarī, mahādēvī, mahālakṣmī, rmṛḍapriyā",
-    "meaning": "She is the soul of all yantras, the form of all tantras, the supreme mental state, the Great Sovereign, the Great Goddess, the Great Wealth, and the beloved of Lord Mrida.[cite: 1]"
+    "meaning": "She is the soul of all yantras, the form of all tantras, the supreme mental state, the Great Sovereign, the Great Goddess, the Great Wealth, and the beloved of Lord Mrida.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 54,
     "malayalam": "മഹാരൂപാ, മഹാപൂജ്യാ, മഹാപാതക നാശിനീ । || മഹാമായാ, മഹാസത്ത്വാ, മഹാശക്തി ര്മഹാരതിഃ",
     "sanskrit": "महारूपा, महापूज्या, महापातक नाशिनी । || महामाया, महासत्त्वा, महाशक्ति र्महारतिः",
     "english": "mahārūpā, mahāpūjyā, mahāpātaka nāśinī । || mahāmāyā, mahāsattvā, mahāśakti rmahāratiḥ",
-    "meaning": "She is of immense form, highly venerable, destroyer of the greatest sins, the Great Illusion, the Great Reality, the Great Power, and the Great Delight.[cite: 1]"
+    "meaning": "She is of immense form, highly venerable, destroyer of the greatest sins, the Great Illusion, the Great Reality, the Great Power, and the Great Delight.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 55,
     "malayalam": "മഹാഭോഗാ, മഹൈശ്വര്യാ, മഹാവീര്യാ, മഹാബലാ । || മഹാബുദ്ധി, ര്മഹാസിദ്ധി, ര്മഹായോഗേശ്വരേശ്വരീ",
     "sanskrit": "महाभोगा, महैश्वर्या, महावीर्या, महाबला । || महाबुद्धि, र्महासिद्धि, र्महायोगेश्वरेश्वरी",
     "english": "mahābhōgā, mahaiśvaryā, mahāvīryā, mahābalā । || mahābuddhi, rmahāsiddhi, rmahāyōgēśvarēśvarī",
-    "meaning": "She is the Great Enjoyment, the Great Supremacy, the Great Valor, the Great Strength, the Great Intelligence, the Great Attainment, and Sovereign of the Lords of Yoga.[cite: 1]"
+    "meaning": "She is the Great Enjoyment, the Great Supremacy, the Great Valor, the Great Strength, the Great Intelligence, the Great Attainment, and Sovereign of the Lords of Yoga.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 56,
     "malayalam": "മഹാതംത്രാ, മഹാമംത്രാ, മഹായംത്രാ, മഹാസനാ । || മഹായാഗ ക്രമാരാധ്യാ, മഹാഭൈരവ പൂജിതാ",
     "sanskrit": "महातंत्रा, महामंत्रा, महायंत्रा, महासना । || महायाग क्रमाराध्या, महाभैरव पूजिता",
     "english": "mahātantrā, mahāmantrā, mahāyantrā, mahāsanā । || mahāyāga kramārādhyā, mahābhairava pūjitā",
-    "meaning": "She embodies the Great Tantra, the Great Mantra, the Great Yantra, sits on the Great Throne, is worshipped through the Great Sacrifice, and is adored by Maha Bhairava.[cite: 1]"
+    "meaning": "She embodies the Great Tantra, the Great Mantra, the Great Yantra, sits on the Great Throne, is worshipped through the Great Sacrifice, and is adored by Maha Bhairava.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 57,
     "malayalam": "മഹേശ്വര മഹാകല്പ മഹാതാംഡവ സാക്ഷിണീ । || മഹാകാമേശ മഹിഷീ, മഹാത്രിപുര സുംദരീ",
     "sanskrit": "महेश्वर महाकल्प महातांडव साक्षिणी । || महाकामेश महिषी, महात्रिपुर सुंदरी",
     "english": "mahēśvara mahākalpa mahātāṇḍava sākṣiṇī । || mahākāmēśa mahiṣī, mahātripura sundarī",
-    "meaning": "She is the witness to Maheshwara's great cosmic dance, the Great Queen of Maha Kameshwara, and the Supreme Beautiful Goddess of the Three Cities.[cite: 1]"
+    "meaning": "She is the witness to Maheshwara's great cosmic dance, the Great Queen of Maha Kameshwara, and the Supreme Beautiful Goddess of the Three Cities.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 58,
     "malayalam": "ചതുഃഷഷ്ട്യുപചാരാഢ്യാ, ചതുഷ്ഷഷ്ടി കളാമയീ । || മഹാ ചതുഷ്ഷഷ്ടി കോടി യോഗിനീ ഗണസേവിതാ",
     "sanskrit": "चतुःषष्ट्युपचाराढ्या, चतुष्षष्टि कलामयी । || महा चतुष्षष्टि कोटि योगिनी गणसेविता",
     "english": "chatuḥṣaṣṭyupachārāḍhyā, chatuṣṣaṣṭi kaḻāmayī । || mahā chatuṣṣaṣṭi kōṭi yōginī gaṇasēvitā",
-    "meaning": "She is worshipped with sixty-four traditional offerings, embodies the sixty-four arts, and is served by hosts of sixty-four crore Yoginis.[cite: 1]"
+    "meaning": "She is worshipped with sixty-four traditional offerings, embodies the sixty-four arts, and is served by hosts of sixty-four crore Yoginis.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 59,
     "malayalam": "മനുവിദ്യാ, ചംദ്രവിദ്യാ, ചംദ്രമംഡലമധ്യഗാ । || ചാരുരൂപാ, ചാരുഹാസാ, ചാരുചംദ്ര കളാധരാ",
     "sanskrit": "मनुविद्या, चंद्रविद्या, चंद्रमंडलमध्यगा । || चारुरूपा, चारुहासा, चारुचंद्र कलाधरा",
     "english": "manuvidyā, chandravidyā, chandramaṇḍalamadhyagā । || chārurūpā, chāruhāsā, chāruchandra kaḻādharā",
-    "meaning": "She embodies the knowledge of Manu and the Moon, dwells in the center of the lunar orb, is of beautiful form, has a lovely smile, and wears the beautiful crescent moon.[cite: 1]"
+    "meaning": "She embodies the knowledge of Manu and the Moon, dwells in the center of the lunar orb, is of beautiful form, has a lovely smile, and wears the beautiful crescent moon.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 60,
     "malayalam": "ചരാചര ജഗന്നാഥാ, ചക്രരാജ നികേതനാ । || പാർവതീ, പദ്മനയനാ, പദ്മരാഗ സമപ്രഭാ",
     "sanskrit": "चराचर जगन्नाथा, चक्रराज निकेतना । || पार्वती, पद्मनयना, पद्मराग समप्रभा",
     "english": "charāchara jagannāthā, chakrarāja nikētanā । || pārvatī, padmanayanā, padmarāga samaprabhā",
-    "meaning": "She is the Sovereign of the moving and non-moving universe, dwells in the Chakraraja, is Goddess Parvati, lotus-eyed, and radiant like the Padmaraga ruby.[cite: 1]"
+    "meaning": "She is the Sovereign of the moving and non-moving universe, dwells in the Chakraraja, is Goddess Parvati, lotus-eyed, and radiant like the Padmaraga ruby.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 61,
     "malayalam": "പംചപ്രേതാസനാസീനാ, പംചബ്രഹ്മ സ്വരൂപിണീ । || ചിന്മയീ, പരമാനംദാ, വിജ്ഞാന ഘനരൂപിണീ",
     "sanskrit": "पंचप्रेतासनासीना, पंचब्रह्म स्वरूपिणी । || चिन्मयी, परमानंदा, विज्ञान घनरूपिणी",
     "english": "pañchaprētāsanāsīnā, pañchabrahma svarūpiṇī । || chinmayī, paramānandā, vijñāna ghanarūpiṇī",
-    "meaning": "She is seated on a throne of five corpses, embodies the five Brahmas, is full of consciousness, supreme bliss, and the dense embodiment of pure knowledge.[cite: 1]"
+    "meaning": "She is seated on a throne of five corpses, embodies the five Brahmas, is full of consciousness, supreme bliss, and the dense embodiment of pure knowledge.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 62,
     "malayalam": "ധ്യാനധ്യാതൃ ധ്യേയരൂപാ, ധര്മാധര്മ വിവര്ജിതാ । || വിശ്വരൂപാ, ജാഗരിണീ, സ്വപംതീ, തൈജസാത്മികാ",
     "sanskrit": "ध्यानध्यातृ ध्येयरूपा, धर्माधर्म विवर्जिता । || विश्वरूपा, जागरिणी, स्वपंती, तैजसात्मिका",
     "english": "dhyānadhyātṛ dhyēyarūpā, dharmādharma vivarjitā । || viśvarūpā, jāgariṇī, svapantī, taijasātmikā",
-    "meaning": "She is the meditator, the meditation, and the object of meditation, beyond right and wrong, of universal form, the waking state, the dreaming state, and the soul of the dream state.[cite: 1]"
+    "meaning": "She is the meditator, the meditation, and the object of meditation, beyond right and wrong, of universal form, the waking state, the dreaming state, and the soul of the dream state.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 63,
     "malayalam": "സുപ്താ, പ്രാജ്ഞാത്മികാ, തുര്യാ, സർവാവസ്ഥാ വിവര്ജിതാ । || സൃഷ്ടികര്ത്രീ, ബ്രഹ്മരൂപാ, ഗോപ്ത്രീ, ഗോവിംദരൂപിണീ",
     "sanskrit": "सुप्ता, प्राज्ञात्मिका, तुर्या, सर्वावस्था विवर्जिता । || सृष्टिकर्त्री, ब्रह्मरूपा, गोप्त्री, गोविंदरूपिणी",
     "english": "suptā, prājñātmikā, turyā, sarvāvasthā vivarjitā । || sṛṣṭikartrī, brahmarūpā, gōptrī, gōvindarūpiṇī",
-    "meaning": "She is the deep sleep state, the soul of deep sleep, the fourth state, beyond all states, the Creator in the form of Brahma, and the Protector in the form of Govinda.[cite: 1]"
+    "meaning": "She is the deep sleep state, the soul of deep sleep, the fourth state, beyond all states, the Creator in the form of Brahma, and the Protector in the form of Govinda.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 64,
     "malayalam": "സംഹാരിണീ, രുദ്രരൂപാ, തിരോധാനകരീശ്വരീ । || സദാശിവാനുഗ്രഹദാ, പംചകൃത്യ പരായണാ",
     "sanskrit": "संहारिणी, रुद्ररूपा, तिरोधानकरीश्वरी । || सदाशिवानुग्रहदा, पंचकृत्य परायणा",
     "english": "saṃhāriṇī, rudrarūpā, tirōdhānakarīśvarī । || sadāśivānugrahadā, pañchakṛtya parāyaṇā",
-    "meaning": "She is the Destroyer in the form of Rudra, the sovereign of concealment, the bestower of grace in the form of Sadashiva, and devoted to the five cosmic acts.[cite: 1]"
+    "meaning": "She is the Destroyer in the form of Rudra, the sovereign of concealment, the bestower of grace in the form of Sadashiva, and devoted to the five cosmic acts.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 65,
     "malayalam": "ഭാനുമംഡല മധ്യസ്ഥാ, ഭൈരവീ, ഭഗമാലിനീ । || പദ്മാസനാ, ഭഗവതീ, പദ്മനാഭ സഹോദരീ",
     "sanskrit": "भानुमंडल मध्यस्था, भैरवी, भगमालिनी । || पद्मासना, भगवती, पद्मनाभ सहोदरी",
     "english": "bhānumaṇḍala madhyasthā, bhairavī, bhagamālinī । || padmāsanā, bhagavatī, padmanābha sahōdarī",
-    "meaning": "She dwells in the center of the solar orb, is the fierce Bhairavi, wears a garland of prosperity, is seated on a lotus, the Supreme Goddess, and the sister of Padmanabha.[cite: 1]"
+    "meaning": "She dwells in the center of the solar orb, is the fierce Bhairavi, wears a garland of prosperity, is seated on a lotus, the Supreme Goddess, and the sister of Padmanabha.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 66,
     "malayalam": "ഉന്മേഷ നിമിഷോത്പന്ന വിപന്ന ഭുവനാവളിഃ । || സഹസ്രശീര്ഷവദനാ, സഹസ്രാക്ഷീ, സഹസ്രപാത്",
     "sanskrit": "उन्मेष निमिषोत्पन्न विपन्न भुवनावलिः । || सहस्रशीर्षवदना, सहस्राक्षी, सहस्रपात्",
     "english": "unmēṣa nimiṣōtpanna vipanna bhuvanāvaḻiḥ । || sahasraśīrṣavadanā, sahasrākṣī, sahasrapāt",
-    "meaning": "She creates and dissolves universes with the opening and closing of her eyes, has a thousand heads and faces, a thousand eyes, and a thousand feet.[cite: 1]"
+    "meaning": "She creates and dissolves universes with the opening and closing of her eyes, has a thousand heads and faces, a thousand eyes, and a thousand feet.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 67,
     "malayalam": "ആബ്രഹ്മ കീടജനനീ, വര്ണാശ്രമ വിധായിനീ । || നിജാജ്ഞാരൂപനിഗമാ, പുണ്യാപുണ്യ ഫലപ്രദാ",
     "sanskrit": "आब्रह्म कीटजननी, वर्णाश्रम विधायिनी । || निजाज्ञारूपनिगमा, पुण्यापुण्य फलप्रदा",
     "english": "ābrahma kīṭajananī, varṇāśrama vidhāyinī । || nijājñārūpanigamā, puṇyāpuṇya phalapradā",
-    "meaning": "She is the mother of all from Brahma to the smallest insect, establishes the Varnas and Ashramas, her commands form the Vedas, and she bestows the fruits of deeds.[cite: 1]"
+    "meaning": "She is the mother of all from Brahma to the smallest insect, establishes the Varnas and Ashramas, her commands form the Vedas, and she bestows the fruits of deeds.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 68,
     "malayalam": "ശ്രുതി സീമംത സിംധൂരീകൃത പാദാബ്ജധൂളികാ । || സകലാഗമ സംദോഹ ശുക്തിസംപുട മൌക്തികാ",
     "sanskrit": "श्रुति सीमंत सिंधूरीकृत पादाब्जधूलिका । || सकलागम संदोह शुक्तिसंपुट मौक्तिका",
     "english": "śruti sīmanta sindhūrīkṛta pādābjadhūḻikā । || sakalāgama sandōha śuktisampuṭa mauktikā",
-    "meaning": "The dust of her lotus feet is the vermilion mark on the part-line of the Vedas, and she is the pearl found within the oyster shells of all scriptural texts.[cite: 1]"
+    "meaning": "The dust of her lotus feet is the vermilion mark on the part-line of the Vedas, and she is the pearl found within the oyster shells of all scriptural texts.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 69,
     "malayalam": "പുരുഷാര്ഥപ്രദാ, പൂര്ണാ, ഭോഗിനീ, ഭുവനേശ്വരീ । || അംബികാ,ഽനാദി നിധനാ, ഹരിബ്രഹ്മേംദ്ര സേവിതാ",
     "sanskrit": "पुरुषार्थप्रदा, पूर्णा, भोगिनी, भुवनेश्वरी । || अंबिका,ऽनादि निधना, हरिब्रह्मेंद्र सेविता",
     "english": "puruṣārthapradā, pūrṇā, bhōginī, bhuvanēśvarī । || ambikā,'nādi nidhanā, haribrahmēndra sēvitā",
-    "meaning": "She bestows the four aims of life, is the Complete One, the Enjoyer, Sovereign of the Universe, the Divine Mother, without beginning or end, and served by Hari, Brahma, and Indra.[cite: 1]"
+    "meaning": "She bestows the four aims of life, is the Complete One, the Enjoyer, Sovereign of the Universe, the Divine Mother, without beginning or end, and served by Hari, Brahma, and Indra.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 70,
     "malayalam": "നാരായണീ, നാദരൂപാ, നാമരൂപ വിവര്ജിതാ । || ഹ്രീംകാരീ, ഹ്രീമതീ, ഹൃദ്യാ, ഹേയോപാദേയ വര്ജിതാ",
     "sanskrit": "नारायणी, नादरूपा, नामरूप विवर्जिता । || ह्रींकारी, ह्रीमती, हृद्या, हेयोपादेय वर्जिता",
     "english": "nārāyaṇī, nādarūpā, nāmarūpa vivarjitā । || hrīṅkārī, hrīmatī, hṛdyā, hēyōpādēya varjitā",
-    "meaning": "She is Narayani, the form of sound, beyond name and form, the maker of 'Hrim', embodying 'Hrim', residing in the heart, and beyond what is to be accepted or rejected.[cite: 1]"
+    "meaning": "She is Narayani, the form of sound, beyond name and form, the maker of 'Hrim', embodying 'Hrim', residing in the heart, and beyond what is to be accepted or rejected.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 71,
     "malayalam": "രാജരാജാര്ചിതാ, രാജ്ഞീ, രമ്യാ, രാജീവലോചനാ । || രംജനീ, രമണീ, രസ്യാ, രണത്കിംകിണി മേഖലാ",
     "sanskrit": "राजराजार्चिता, राज्ञी, रम्या, राजीवलोचना । || रंजनी, रमणी, रस्या, रणत्किंकिणि मेखला",
     "english": "rājarājārchitā, rājñī, ramyā, rājīvalōchanā । || rañjanī, ramaṇī, rasyā, raṇatkiṅkiṇi mēkhalā",
-    "meaning": "She is worshipped by the King of Kings, the Queen, the Beautiful One, lotus-eyed, the Delighter, the Lovely One, the essence of taste, and wears a girdle of tinkling bells.[cite: 1]"
+    "meaning": "She is worshipped by the King of Kings, the Queen, the Beautiful One, lotus-eyed, the Delighter, the Lovely One, the essence of taste, and wears a girdle of tinkling bells.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 72,
     "malayalam": "രമാ, രാകേംദുവദനാ, രതിരൂപാ, രതിപ്രിയാ । || രക്ഷാകരീ, രാക്ഷസഘ്നീ, രാമാ, രമണലംപടാ",
     "sanskrit": "रमा, राकेंदुवदना, रतिरूपा, रतिप्रिया । || रक्षाकरी, राक्षसघ्नी, रामा, रमणलंपटा",
     "english": "ramā, rākēnduvadanā, ratirūpā, ratipriyā । || rakṣākarī, rākṣasaghnī, rāmā, ramaṇalampaṭā",
-    "meaning": "She is Goddess Lakshmi, has a face like the full moon, is the form of Rati, beloved of Rati, the Protector, destroyer of demons, the beautiful woman, and fond of love play.[cite: 1]"
+    "meaning": "She is Goddess Lakshmi, has a face like the full moon, is the form of Rati, beloved of Rati, the Protector, destroyer of demons, the beautiful woman, and fond of love play.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 73,
     "malayalam": "കാമ്യാ, കാമകളാരൂപാ, കദംബ കുസുമപ്രിയാ । || കള്യാണീ, ജഗതീകംദാ, കരുണാരസ സാഗരാ",
     "sanskrit": "काम्या, कामकलारूपा, कदंब कुसुमप्रिया । || कल्याणी, जगतीकंदा, करुणारस सागरा",
     "english": "kāmyā, kāmakaḻārūpā, kadamba kusumapriyā । || kaḻyāṇī, jagatīkandā, karuṇārasa sāgarā",
-    "meaning": "She is the desired one, the form of the art of love, fond of Kadamba flowers, the Auspicious One, the root of the universe, and the ocean of the essence of compassion.[cite: 1]"
+    "meaning": "She is the desired one, the form of the art of love, fond of Kadamba flowers, the Auspicious One, the root of the universe, and the ocean of the essence of compassion.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 74,
     "malayalam": "കളാവതീ, കളാലാപാ, കാംതാ, കാദംബരീപ്രിയാ । || വരദാ, വാമനയനാ, വാരുണീമദവിഹ്വലാ",
     "sanskrit": "कलावती, कलालापा, कांता, कादंबरीप्रिया । || वरदा, वामनयना, वारुणीमदविह्वला",
     "english": "kaḻāvatī, kaḻālāpā, kāntā, kādambarīpriyā । || varadā, vāmanayanā, vāruṇīmadavihvalā",
-    "meaning": "She embodies all arts, is of artistic speech, the Beloved, fond of Kadambari wine, bestower of boons, beautiful-eyed, and intoxicated by Varuni wine.[cite: 1]"
+    "meaning": "She embodies all arts, is of artistic speech, the Beloved, fond of Kadambari wine, bestower of boons, beautiful-eyed, and intoxicated by Varuni wine.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 75,
     "malayalam": "വിശ്വാധികാ, വേദവേദ്യാ, വിംധ്യാചല നിവാസിനീ । || വിധാത്രീ, വേദജനനീ, വിഷ്ണുമായാ, വിലാസിനീ",
     "sanskrit": "विश्वाधिका, वेदवेद्या, विंध्याचल निवासिनी । || विधात्री, वेदजननी, विष्णुमाया, विलासिनी",
     "english": "viśvādhikā, vēdavēdyā, vindhyāchala nivāsinī । || vidhātrī, vēdajananī, viṣṇumāyā, vilāsinī",
-    "meaning": "She transcends the universe, is known through the Vedas, resides in the Vindhya mountains, is the Creator, Mother of the Vedas, the illusion of Vishnu, and the playful one.[cite: 1]"
+    "meaning": "She transcends the universe, is known through the Vedas, resides in the Vindhya mountains, is the Creator, Mother of the Vedas, the illusion of Vishnu, and the playful one.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 76,
     "malayalam": "ക്ഷേത്രസ്വരൂപാ, ക്ഷേത്രേശീ, ക്ഷേത്ര ക്ഷേത്രജ്ഞ പാലിനീ । || ക്ഷയവൃദ്ധി വിനിര്മുക്താ, ക്ഷേത്രപാല സമര്ചിതാ",
     "sanskrit": "क्षेत्रस्वरूपा, क्षेत्रेशी, क्षेत्र क्षेत्रज्ञ पालिनी । || क्षयवृद्धि विनिर्मुक्ता, क्षेत्रपाल समर्चिता",
     "english": "kṣētrasvarūpā, kṣētrēśī, kṣētra kṣētrajña pālinī । || kṣayavṛddhi vinirmuktā, kṣētrapāla samarchitā",
-    "meaning": "She is the form of the field, sovereign of the field, protector of the field and its knower, free from decay and growth, and worshipped by the field's guardian.[cite: 1]"
+    "meaning": "She is the form of the field, sovereign of the field, protector of the field and its knower, free from decay and growth, and worshipped by the field's guardian.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 77,
     "malayalam": "വിജയാ, വിമലാ, വംദ്യാ, വംദാരു ജനവത്സലാ । || വാഗ്വാദിനീ, വാമകേശീ, വഹ്നിമംഡല വാസിനീ",
     "sanskrit": "विजया, विमला, वंद्या, वंदारु जनवत्सला । || वाग्वादिनी, वामकेशी, वह्निमंडल वासिनी",
     "english": "vijayā, vimalā, vandyā, vandāru janavatsalā । || vāgvādinī, vāmakēśī, vahnimaṇḍala vāsinī",
-    "meaning": "She is the Victorious One, the Pure One, worthy of worship, affectionate to her worshippers, the Goddess of Speech, the beautiful-haired one, residing in the orb of fire.[cite: 1]"
+    "meaning": "She is the Victorious One, the Pure One, worthy of worship, affectionate to her worshippers, the Goddess of Speech, the beautiful-haired one, residing in the orb of fire.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 78,
     "malayalam": "ഭക്തിമത്-കല്പലതികാ, പശുപാശ വിമോചനീ । || സംഹൃതാശേഷ പാഷംഡാ, സദാചാര പ്രവര്തികാ",
     "sanskrit": "भक्तिमत्-कल्पलतिका, पशुपाश विमोचनी । || संहृताशेष पाषंडा, सदाचार प्रवर्तिका",
     "english": "bhaktimat-kalpalatikā, paśupāśa vimōchanī । || saṃhṛtāśēṣa pāṣaṇḍā, sadāchāra pravartikā",
-    "meaning": "She is the wish-fulfilling creeper for devotees, liberator from animalistic bonds, destroyer of all heretics, and initiator of righteous conduct.[cite: 1]"
+    "meaning": "She is the wish-fulfilling creeper for devotees, liberator from animalistic bonds, destroyer of all heretics, and initiator of righteous conduct.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 79,
     "malayalam": "താപത്രയാഗ്നി സംതപ്ത സമാഹ്ലാദന ചംദ്രികാ । || തരുണീ, താപസാരാധ്യാ, തനുമധ്യാ, തമോഽപഹാ",
     "sanskrit": "तापत्रयाग्नि संतप्त समाह्लादन चंद्रिका । || तरुणी, तापसाराध्या, तनुमध्या, तमोऽपहा",
     "english": "tāpatrayāgni santapta samāhlādana chandrikā । || taruṇī, tāpasārādhyā, tanumadhyā, tamō'pahā",
-    "meaning": "She is soothing moonlight for those scorched by misery, eternally youthful, worshipped by ascetics, slender-waisted, and the dispeller of ignorance.[cite: 1]"
+    "meaning": "She is soothing moonlight for those scorched by misery, eternally youthful, worshipped by ascetics, slender-waisted, and the dispeller of ignorance.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 80,
     "malayalam": "ചിതി, സ്തത്പദലക്ഷ്യാര്ഥാ, ചിദേക രസരൂപിണീ । || സ്വാത്മാനംദലവീഭൂത ബ്രഹ്മാദ്യാനംദ സംതതിഃ",
     "sanskrit": "चिति, स्तत्पदलक्ष्यार्था, चिदेक रसरूपिणी । || स्वात्मानंदलवीभूत ब्रह्माद्यानंद संततिः",
     "english": "chiti, statpadalakṣyārthā, chidēka rasarūpiṇī । || svātmānandalavībhūta brahmādyānanda santatiḥ",
-    "meaning": "She is pure consciousness, the true meaning of 'Tat', the single essence of consciousness, and her fraction of bliss forms the bliss of Brahma and others.[cite: 1]"
+    "meaning": "She is pure consciousness, the true meaning of 'Tat', the single essence of consciousness, and her fraction of bliss forms the bliss of Brahma and others.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 81,
     "malayalam": "പരാ, പ്രത്യക്ചിതീ രൂപാ, പശ്യംതീ, പരദേവതാ । || മധ്യമാ, വൈഖരീരൂപാ, ഭക്തമാനസ ഹംസികാ",
     "sanskrit": "परा, प्रत्यक्चिती रूपा, पश्यंती, परदेवता । || मध्यमा, वैखरीरूपा, भक्तमानस हंसिका",
     "english": "parā, pratyakchitī rūpā, paśyantī, paradēvatā । || madhyamā, vaikharīrūpā, bhaktamānasa haṃsikā",
-    "meaning": "She is Supreme speech, inner consciousness, seeing speech, the Supreme Deity, middle speech, articulated speech, and the swan in the minds of devotees.[cite: 1]"
+    "meaning": "She is Supreme speech, inner consciousness, seeing speech, the Supreme Deity, middle speech, articulated speech, and the swan in the minds of devotees.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 82,
     "malayalam": "കാമേശ്വര പ്രാണനാഡീ, കൃതജ്ഞാ, കാമപൂജിതാ । || ശൃംഗാര രസസംപൂര്ണാ, ജയാ, ജാലംധരസ്ഥിതാ",
     "sanskrit": "कामेश्वर प्राणनाडी, कृतज्ञा, कामपूजिता । || शृंगार रससंपूर्णा, जया, जालंधरस्थिता",
     "english": "kāmēśvara prāṇanāḍī, kṛtajñā, kāmapūjitā । || śṛṅgāra rasasampūrṇā, jayā, jālandharasthitā",
-    "meaning": "She is the life-breath of Kameshwara, the grateful one, worshipped by Cupid, filled with romantic love, the Victorious One, residing in Jalandhara.[cite: 1]"
+    "meaning": "She is the life-breath of Kameshwara, the grateful one, worshipped by Cupid, filled with romantic love, the Victorious One, residing in Jalandhara.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 83,
     "malayalam": "ഓഡ്യാണ പീഠനിലയാ, ബിംദുമംഡല വാസിനീ । || രഹോയാഗ ക്രമാരാധ്യാ, രഹസ്തര്പണ തര്പിതാ",
     "sanskrit": "ओड्याण पीठनिलया, बिंदुमंडल वासिनी । || रहोयाग क्रमाराध्या, रहस्तर्पण तर्पिता",
     "english": "ōḍyāṇa pīṭhanilayā, bindumaṇḍala vāsinī । || rahōyāga kramārādhyā, rahastarpaṇa tarpitā",
-    "meaning": "She dwells in the Odyana Peetha, resides in the Bindu Mandala, is worshipped through secret sacrifices, and pleased by secret offerings.[cite: 1]"
+    "meaning": "She dwells in the Odyana Peetha, resides in the Bindu Mandala, is worshipped through secret sacrifices, and pleased by secret offerings.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 84,
     "malayalam": "സദ്യഃ പ്രസാദിനീ, വിശ്വസാക്ഷിണീ, സാക്ഷിവര്ജിതാ । || ഷഡംഗദേവതാ യുക്താ, ഷാഡ്ഗുണ്യ പരിപൂരിതാ",
     "sanskrit": "सद्यः प्रसादिनी, विश्वसाक्षिणी, साक्षिवर्जिता । || षडंगदेवता युक्ता, षाड्गुण्य परिपूरिता",
     "english": "sadyaḥ prasādinī, viśvasākṣiṇī, sākṣivarjitā । || ṣaḍaṅgadēvatā yuktā, ṣāḍguṇya paripūritā",
-    "meaning": "She is pleased instantly, the witness of the universe, devoid of any witness, accompanied by deities of the six limbs, and endowed with the six attributes.[cite: 1]"
+    "meaning": "She is pleased instantly, the witness of the universe, devoid of any witness, accompanied by deities of the six limbs, and endowed with the six attributes.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 85,
     "malayalam": "നിത്യക്ലിന്നാ, നിരുപമാ, നിർവാണ സുഖദായിനീ । || നിത്യാ, ഷോഡശികാരൂപാ, ശ്രീകംഠാര്ധ ശരീരിണീ",
     "sanskrit": "नित्यक्लिन्ना, निरुपमा, निर्वाण सुखदायिनी । || नित्या, षोडशिकारूपा, श्रीकंठार्ध शरीरिणी",
     "english": "nityaklinnā, nirupamā, nirvāṇa sukhadāyinī । || nityā, ṣōḍaśikārūpā, śrīkaṇṭhārdha śarīriṇī",
-    "meaning": "She is eternally compassionate, peerless, bestower of liberation's bliss, the Eternal One, embodying the sixteen-syllabled mantra, and sharing half of Shiva's body.[cite: 1]"
+    "meaning": "She is eternally compassionate, peerless, bestower of liberation's bliss, the Eternal One, embodying the sixteen-syllabled mantra, and sharing half of Shiva's body.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 86,
     "malayalam": "പ്രഭാവതീ, പ്രഭാരൂപാ, പ്രസിദ്ധാ, പരമേശ്വരീ । || മൂലപ്രകൃതി രവ്യക്താ, വ്യക്താഽവ്യക്ത സ്വരൂപിണീ",
     "sanskrit": "प्रभावती, प्रभारूपा, प्रसिद्धा, परमेश्वरी । || मूलप्रकृति रव्यक्ता, व्यक्ताऽव्यक्त स्वरूपिणी",
     "english": "prabhāvatī, prabhārūpā, prasiddhā, paramēśvarī । || mūlaprakṛti ravyaktā, vyaktā'vyakta svarūpiṇī",
-    "meaning": "She is endowed with effulgence, the form of effulgence, the Famous One, the Supreme Goddess, the unmanifest primal nature, and the form of both manifest and unmanifest.[cite: 1]"
+    "meaning": "She is endowed with effulgence, the form of effulgence, the Famous One, the Supreme Goddess, the unmanifest primal nature, and the form of both manifest and unmanifest.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 87,
     "malayalam": "വ്യാപിനീ, വിവിധാകാരാ, വിദ്യാഽവിദ്യാ സ്വരൂപിണീ । || മഹാകാമേശ നയനാ കുമുദാഹ്ലാദ കൌമുദീ",
     "sanskrit": "व्यापिनी, विविधाकारा, विद्याऽविद्या स्वरूपिणी । || महाकामेश नयना कुमुदाह्लाद कौमुदी",
     "english": "vyāpinī, vividhākārā, vidyā'vidyā svarūpiṇī । || mahākāmēśa nayanā kumudāhlāda kaumudī",
-    "meaning": "She is all-pervading, of diverse forms, the form of both knowledge and ignorance, and the moonlight that gladdens the lotus eyes of Maha Kameshwara.[cite: 1]"
+    "meaning": "She is all-pervading, of diverse forms, the form of both knowledge and ignorance, and the moonlight that gladdens the lotus eyes of Maha Kameshwara.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 88,
     "malayalam": "ഭക്തഹാര്ദ തമോഭേദ ഭാനുമദ്-ഭാനുസംതതിഃ । || ശിവദൂതീ, ശിവാരാധ്യാ, ശിവമൂര്തി, ശ്ശിവംകരീ",
     "sanskrit": "भक्तहार्द तमोभेद भानुमद्-भानुसंततिः । || शिवदूती, शिवाराध्या, शिवमूर्ति, श्शिवंकरी",
     "english": "bhaktahārda tamōbhēda bhānumad-bhānusantatiḥ । || śivadūtī, śivārādhyā, śivamūrti, śśivaṅkarī",
-    "meaning": "She is the sun whose rays dispel darkness in devotees' hearts, served by Shiva as messenger, worshipped by Shiva, the form of Shiva, and the maker of auspiciousness.[cite: 1]"
+    "meaning": "She is the sun whose rays dispel darkness in devotees' hearts, served by Shiva as messenger, worshipped by Shiva, the form of Shiva, and the maker of auspiciousness.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 89,
     "malayalam": "ശിവപ്രിയാ, ശിവപരാ, ശിഷ്ടേഷ്ടാ, ശിഷ്ടപൂജിതാ । || അപ്രമേയാ, സ്വപ്രകാശാ, മനോവാചാമ ഗോചരാ",
     "sanskrit": "शिवप्रिया, शिवपरा, शिष्टेष्टा, शिष्टपूजिता । || अप्रमेया, स्वप्रकाशा, मनोवाचाम गोचरा",
     "english": "śivapriyā, śivaparā, śiṣṭēṣṭā, śiṣṭapūjitā । || apramēyā, svaprakāśā, manōvāchāma gōcharā",
-    "meaning": "She is beloved of Shiva, supreme to Shiva, loved by the righteous, worshipped by the righteous, immeasurable, self-luminous, and beyond the reach of mind and speech.[cite: 1]"
+    "meaning": "She is beloved of Shiva, supreme to Shiva, loved by the righteous, worshipped by the righteous, immeasurable, self-luminous, and beyond the reach of mind and speech.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 90,
     "malayalam": "ചിച്ഛക്തി, ശ്ചേതനാരൂപാ, ജഡശക്തി, ര്ജഡാത്മികാ । || ഗായത്രീ, വ്യാഹൃതി, സ്സംധ്യാ, ദ്വിജബൃംദ നിഷേവിതാ",
     "sanskrit": "चिच्छक्ति, श्चेतनारूपा, जडशक्ति, र्जडात्मिका । || गायत्री, व्याहृति, स्संध्या, द्विजबृंद निषेविता",
     "english": "chichChakti, śchētanārūpā, jaḍaśakti, rjaḍātmikā । || gāyatrī, vyāhṛti, ssandhyā, dvijabṛnda niṣēvitā",
-    "meaning": "She is the power of consciousness, the form of consciousness, the material power, the soul of the material universe, Gayatri, Vyahriti, Sandhya, and worshipped by the twice-born.[cite: 1]"
+    "meaning": "She is the power of consciousness, the form of consciousness, the material power, the soul of the material universe, Gayatri, Vyahriti, Sandhya, and worshipped by the twice-born.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 91,
     "malayalam": "തത്ത്വാസനാ, തത്ത്വമയീ, പംചകോശാംതരസ്ഥിതാ । || നിസ്സീമമഹിമാ, നിത്യയൌവനാ, മദശാലിനീ",
     "sanskrit": "तत्त्वासना, तत्त्वमयी, पंचकोशांतरस्थिता । || निस्सीममहिमा, नित्ययौवना, मदशालिनी",
     "english": "tattvāsanā, tattvamayī, pañchakōśāntarasthitā । || nissīmamahimā, nityayauvanā, madaśālinī",
-    "meaning": "She is seated on the ultimate truth, embodies the ultimate truth, resides within the five sheaths, is of boundless glory, eternally youthful, and radiant with divine bliss.[cite: 1]"
+    "meaning": "She is seated on the ultimate truth, embodies the ultimate truth, resides within the five sheaths, is of boundless glory, eternally youthful, and radiant with divine bliss.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 92,
     "malayalam": "മദഘൂര്ണിത രക്താക്ഷീ, മദപാടല ഗംഡഭൂഃ । || ചംദന ദ്രവദിഗ്ധാംഗീ, ചാംപേയ കുസുമ പ്രിയാ",
     "sanskrit": "मदघूर्णित रक्ताक्षी, मदपाटल गंडभूः । || चंदन द्रवदिग्धांगी, चांपेय कुसुम प्रिया",
     "english": "madaghūrṇita raktākṣī, madapāṭala gaṇḍabhūḥ । || chandana dravadigdhāṅgī, chāmpēya kusuma priyā",
-    "meaning": "Her eyes roll in divine intoxication, her cheeks are flushed with divine bliss, her limbs are smeared with sandalwood paste, and she is fond of Champaka flowers.[cite: 1]"
+    "meaning": "Her eyes roll in divine intoxication, her cheeks are flushed with divine bliss, her limbs are smeared with sandalwood paste, and she is fond of Champaka flowers.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 93,
     "malayalam": "കുശലാ, കോമലാകാരാ, കുരുകുLLആ, കുലേശ്വരീ । || കുളകുംഡാലയാ, കൌള മാര്ഗതത്പര സേവിതാ",
     "sanskrit": "कुशला, कोमलाकारा, कुरुकुल्ला, कुलेश्वरी । || कुलकुंडालया, कौल मार्गतत्पर सेविता",
     "english": "kuśalā, kōmalākārā, kurukuḻḻā, kulēśvarī । || kuḻakuṇḍālayā, kauḻa mārgatatpara sēvitā",
-    "meaning": "She is the skillful one, of tender form, Goddess Kurukulla, Sovereign of the Kula, residing in the Kula Kunda, and worshipped by those on the Kaula path.[cite: 1]"
+    "meaning": "She is the skillful one, of tender form, Goddess Kurukulla, Sovereign of the Kula, residing in the Kula Kunda, and worshipped by those on the Kaula path.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 94,
     "malayalam": "കുമാര ഗണനാഥാംബാ, തുഷ്ടിഃ, പുഷ്ടി, ര്മതി, ര്ധൃതിഃ । || ശാംതിഃ, സ്വസ്തിമതീ, കാംതി, ര്നംദിനീ, വിഘ്നനാശിനീ",
     "sanskrit": "कुमार गणनाथांबा, तुष्टिः, पुष्टि, र्मति, र्धृतिः । || शांतिः, स्वस्तिमती, कांति, र्नंदिनी, विघ्ननाशिनी",
     "english": "kumāra gaṇanāthāmbā, tuṣṭiḥ, puṣṭi, rmati, rdhṛtiḥ । || śāntiḥ, svastimatī, kānti, rnandinī, vighnanāśinī",
-    "meaning": "She is the Mother of Kartikeya and Ganesha, Contentment, Nourishment, Intelligence, Steadfastness, Peace, the Auspicious One, Radiance, Delighter, and Destroyer of obstacles.[cite: 1]"
+    "meaning": "She is the Mother of Kartikeya and Ganesha, Contentment, Nourishment, Intelligence, Steadfastness, Peace, the Auspicious One, Radiance, Delighter, and Destroyer of obstacles.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 95,
     "malayalam": "തേജോവതീ, ത്രിനയനാ, ലോലാക്ഷീ കാമരൂപിണീ । || മാലിനീ, ഹംസിനീ, മാതാ, മലയാചല വാസിനീ",
     "sanskrit": "तेजोवती, त्रिनयना, लोलाक्षी कामरूपिणी । || मालिनी, हंसिनी, माता, मलयाचल वासिनी",
     "english": "tējōvatī, trinayanā, lōlākṣī kāmarūpiṇī । || mālinī, haṃsinī, mātā, malayāchala vāsinī",
-    "meaning": "She is full of radiance, three-eyed, with beautiful rolling eyes, takes any form at will, wears a garland, is the Swan, the Mother, and resides in the Malaya mountains.[cite: 1]"
+    "meaning": "She is full of radiance, three-eyed, with beautiful rolling eyes, takes any form at will, wears a garland, is the Swan, the Mother, and resides in the Malaya mountains.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 96,
     "malayalam": "സുമുഖീ, നളിനീ, സുഭ്രൂഃ, ശോഭനാ, സുരനായികാ । || കാലകംഠീ, കാംതിമതീ, ക്ഷോഭിണീ, സൂക്ഷ്മരൂപിണീ",
     "sanskrit": "सुमुखी, नलिनी, सुभ्रूः, शोभना, सुरनायिका । || कालकंठी, कांतिमती, क्षोभिणी, सूक्ष्मरूपिणी",
     "english": "sumukhī, naḻinī, subhrūḥ, śōbhanā, suranāyikā । || kālakaṇṭhī, kāntimatī, kṣōbhiṇī, sūkṣmarūpiṇī",
-    "meaning": "She has a beautiful face, is the Lotus, has beautiful eyebrows, the Radiant One, Sovereign of the gods, the blue-necked one, the luminous one, the agitator, and of subtle form.[cite: 1]"
+    "meaning": "She has a beautiful face, is the Lotus, has beautiful eyebrows, the Radiant One, Sovereign of the gods, the blue-necked one, the luminous one, the agitator, and of subtle form.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 97,
     "malayalam": "വജ്രേശ്വരീ, വാമദേവീ, വയോഽവസ്ഥാ വിവര്ജിതാ । || സിദ്ധേശ്വരീ, സിദ്ധവിദ്യാ, സിദ്ധമാതാ, യശസ്വിനീ",
     "sanskrit": "वज्रेश्वरी, वामदेवी, वयोऽवस्था विवर्जिता । || सिद्धेश्वरी, सिद्धविद्या, सिद्धमाता, यशस्विनी",
     "english": "vajrēśvarī, vāmadēvī, vayō'vasthā vivarjitā । || siddhēśvarī, siddhavidyā, siddhamātā, yaśasvinī",
-    "meaning": "She is the Sovereign of the thunderbolt, the beautiful Goddess, devoid of the stages of age, Sovereign of the Siddhas, the knowledge of the Siddhas, Mother of the Siddhas, and the glorious one.[cite: 1]"
+    "meaning": "She is the Sovereign of the thunderbolt, the beautiful Goddess, devoid of the stages of age, Sovereign of the Siddhas, the knowledge of the Siddhas, Mother of the Siddhas, and the glorious one.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 98,
     "malayalam": "വിശുദ്ധി ചക്രനിലയാ,ഽഽരക്തവര്ണാ, ത്രിലോചനാ । || ഖട്വാംഗാദി പ്രഹരണാ, വദനൈക സമന്വിതാ",
     "sanskrit": "विशुद्धि चक्रनिलया,ऽऽरक्तवर्णा, त्रिलोचना । || खट्वांगादि प्रहरणा, वदनैक समन्विता",
     "english": "viśuddhi chakranilayā,''raktavarṇā, trilōchanā । || khaṭvāṅgādi praharaṇā, vadanaika samanvitā",
-    "meaning": "She resides in the Vishuddhi chakra, is of rosy complexion, three-eyed, armed with weapons like the club, and endowed with a single face.[cite: 1]"
+    "meaning": "She resides in the Vishuddhi chakra, is of rosy complexion, three-eyed, armed with weapons like the club, and endowed with a single face.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 99,
     "malayalam": "പായസാന്നപ്രിയാ, ത്വക്​സ്ഥാ, പശുലോക ഭയംകരീ । || അമൃതാദി മഹാശക്തി സംവൃതാ, ഡാകിനീശ്വരീ",
     "sanskrit": "पायसान्नप्रिया, त्वक्​स्था, पशुलोक भयंकरी । || अमृतादि महाशक्ति संवृता, डाकिनीश्वरी",
     "english": "pāyasānnapriyā, tvak​sthā, paśulōka bhayaṅkarī । || amṛtādi mahāśakti saṃvṛtā, ḍākinīśvarī",
-    "meaning": "She is fond of milk-porridge, resides in the skin, strikes terror in the ignorant, is surrounded by Maha Shaktis like Amrita, and is in the form of Dakineshwari.[cite: 1]"
+    "meaning": "She is fond of milk-porridge, resides in the skin, strikes terror in the ignorant, is surrounded by Maha Shaktis like Amrita, and is in the form of Dakineshwari.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 100,
     "malayalam": "അനാഹതാബ്ജ നിലയാ, ശ്യാമാഭാ, വദനദ്വയാ । || ദംഷ്ട്രോജ്ജ്വലാ,ഽക്ഷമാലാധിധരാ, രുധിര സംസ്ഥിതാ",
     "sanskrit": "अनाहताब्ज निलया, श्यामाभा, वदनद्वया । || दंष्ट्रोज्ज्वला,ऽक्षमालाधिधरा, रुधिर संस्थिता",
     "english": "anāhatābja nilayā, śyāmābhā, vadanadvayā । || daṃṣṭrōjjvalā,'kṣamālādhidharā, rudhira saṃsthitā",
-    "meaning": "She resides in the Anahata lotus, is of dark radiant hue, has two faces, shining fangs, wears a rosary, and resides in the blood.[cite: 1]"
+    "meaning": "She resides in the Anahata lotus, is of dark radiant hue, has two faces, shining fangs, wears a rosary, and resides in the blood.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 101,
     "malayalam": "കാളരാത്ര്യാദി ശക്ത്യോഘവൃതാ, സ്നിഗ്ധൌദനപ്രിയാ । || മഹാവീരേംദ്ര വരദാ, രാകിണ്യംബാ സ്വരൂപിണീ",
     "sanskrit": "कालरात्र्यादि शक्त्योघवृता, स्निग्धौदनप्रिया । || महावीरेंद्र वरदा, राकिण्यंबा स्वरूपिणी",
     "english": "kāḻarātryādi śaktyōghavṛtā, snigdhaudanapriyā । || mahāvīrēndra varadā, rākiṇyambā svarūpiṇī",
-    "meaning": "She is surrounded by powers like Kalaratri, is fond of oily food, bestows boons to great warriors, and is in the form of Mother Rakini.[cite: 1]"
+    "meaning": "She is surrounded by powers like Kalaratri, is fond of oily food, bestows boons to great warriors, and is in the form of Mother Rakini.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 102,
     "malayalam": "മണിപൂരാബ്ജ നിലയാ, വദനത്രയ സംയുതാ । || വജ്രാധികായുധോപേതാ, ഡാമര്യാദിഭി രാവൃതാ",
     "sanskrit": "मणिपूराब्ज निलया, वदनत्रय संयुता । || वज्राधिकायुधोपेता, डामर्यादिभि रावृता",
     "english": "maṇipūrābja nilayā, vadanatraya saṃyutā । || vajrādhikāyudhōpētā, ḍāmaryādibhi rāvṛtā",
-    "meaning": "She resides in the Manipura lotus, has three faces, is armed with the thunderbolt and other weapons, and is surrounded by Damari and other Shaktis.[cite: 1]"
+    "meaning": "She resides in the Manipura lotus, has three faces, is armed with the thunderbolt and other weapons, and is surrounded by Damari and other Shaktis.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 103,
     "malayalam": "രക്തവര്ണാ, മാംസനിഷ്ഠാ, ഗുഡാന്ന പ്രീതമാനസാ । || സമസ്ത ഭക്തസുഖദാ, ലാകിന്യംബാ സ്വരൂപിണീ",
     "sanskrit": "रक्तवर्णा, मांसनिष्ठा, गुडान्न प्रीतमानसा । || समस्त भक्तसुखदा, लाकिन्यंबा स्वरूपिणी",
     "english": "raktavarṇā, māṃsaniṣṭhā, guḍānna prītamānasā । || samasta bhaktasukhadā, lākinyambā svarūpiṇī",
-    "meaning": "She is of red complexion, seated in the flesh, fond of jaggery rice, bestows happiness on all devotees, and is in the form of Mother Lakini.[cite: 1]"
+    "meaning": "She is of red complexion, seated in the flesh, fond of jaggery rice, bestows happiness on all devotees, and is in the form of Mother Lakini.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 104,
     "malayalam": "സ്വാധിഷ്ഠാനാംബു ജഗതാ, ചതുർവക്ത്ര മനോഹരാ । || ശൂലാദ്യായുധ സംപന്നാ, പീതവര്ണാ,ഽതിഗർവിതാ",
     "sanskrit": "स्वाधिष्ठानांबु जगता, चतुर्वक्त्र मनोहरा । || शूलाद्यायुध संपन्ना, पीतवर्णा,ऽतिगर्विता",
     "english": "svādhiṣṭhānāmbu jagatā, chaturvaktra manōharā । || śūlādyāyudha sampannā, pītavarṇā,'tigarvitā",
-    "meaning": "She dwells in the Swadhisthana lotus, enchants with four faces, is armed with a trident and other weapons, is of yellow complexion, and is immensely proud.[cite: 1]"
+    "meaning": "She dwells in the Swadhisthana lotus, enchants with four faces, is armed with a trident and other weapons, is of yellow complexion, and is immensely proud.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 105,
     "malayalam": "മേദോനിഷ്ഠാ, മധുപ്രീതാ, ബംദിന്യാദി സമന്വിതാ । || ദധ്യന്നാസക്ത ഹൃദയാ, കാകിനീ-രൂപധാരിണീ",
     "sanskrit": "मेदोनिष्ठा, मधुप्रीता, बंदिन्यादि समन्विता । || दध्यन्नासक्त हृदया, काकिनी-रूपधारिणी",
     "english": "mēdōniṣṭhā, madhuprītā, bandinyādi samanvitā । || dadhyannāsakta hṛdayā, kākinī-rūpadhāriṇī",
-    "meaning": "She is seated in the fat, is fond of honey, surrounded by Bandini and other Shaktis, has her heart set on curd-rice, and is in the form of Goddess Kakini.[cite: 1]"
+    "meaning": "She is seated in the fat, is fond of honey, surrounded by Bandini and other Shaktis, has her heart set on curd-rice, and is in the form of Goddess Kakini.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 106,
     "malayalam": "മൂലാ ധാരാംബുജാരൂഢാ, പംചവക്ത്രാ,ഽസ്ഥിസംസ്ഥിതാ । || അംകുശാദി പ്രഹരണാ, വരദാദി നിഷേവിതാ",
     "sanskrit": "मूला धारांबुजारूढा, पंचवक्त्रा,ऽस्थिसंस्थिता । || अंकुशादि प्रहरणा, वरदादि निषेविता",
     "english": "mūlā dhārāmbujārūḍhā, pañchavaktrā,'sthisaṃsthitā । || aṅkuśādi praharaṇā, varadādi niṣēvitā",
-    "meaning": "She resides in the Muladhara lotus, has five faces, is seated in the bones, armed with a goad and other weapons, and is served by Varada and other Shaktis.[cite: 1]"
+    "meaning": "She resides in the Muladhara lotus, has five faces, is seated in the bones, armed with a goad and other weapons, and is served by Varada and other Shaktis.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 107,
     "malayalam": "മുദ്ഗൌദനാസക്ത ചിത്താ, സാകിന്യംബാസ്വരൂപിണീ । || ആജ്ഞാ ചക്രാബ്ജനിലയാ, ശുക്ലവര്ണാ, ഷഡാനനാ",
     "sanskrit": "मुद्गौदनासक्त चित्ता, साकिन्यंबास्वरूपिणी । || आज्ञा चक्राब्जनिलया, शुक्लवर्णा, षडानना",
     "english": "mudgaudanāsakta chittā, sākinyambāsvarūpiṇī । || ājñā chakrābjanilayā, śuklavarṇā, ṣaḍānanā",
-    "meaning": "Her mind is fond of green-gram rice, she is in the form of Mother Sakini; she resides in the Ajna chakra lotus, is of white complexion, and has six faces.[cite: 1]"
+    "meaning": "Her mind is fond of green-gram rice, she is in the form of Mother Sakini; she resides in the Ajna chakra lotus, is of white complexion, and has six faces.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 108,
     "malayalam": "മജ്ജാസംസ്ഥാ, ഹംസവതീ-മുഖ്യശക്തി-സമന്വിതാ । || ഹരിദ്രാന്നൈക രസികാ, ഹാകിനീ-രൂപധാരിണീ",
     "sanskrit": "मज्जासंस्था, हंसवती-मुख्यशक्ति-समन्विता । || हरिद्रान्नैक रसिका, हाकिनी-रूपधारिणी",
     "english": "majjāsaṃsthā, haṃsavatī-mukhyaśakti-samanvitā । || haridrānnaika rasikā, hākinī-rūpadhāriṇī",
-    "meaning": "She is seated in the marrow, accompanied by Hamsavati and other principal Shaktis, exclusively relishes turmeric-rice, and is in the form of Goddess Hakini.[cite: 1]"
+    "meaning": "She is seated in the marrow, accompanied by Hamsavati and other principal Shaktis, exclusively relishes turmeric-rice, and is in the form of Goddess Hakini.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 109,
     "malayalam": "സഹസ്രദള പദ്മസ്ഥാ, സർവവര്ണോപ ശോഭിതാ । || സർവായുധധരാ, ശുക്ല സംസ്ഥിതാ, സർവതോമുഖീ",
     "sanskrit": "सहस्रदल पद्मस्था, सर्ववर्णोप शोभिता । || सर्वायुधधरा, शुक्ल संस्थिता, सर्वतोमुखी",
     "english": "sahasradaḻa padmasthā, sarvavarṇōpa śōbhitā । || sarvāyudhadharā, śukla saṃsthitā, sarvatōmukhī",
-    "meaning": "She is stationed in the thousand-petalled lotus, glows with all colors, holds all weapons, is stationed in the pure essence, and faces all directions.[cite: 1]"
+    "meaning": "She is stationed in the thousand-petalled lotus, glows with all colors, holds all weapons, is stationed in the pure essence, and faces all directions.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 110,
     "malayalam": "സർവൌദന പ്രീതചിത്താ, യാകിന്യംബാ സ്വരൂപിണീ । || സ്വാഹാ, സ്വധാ,ഽമതി, ര്മേധാ, ശ്രുതിഃ, സ്മൃതി, രനുത്തമാ",
     "sanskrit": "सर्वौदन प्रीतचित्ता, याकिन्यंबा स्वरूपिणी । || स्वाहा, स्वधा,ऽमति, र्मेधा, श्रुतिः, स्मृति, रनुत्तमा",
     "english": "sarvaudana prītachittā, yākinyambā svarūpiṇī । || svāhā, svadhā,'mati, rmēdhā, śrutiḥ, smṛti, ranuttamā",
-    "meaning": "Her mind is fond of all food, she is in the form of Mother Yakini; she is Swaha, Swadha, non-intelligence, intellect, Shruti, Smriti, and the supreme one.[cite: 1]"
+    "meaning": "Her mind is fond of all food, she is in the form of Mother Yakini; she is Swaha, Swadha, non-intelligence, intellect, Shruti, Smriti, and the supreme one.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 111,
     "malayalam": "പുണ്യകീര്തിഃ, പുണ്യലഭ്യാ, പുണ്യശ്രവണ കീര്തനാ । || പുലോമജാര്ചിതാ, ബംധമോചനീ, ബംധുരാലകാ",
     "sanskrit": "पुण्यकीर्तिः, पुण्यलभ्या, पुण्यश्रवण कीर्तना । || पुलोमजार्चिता, बंधमोचनी, बंधुरालका",
     "english": "puṇyakīrtiḥ, puṇyalabhyā, puṇyaśravaṇa kīrtanā । || pulōmajārchitā, bandhamōchanī, bandhurālakā",
-    "meaning": "She is of meritorious fame, attainable through merit, whose name is meritorious to hear, worshipped by Indra's wife, liberator from bonds, and has beautiful wavy hair.[cite: 1]"
+    "meaning": "She is of meritorious fame, attainable through merit, whose name is meritorious to hear, worshipped by Indra's wife, liberator from bonds, and has beautiful wavy hair.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 112,
     "malayalam": "വിമര്ശരൂപിണീ, വിദ്യാ, വിയദാദി ജഗത്പ്രസൂഃ । || സർവവ്യാധി പ്രശമനീ, സർവമൃത്യു നിവാരിണീ",
     "sanskrit": "विमर्शरूपिणी, विद्या, वियदादि जगत्प्रसूः । || सर्वव्याधि प्रशमनी, सर्वमृत्यु निवारिणी",
     "english": "vimarśarūpiṇī, vidyā, viyadādi jagatprasūḥ । || sarvavyādhi praśamanī, sarvamṛtyu nivāriṇī",
-    "meaning": "She is the form of reflective consciousness, pure knowledge, mother of the universe, healer of all diseases, and preventer of untimely deaths.[cite: 1]"
+    "meaning": "She is the form of reflective consciousness, pure knowledge, mother of the universe, healer of all diseases, and preventer of untimely deaths.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 113,
     "malayalam": "അഗ്രഗണ്യാ,ഽചിംത്യരൂപാ, കലികല്മഷ നാശിനീ । || കാത്യായിനീ, കാലഹംത്രീ, കമലാക്ഷ നിഷേവിതാ",
     "sanskrit": "अग्रगण्या,ऽचिंत्यरूपा, कलिकल्मष नाशिनी । || कात्यायिनी, कालहंत्री, कमलाक्ष निषेविता",
     "english": "agragaṇyā,'chintyarūpā, kalikalmaṣa nāśinī । || kātyāyinī, kālahantrī, kamalākṣa niṣēvitā",
-    "meaning": "She is foremost among everything, of inconceivable form, destroyer of the sins of Kali age, Katyayini, destroyer of time, and worshipped by Lord Vishnu.[cite: 1]"
+    "meaning": "She is foremost among everything, of inconceivable form, destroyer of the sins of Kali age, Katyayini, destroyer of time, and worshipped by Lord Vishnu.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 114,
     "malayalam": "താംബൂല പൂരിത മുഖീ, ദാഡിമീ കുസുമപ്രഭാ । || മൃഗാക്ഷീ, മോഹിനീ, മുഖ്യാ, മൃഡാനീ, മിത്രരൂപിണീ",
     "sanskrit": "तांबूल पूरित मुखी, दाडिमी कुसुमप्रभा । || मृगाक्षी, मोहिनी, मुख्या, मृडानी, मित्ररूपिणी",
     "english": "tāmbūla pūrita mukhī, dāḍimī kusumaprabhā । || mṛgākṣī, mōhinī, mukhyā, mṛḍānī, mitrarūpiṇī",
-    "meaning": "Her mouth is filled with betel leaves, she is radiant like the pomegranate flower, fawn-eyed, the Enchantress, the Principal One, consort of Mrida, and the form of a friend.[cite: 1]"
+    "meaning": "Her mouth is filled with betel leaves, she is radiant like the pomegranate flower, fawn-eyed, the Enchantress, the Principal One, consort of Mrida, and the form of a friend.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 115,
     "malayalam": "നിത്യതൃപ്താ, ഭക്തനിധി, ര്നിയംത്രീ, നിഖിലേശ്വരീ । || മൈത്ര്യാദി വാസനാലഭ്യാ, മഹാപ്രളയ സാക്ഷിണീ",
     "sanskrit": "नित्यतृप्ता, भक्तनिधि, र्नियंत्री, निखिलेश्वरी । || मैत्र्यादि वासनालभ्या, महाप्रलय साक्षिणी",
     "english": "nityatṛptā, bhaktanidhi, rniyantrī, nikhilēśvarī । || maitryādi vāsanālabhyā, mahāpraḻaya sākṣiṇī",
-    "meaning": "She is eternally satisfied, the treasure-house of devotees, the controller, Sovereign of all, attainable through friendship, and witness to the great cosmic dissolution.[cite: 1]"
+    "meaning": "She is eternally satisfied, the treasure-house of devotees, the controller, Sovereign of all, attainable through friendship, and witness to the great cosmic dissolution.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 116,
     "malayalam": "പരാശക്തിഃ, പരാനിഷ്ഠാ, പ്രജ്ഞാന ഘനരൂപിണീ । || മാധ്വീപാനാലസാ, മത്താ, മാതൃകാ വര്ണ രൂപിണീ",
     "sanskrit": "पराशक्तिः, परानिष्ठा, प्रज्ञान घनरूपिणी । || माध्वीपानालसा, मत्ता, मातृका वर्ण रूपिणी",
     "english": "parāśaktiḥ, parāniṣṭhā, prajñāna ghanarūpiṇī । || mādhvīpānālasā, mattā, mātṛkā varṇa rūpiṇī",
-    "meaning": "She is the Supreme Power, the supreme state, the dense embodiment of pure wisdom, languid from Madhvi wine, divinely intoxicated, and embodies the alphabet.[cite: 1]"
+    "meaning": "She is the Supreme Power, the supreme state, the dense embodiment of pure wisdom, languid from Madhvi wine, divinely intoxicated, and embodies the alphabet.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 117,
     "malayalam": "മഹാകൈലാസ നിലയാ, മൃണാല മൃദുദോര്ലതാ । || മഹനീയാ, ദയാമൂര്തീ, ര്മഹാസാമ്രാജ്യശാലിനീ",
     "sanskrit": "महाकैलास निलया, मृणाल मृदुदोर्लता । || महनीया, दयामूर्ती, र्महासाम्राज्यशालिनी",
     "english": "mahākailāsa nilayā, mṛṇāla mṛdudōrlatā । || mahanīyā, dayāmūrtī, rmahāsāmrājyaśālinī",
-    "meaning": "She resides in great Kailasa, has arms soft as lotus stalks, is the Venerable One, the embodiment of compassion, and sovereign of a vast empire.[cite: 1]"
+    "meaning": "She resides in great Kailasa, has arms soft as lotus stalks, is the Venerable One, the embodiment of compassion, and sovereign of a vast empire.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 118,
     "malayalam": "ആത്മവിദ്യാ, മഹാവിദ്യാ, ശ്രീവിദ്യാ, കാമസേവിതാ । || ശ്രീഷോഡശാക്ഷരീ വിദ്യാ, ത്രികൂടാ, കാമകോടികാ",
     "sanskrit": "आत्मविद्या, महाविद्या, श्रीविद्या, कामसेविता । || श्रीषोडशाक्षरी विद्या, त्रिकूटा, कामकोटिका",
     "english": "ātmavidyā, mahāvidyā, śrīvidyā, kāmasēvitā । || śrīṣōḍaśākṣarī vidyā, trikūṭā, kāmakōṭikā",
-    "meaning": "She embodies knowledge of the Self, great knowledge, Sri Vidya, is worshipped by Kama, the sixteen-syllabled mantra, the three-peaked one, and resides in Kamakoti.[cite: 1]"
+    "meaning": "She embodies knowledge of the Self, great knowledge, Sri Vidya, is worshipped by Kama, the sixteen-syllabled mantra, the three-peaked one, and resides in Kamakoti.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 119,
     "malayalam": "കടാക്ഷകിംകരീ ഭൂത കമലാ കോടിസേവിതാ । || ശിരഃസ്ഥിതാ, ചംദ്രനിഭാ, ഫാലസ്ഥേംദ്ര ധനുഃപ്രഭാ",
     "sanskrit": "कटाक्षकिंकरी भूत कमला कोटिसेविता । || शिरःस्थिता, चंद्रनिभा, फालस्थेंद्र धनुःप्रभा",
     "english": "kaṭākṣakiṅkarī bhūta kamalā kōṭisēvitā । || śiraḥsthitā, chandranibhā, phālasthēndra dhanuḥprabhā",
-    "meaning": "She is served by millions of Lakshmis, is situated in the head, radiant like the moon, and has a forehead shining like a rainbow.[cite: 1]"
+    "meaning": "She is served by millions of Lakshmis, is situated in the head, radiant like the moon, and has a forehead shining like a rainbow.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 120,
     "malayalam": "ഹൃദയസ്ഥാ, രവിപ്രഖ്യാ, ത്രികോണാംതര ദീപികാ । || ദാക്ഷായണീ, ദൈത്യഹംത്രീ, ദക്ഷയജ്ഞ വിനാശിനീ",
     "sanskrit": "हृदयस्था, रविप्रख्या, त्रिकोणांतर दीपिका । || दाक्षायणी, दैत्यहंत्री, दक्षयज्ञ विनाशिनी",
     "english": "hṛdayasthā, raviprakhyā, trikōṇāntara dīpikā । || dākṣāyaṇī, daityahantrī, dakṣayajña vināśinī",
-    "meaning": "She is situated in the heart, radiant like the sun, the lamp within the triangle, daughter of Daksha, slayer of demons, and destroyer of Daksha's sacrifice.[cite: 1]"
+    "meaning": "She is situated in the heart, radiant like the sun, the lamp within the triangle, daughter of Daksha, slayer of demons, and destroyer of Daksha's sacrifice.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 121,
     "malayalam": "ദരാംദോളിത ദീര്ഘാക്ഷീ, ദരഹാസോജ്ജ്വലന്മുഖീ । || ഗുരുമൂര്തി, ര്ഗുണനിധി, ര്ഗോമാതാ, ഗുഹജന്മഭൂഃ",
     "sanskrit": "दरांदोलित दीर्घाक्षी, दरहासोज्ज्वलन्मुखी । || गुरुमूर्ति, र्गुणनिधि, र्गोमाता, गुहजन्मभूः",
     "english": "darāndōḻita dīrghākṣī, darahāsōjjvalanmukhī । || gurumūrti, rguṇanidhi, rgōmātā, guhajanmabhūḥ",
-    "meaning": "She has large darting eyes, a face radiant with a gentle smile, is the form of the Guru, the treasure of virtues, Mother of the Vedas, and mother of Kartikeya.[cite: 1]"
+    "meaning": "She has large darting eyes, a face radiant with a gentle smile, is the form of the Guru, the treasure of virtues, Mother of the Vedas, and mother of Kartikeya.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 122,
     "malayalam": "ദേവേശീ, ദംഡനീതിസ്ഥാ, ദഹരാകാശ രൂപിണീ । || പ്രതിപന്മുഖ്യ രാകാംത തിഥിമംഡല പൂജിതാ",
     "sanskrit": "देवेशी, दंडनीतिस्था, दहराकाश रूपिणी । || प्रतिपन्मुख्य राकांत तिथिमंडल पूजिता",
     "english": "dēvēśī, daṇḍanītisthā, daharākāśa rūpiṇī । || pratipanmukhya rākānta tithimaṇḍala pūjitā",
-    "meaning": "She is Sovereign of the gods, establishing justice, the form of the ether of the heart, and is worshipped during the lunar phases.[cite: 1]"
+    "meaning": "She is Sovereign of the gods, establishing justice, the form of the ether of the heart, and is worshipped during the lunar phases.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 123,
     "malayalam": "കളാത്മികാ, കളാനാഥാ, കാവ്യാലാപ വിനോദിനീ । || സചാമര രമാവാണീ സവ്യദക്ഷിണ സേവിതാ",
     "sanskrit": "कलात्मिका, कलानाथा, काव्यालाप विनोदिनी । || सचामर रमावाणी सव्यदक्षिण सेविता",
     "english": "kaḻātmikā, kaḻānāthā, kāvyālāpa vinōdinī । || sachāmara ramāvāṇī savyadakṣiṇa sēvitā",
-    "meaning": "She is the soul of all arts, Sovereign of the arts, delights in poetry, and is served by Lakshmi and Saraswati on her left and right.[cite: 1]"
+    "meaning": "She is the soul of all arts, Sovereign of the arts, delights in poetry, and is served by Lakshmi and Saraswati on her left and right.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 124,
     "malayalam": "ആദിശക്തി, രമേയാ,ഽഽത്മാ, പരമാ, പാവനാകൃതിഃ । || അനേകകോടി ബ്രഹ്മാംഡ ജനനീ, ദിവ്യവിഗ്രഹാ",
     "sanskrit": "आदिशक्ति, रमेया,ऽऽत्मा, परमा, पावनाकृतिः । || अनेककोटि ब्रह्मांड जननी, दिव्यविग्रहा",
     "english": "ādiśakti, ramēyā,''tmā, paramā, pāvanākṛtiḥ । || anēkakōṭi brahmāṇḍa jananī, divyavigrahā",
-    "meaning": "She is the Primal Power, the immeasurable, the supreme soul, the Supreme One, of pure form, Mother of countless universes, and of divine form.[cite: 1]"
+    "meaning": "She is the Primal Power, the immeasurable, the supreme soul, the Supreme One, of pure form, Mother of countless universes, and of divine form.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 125,
     "malayalam": "ക്ലീംകാരീ, കേവലാ, ഗുഹ്യാ, കൈവല്യ പദദായിനീ । || ത്രിപുരാ, ത്രിജഗദ്വംദ്യാ, ത്രിമൂര്തി, സ്ത്രിദശേശ്വരീ",
     "sanskrit": "क्लींकारी, केवला, गुह्या, कैवल्य पददायिनी । || त्रिपुरा, त्रिजगद्वंद्या, त्रिमूर्ति, स्त्रिदशेश्वरी",
     "english": "klīṅkārī, kēvalā, guhyā, kaivalya padadāyinī । || tripurā, trijagadvandyā, trimūrti, stridaśēśvarī",
-    "meaning": "She makes the sound 'Klim', is the absolute one, the secret one, bestower of ultimate liberation, Goddess Tripura, worshipped by the three worlds, the trinity, and sovereign of gods.[cite: 1]"
+    "meaning": "She makes the sound 'Klim', is the absolute one, the secret one, bestower of ultimate liberation, Goddess Tripura, worshipped by the three worlds, the trinity, and sovereign of gods.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 126,
     "malayalam": "ത്ര്യക്ഷരീ, ദിവ്യഗംധാഢ്യാ, സിംധൂര തിലകാംചിതാ । || ഉമാ, ശൈലേംദ്രതനയാ, ഗൌരീ, ഗംധർവ സേവിതാ",
     "sanskrit": "त्र्यक्षरी, दिव्यगंधाढ्या, सिंधूर तिलकांचिता । || उमा, शैलेंद्रतनया, गौरी, गंधर्व सेविता",
     "english": "tryakṣarī, divyagandhāḍhyā, sindhūra tilakāñchitā । || umā, śailēndratanayā, gaurī, gandharva sēvitā",
-    "meaning": "She embodies the three syllables, is rich in divine fragrance, adorned with vermilion, is Uma, daughter of the mountain king, Gauri, and served by Gandharvas.[cite: 1]"
+    "meaning": "She embodies the three syllables, is rich in divine fragrance, adorned with vermilion, is Uma, daughter of the mountain king, Gauri, and served by Gandharvas.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 127,
     "malayalam": "വിശ്വഗര്ഭാ, സ്വര്ണഗര്ഭാ,ഽവരദാ വാഗധീശ്വരീ । || ധ്യാനഗമ്യാ,ഽപരിച്ഛേദ്യാ, ജ്ഞാനദാ, ജ്ഞാനവിഗ്രഹാ",
     "sanskrit": "विश्वगर्भा, स्वर्णगर्भा,ऽवरदा वागधीश्वरी । || ध्यानगम्या,ऽपरिच्छेद्या, ज्ञानदा, ज्ञानविग्रहा",
     "english": "viśvagarbhā, svarṇagarbhā,'varadā vāgadhīśvarī । || dhyānagamyā,'parichChēdyā, jñānadā, jñānavigrahā",
-    "meaning": "She is the womb of the universe, the golden womb, bestower of boons, Sovereign of Speech, attainable through meditation, indivisible, bestower and embodiment of knowledge.[cite: 1]"
+    "meaning": "She is the womb of the universe, the golden womb, bestower of boons, Sovereign of Speech, attainable through meditation, indivisible, bestower and embodiment of knowledge.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 128,
     "malayalam": "സർവവേദാംത സംവേദ്യാ, സത്യാനംദ സ്വരൂപിണീ । || ലോപാമുദ്രാര്ചിതാ, ലീലാകൢപ്ത ബ്രഹ്മാംഡമംഡലാ",
     "sanskrit": "सर्ववेदांत संवेद्या, सत्यानंद स्वरूपिणी । || लोपामुद्रार्चिता, लीलाकॢप्त ब्रह्मांडमंडला",
     "english": "sarvavēdānta saṃvēdyā, satyānanda svarūpiṇī । || lōpāmudrārchitā, līlākL​ipta brahmāṇḍamaṇḍalā",
-    "meaning": "She is known through the Vedantas, the form of truth and bliss, worshipped by Lopamudra, and creates the mandalas of the universe in playful sport.[cite: 1]"
+    "meaning": "She is known through the Vedantas, the form of truth and bliss, worshipped by Lopamudra, and creates the mandalas of the universe in playful sport.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 129,
     "malayalam": "അദൃശ്യാ, ദൃശ്യരഹിതാ, വിജ്ഞാത്രീ, വേദ്യവര്ജിതാ । || യോഗിനീ, യോഗദാ, യോഗ്യാ, യോഗാനംദാ, യുഗംധരാ",
     "sanskrit": "अदृश्या, दृश्यरहिता, विज्ञात्री, वेद्यवर्जिता । || योगिनी, योगदा, योग्या, योगानंदा, युगंधरा",
     "english": "adṛśyā, dṛśyarahitā, vijñātrī, vēdyavarjitā । || yōginī, yōgadā, yōgyā, yōgānandā, yugandharā",
-    "meaning": "She is invisible, devoid of objective reality, the knower, free from being an object of knowledge, the Yogini, bestower of Yoga, fit for Yoga, the bliss of Yoga, and bearer of the eras.[cite: 1]"
+    "meaning": "She is invisible, devoid of objective reality, the knower, free from being an object of knowledge, the Yogini, bestower of Yoga, fit for Yoga, the bliss of Yoga, and bearer of the eras.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 130,
     "malayalam": "ഇച്ഛാശക്തി ജ്ഞാനശക്തി ക്രിയാശക്തി സ്വരൂപിണീ । || സർവാധാരാ, സുപ്രതിഷ്ഠാ, സദസദ്-രൂപധാരിണീ",
     "sanskrit": "इच्छाशक्ति ज्ञानशक्ति क्रियाशक्ति स्वरूपिणी । || सर्वाधारा, सुप्रतिष्ठा, सदसद्-रूपधारिणी",
     "english": "ichChāśakti jñānaśakti kriyāśakti svarūpiṇī । || sarvādhārā, supratiṣṭhā, sadasad-rūpadhāriṇī",
-    "meaning": "She embodies the powers of will, knowledge, and action, is the foundation of all, firmly established, and embodies both the real and the unreal.[cite: 1]"
+    "meaning": "She embodies the powers of will, knowledge, and action, is the foundation of all, firmly established, and embodies both the real and the unreal.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 131,
     "malayalam": "അഷ്ടമൂര്തി, രജാജൈത്രീ, ലോകയാത്രാ വിധായിനീ । || ഏകാകിനീ, ഭൂമരൂപാ, നിര്ദ്വൈതാ, ദ്വൈതവര്ജിതാ",
     "sanskrit": "अष्टमूर्ति, रजाजैत्री, लोकयात्रा विधायिनी । || एकाकिनी, भूमरूपा, निर्द्वैता, द्वैतवर्जिता",
     "english": "aṣṭamūrti, rajājaitrī, lōkayātrā vidhāyinī । || ēkākinī, bhūmarūpā, nirdvaitā, dvaitavarjitā",
-    "meaning": "She embodies the eight forms, conqueror of the unborn, director of the worldly journey, the Solitary One, of earthly form, non-dual, and free from duality.[cite: 1]"
+    "meaning": "She embodies the eight forms, conqueror of the unborn, director of the worldly journey, the Solitary One, of earthly form, non-dual, and free from duality.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 132,
     "malayalam": "അന്നദാ, വസുദാ, വൃദ്ധാ, ബ്രഹ്മാത്മൈക്യ സ്വരൂപിണീ । || ബൃഹതീ, ബ്രാഹ്മണീ, ബ്രാഹ്മീ, ബ്രഹ്മാനംദാ, ബലിപ്രിയാ",
     "sanskrit": "अन्नदा, वसुदा, वृद्धा, ब्रह्मात्मैक्य स्वरूपिणी । || बृहती, ब्राह्मणी, ब्राह्मी, ब्रह्मानंदा, बलिप्रिया",
     "english": "annadā, vasudā, vṛddhā, brahmātmaikya svarūpiṇī । || bṛhatī, brāhmaṇī, brāhmī, brahmānandā, balipriyā",
-    "meaning": "She gives food and wealth, is the Ancient One, the unity of Brahman and Atman, the Great One, wife of Brahma, power of Brahma, bliss of Brahman, and fond of offerings.[cite: 1]"
+    "meaning": "She gives food and wealth, is the Ancient One, the unity of Brahman and Atman, the Great One, wife of Brahma, power of Brahma, bliss of Brahman, and fond of offerings.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 133,
     "malayalam": "ഭാഷാരൂപാ, ബൃഹത്സേനാ, ഭാവാഭാവ വിവര്ജിതാ । || സുഖാരാധ്യാ, ശുഭകരീ, ശോഭനാ സുലഭാഗതിഃ",
     "sanskrit": "भाषारूपा, बृहत्सेना, भावाभाव विवर्जिता । || सुखाराध्या, शुभकरी, शोभना सुलभागतिः",
     "english": "bhāṣārūpā, bṛhatsēnā, bhāvābhāva vivarjitā । || sukhārādhyā, śubhakarī, śōbhanā sulabhāgatiḥ",
-    "meaning": "She is the form of language, has a vast army, is beyond existence and non-existence, easily worshipped, doer of auspiciousness, the beautiful one, and easily attainable.[cite: 1]"
+    "meaning": "She is the form of language, has a vast army, is beyond existence and non-existence, easily worshipped, doer of auspiciousness, the beautiful one, and easily attainable.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 134,
     "malayalam": "രാജരാജേശ്വരീ, രാജ്യദായിനീ, രാജ്യവല്ലഭാ । || രാജത്-കൃപാ, രാജപീഠ നിവേശിത നിജാശ്രിതാഃ",
     "sanskrit": "राजराजेश्वरी, राज्यदायिनी, राज्यवल्लभा । || राजत्-कृपा, राजपीठ निवेशित निजाश्रिताः",
     "english": "rājarājēśvarī, rājyadāyinī, rājyavallabhā । || rājat-kṛpā, rājapīṭha nivēśita nijāśritāḥ",
-    "meaning": "She is the supreme sovereign of kings, bestower of kingdoms, beloved of the kingdom, of shining compassion, and establishes her dependents on royal thrones.[cite: 1]"
+    "meaning": "She is the supreme sovereign of kings, bestower of kingdoms, beloved of the kingdom, of shining compassion, and establishes her dependents on royal thrones.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 135,
     "malayalam": "രാജ്യലക്ഷ്മീഃ, കോശനാഥാ, ചതുരംഗ ബലേശ്വരീ । || സാമ്രാജ്യദായിനീ, സത്യസംധാ, സാഗരമേഖലാ",
     "sanskrit": "राज्यलक्ष्मीः, कोशनाथा, चतुरंग बलेश्वरी । || साम्राज्यदायिनी, सत्यसंधा, सागरमेखला",
     "english": "rājyalakṣmīḥ, kōśanāthā, chaturaṅga balēśvarī । || sāmrājyadāyinī, satyasandhā, sāgaramēkhalā",
-    "meaning": "She is the wealth of the kingdom, sovereign of the treasury, commander of the four-fold army, bestower of empires, devoted to truth, and girdled by the oceans.[cite: 1]"
+    "meaning": "She is the wealth of the kingdom, sovereign of the treasury, commander of the four-fold army, bestower of empires, devoted to truth, and girdled by the oceans.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 136,
     "malayalam": "ദീക്ഷിതാ, ദൈത്യശമനീ, സർവലോക വശംകരീ । || സർവാര്ഥദാത്രീ, സാവിത്രീ, സച്ചിദാനംദ രൂപിണീ",
     "sanskrit": "दीक्षिता, दैत्यशमनी, सर्वलोक वशंकरी । || सर्वार्थदात्री, सावित्री, सच्चिदानंद रूपिणी",
     "english": "dīkṣitā, daityaśamanī, sarvalōka vaśaṅkarī । || sarvārthadātrī, sāvitrī, sachchidānanda rūpiṇī",
-    "meaning": "She is the initiated one, pacifier of demons, mesmerizer of all worlds, bestower of all wealth, Savitri, and the form of existence, consciousness, and bliss.[cite: 1]"
+    "meaning": "She is the initiated one, pacifier of demons, mesmerizer of all worlds, bestower of all wealth, Savitri, and the form of existence, consciousness, and bliss.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 137,
     "malayalam": "ദേശകാലാഽപരിച്ഛിന്നാ, സർവഗാ, സർവമോഹിനീ । || സരസ്വതീ, ശാസ്ത്രമയീ, ഗുഹാംബാ, ഗുഹ്യരൂപിണീ",
     "sanskrit": "देशकालाऽपरिच्छिन्ना, सर्वगा, सर्वमोहिनी । || सरस्वती, शास्त्रमयी, गुहांबा, गुह्यरूपिणी",
     "english": "dēśakālā'parichChinnā, sarvagā, sarvamōhinī । || sarasvatī, śāstramayī, guhāmbā, guhyarūpiṇī",
-    "meaning": "She is unbounded by space and time, all-pervading, enchantress of all, Saraswati, embodying the scriptures, Mother of Guha, and of secret form.[cite: 1]"
+    "meaning": "She is unbounded by space and time, all-pervading, enchantress of all, Saraswati, embodying the scriptures, Mother of Guha, and of secret form.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 138,
     "malayalam": "സർവോപാധി വിനിര്മുക്താ, സദാശിവ പതിവ്രതാ । || സംപ്രദായേശ്വരീ, സാധ്വീ, ഗുരുമംഡല രൂപിണീ",
     "sanskrit": "सर्वोपाधि विनिर्मुक्ता, सदाशिव पतिव्रता । || संप्रदायेश्वरी, साध्वी, गुरुमंडल रूपिणी",
     "english": "sarvōpādhi vinirmuktā, sadāśiva pativratā । || sampradāyēśvarī, sādhvī, gurumaṇḍala rūpiṇī",
-    "meaning": "She is free from all limitations, the devoted wife of Sadashiva, Sovereign of traditional knowledge, the Chaste One, and the form of the lineage of Gurus.[cite: 1]"
+    "meaning": "She is free from all limitations, the devoted wife of Sadashiva, Sovereign of traditional knowledge, the Chaste One, and the form of the lineage of Gurus.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 139,
     "malayalam": "കുലോത്തീര്ണാ, ഭഗാരാധ്യാ, മായാ, മധുമതീ, മഹീ । || ഗണാംബാ, ഗുഹ്യകാരാധ്യാ, കോമലാംഗീ, ഗുരുപ്രിയാ",
     "sanskrit": "कुलोत्तीर्णा, भगाराध्या, माया, मधुमती, मही । || गणांबा, गुह्यकाराध्या, कोमलांगी, गुरुप्रिया",
     "english": "kulōttīrṇā, bhagārādhyā, māyā, madhumatī, mahī । || gaṇāmbā, guhyakārādhyā, kōmalāṅgī, gurupriyā",
-    "meaning": "She transcends the Kula, is worshipped by the Sun, Maya, sweet as honey, the Earth, Mother of Ganesha, secretly worshipped, of tender limbs, and beloved of the Guru.[cite: 1]"
+    "meaning": "She transcends the Kula, is worshipped by the Sun, Maya, sweet as honey, the Earth, Mother of Ganesha, secretly worshipped, of tender limbs, and beloved of the Guru.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 140,
     "malayalam": "സ്വതംത്രാ, സർവതംത്രേശീ, ദക്ഷിണാമൂര്തി രൂപിണീ । || സനകാദി സമാരാധ്യാ, ശിവജ്ഞാന പ്രദായിനീ",
     "sanskrit": "स्वतंत्रा, सर्वतंत्रेशी, दक्षिणामूर्ति रूपिणी । || सनकादि समाराध्या, शिवज्ञान प्रदायिनी",
     "english": "svatantrā, sarvatantrēśī, dakṣiṇāmūrti rūpiṇī । || sanakādi samārādhyā, śivajñāna pradāyinī",
-    "meaning": "She is independent, Sovereign of all tantras, the form of Dakshinamurti, worshipped by Sanaka, and bestower of the knowledge of Shiva.[cite: 1]"
+    "meaning": "She is independent, Sovereign of all tantras, the form of Dakshinamurti, worshipped by Sanaka, and bestower of the knowledge of Shiva.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 141,
     "malayalam": "ചിത്കളാ,ഽനംദകലികാ, പ്രേമരൂപാ, പ്രിയംകരീ । || നാമപാരായണ പ്രീതാ, നംദിവിദ്യാ, നടേശ്വരീ",
     "sanskrit": "चित्कला,ऽनंदकलिका, प्रेमरूपा, प्रियंकरी । || नामपारायण प्रीता, नंदिविद्या, नटेश्वरी",
     "english": "chitkaḻā,'nandakalikā, prēmarūpā, priyaṅkarī । || nāmapārāyaṇa prītā, nandividyā, naṭēśvarī",
-    "meaning": "She is the spark of consciousness, the bud of bliss, the form of love, doer of endearing deeds, fond of reciting her names, the knowledge of Nandi, and sovereign of dance.[cite: 1]"
+    "meaning": "She is the spark of consciousness, the bud of bliss, the form of love, doer of endearing deeds, fond of reciting her names, the knowledge of Nandi, and sovereign of dance.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 142,
     "malayalam": "മിഥ്യാ ജഗദധിഷ്ഠാനാ മുക്തിദാ, മുക്തിരൂപിണീ । || ലാസ്യപ്രിയാ, ലയകരീ, ലജ്ജാ, രംഭാദി വംദിതാ",
     "sanskrit": "मिथ्या जगदधिष्ठाना मुक्तिदा, मुक्तिरूपिणी । || लास्यप्रिया, लयकरी, लज्जा, रंभादि वंदिता",
     "english": "mithyā jagadadhiṣṭhānā muktidā, muktirūpiṇī । || lāsyapriyā, layakarī, lajjā, rambhādi vanditā",
-    "meaning": "She is the substratum of the illusory universe, bestower and form of liberation, fond of the Lasya dance, cause of dissolution, modesty, and worshipped by Rambha.[cite: 1]"
+    "meaning": "She is the substratum of the illusory universe, bestower and form of liberation, fond of the Lasya dance, cause of dissolution, modesty, and worshipped by Rambha.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 143,
     "malayalam": "ഭവദാവ സുധാവൃഷ്ടിഃ, പാപാരണ്യ ദവാനലാ । || ദൌര്ഭാഗ്യതൂല വാതൂലാ, ജരാധ്വാംത രവിപ്രഭാ",
     "sanskrit": "भवदाव सुधावृष्टिः, पापारण्य दवानला । || दौर्भाग्यतूल वातूला, जराध्वांत रविप्रभा",
     "english": "bhavadāva sudhāvṛṣṭiḥ, pāpāraṇya davānalā । || daurbhāgyatūla vātūlā, jarādhvānta raviprabhā",
-    "meaning": "She is a shower of nectar on the fire of worldly existence, a wildfire to sins, a strong wind to misfortune, and the sun's radiance to the darkness of old age.[cite: 1]"
+    "meaning": "She is a shower of nectar on the fire of worldly existence, a wildfire to sins, a strong wind to misfortune, and the sun's radiance to the darkness of old age.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 144,
     "malayalam": "ഭാഗ്യാബ്ധിചംദ്രികാ, ഭക്തചിത്തകേകി ഘനാഘനാ । || രോഗപർവത ദംഭോളി, ര്മൃത്യുദാരു കുഠാരികാ",
     "sanskrit": "भाग्याब्धिचंद्रिका, भक्तचित्तकेकि घनाघना । || रोगपर्वत दंभोलि, र्मृत्युदारु कुठारिका",
     "english": "bhāgyābdhichandrikā, bhaktachittakēki ghanāghanā । || rōgaparvata dambhōḻi, rmṛtyudāru kuṭhārikā",
-    "meaning": "She is moonlight expanding the ocean of fortune, a raincloud to the devotee's mind, a thunderbolt to diseases, and an axe to the tree of death.[cite: 1]"
+    "meaning": "She is moonlight expanding the ocean of fortune, a raincloud to the devotee's mind, a thunderbolt to diseases, and an axe to the tree of death.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 145,
     "malayalam": "മഹേശ്വരീ, മഹാകാളീ, മഹാഗ്രാസാ, മഹാഽശനാ । || അപര്ണാ, ചംഡികാ, ചംഡമുംഡാഽസുര നിഷൂദിനീ",
     "sanskrit": "महेश्वरी, महाकाली, महाग्रासा, महाऽशना । || अपर्णा, चंडिका, चंडमुंडाऽसुर निषूदिनी",
     "english": "mahēśvarī, mahākāḻī, mahāgrāsā, mahā'śanā । || aparṇā, chaṇḍikā, chaṇḍamuṇḍā'sura niṣūdinī",
-    "meaning": "She is the Great Sovereign, Great Kali, Great Devourer, Great Eater, the leafless one (Aparna), Chandika, and slayer of the demons Chanda and Munda.[cite: 1]"
+    "meaning": "She is the Great Sovereign, Great Kali, Great Devourer, Great Eater, the leafless one (Aparna), Chandika, and slayer of the demons Chanda and Munda.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 146,
     "malayalam": "ക്ഷരാക്ഷരാത്മികാ, സർവലോകേശീ, വിശ്വധാരിണീ । || ത്രിവര്ഗദാത്രീ, സുഭഗാ, ത്ര്യംബകാ, ത്രിഗുണാത്മികാ",
     "sanskrit": "क्षराक्षरात्मिका, सर्वलोकेशी, विश्वधारिणी । || त्रिवर्गदात्री, सुभगा, त्र्यंबका, त्रिगुणात्मिका",
     "english": "kṣarākṣarātmikā, sarvalōkēśī, viśvadhāriṇī । || trivargadātrī, subhagā, tryambakā, triguṇātmikā",
-    "meaning": "She embodies the perishable and imperishable, Sovereign of all worlds, supporter of the universe, bestower of the three goals, the fortunate one, three-eyed, and embodying the three Gunas.[cite: 1]"
+    "meaning": "She embodies the perishable and imperishable, Sovereign of all worlds, supporter of the universe, bestower of the three goals, the fortunate one, three-eyed, and embodying the three Gunas.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 147,
     "malayalam": "സ്വര്ഗാപവര്ഗദാ, ശുദ്ധാ, ജപാപുഷ്പ നിഭാകൃതിഃ । || ഓജോവതീ, ദ്യുതിധരാ, യജ്ഞരൂപാ, പ്രിയവ്രതാ",
     "sanskrit": "स्वर्गापवर्गदा, शुद्धा, जपापुष्प निभाकृतिः । || ओजोवती, द्युतिधरा, यज्ञरूपा, प्रियव्रता",
     "english": "svargāpavargadā, śuddhā, japāpuṣpa nibhākṛtiḥ । || ōjōvatī, dyutidharā, yajñarūpā, priyavratā",
-    "meaning": "She bestows heaven and liberation, is the Pure One, resembling the red hibiscus, full of vitality, possessing radiance, the form of sacrifice, and fond of vows.[cite: 1]"
+    "meaning": "She bestows heaven and liberation, is the Pure One, resembling the red hibiscus, full of vitality, possessing radiance, the form of sacrifice, and fond of vows.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 148,
     "malayalam": "ദുരാരാധ്യാ, ദുരാദര്ഷാ, പാടലീ കുസുമപ്രിയാ । || മഹതീ, മേരുനിലയാ, മംദാര കുസുമപ്രിയാ",
     "sanskrit": "दुराराध्या, दुरादर्षा, पाटली कुसुमप्रिया । || महती, मेरुनिलया, मंदार कुसुमप्रिया",
     "english": "durārādhyā, durādarṣā, pāṭalī kusumapriyā । || mahatī, mērunilayā, mandāra kusumapriyā",
-    "meaning": "She is difficult to worship and conquer, fond of Patali flowers, the Great One, residing on Mount Meru, and fond of Mandara flowers.[cite: 1]"
+    "meaning": "She is difficult to worship and conquer, fond of Patali flowers, the Great One, residing on Mount Meru, and fond of Mandara flowers.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 149,
     "malayalam": "വീരാരാധ്യാ, വിരാഡ്രൂപാ, വിരജാ, വിശ്വതോമുഖീ । || പ്രത്യഗ്രൂപാ, പരാകാശാ, പ്രാണദാ, പ്രാണരൂപിണീ",
     "sanskrit": "वीराराध्या, विराड्रूपा, विरजा, विश्वतोमुखी । || प्रत्यग्रूपा, पराकाशा, प्राणदा, प्राणरूपिणी",
     "english": "vīrārādhyā, virāḍrūpā, virajā, viśvatōmukhī । || pratyagrūpā, parākāśā, prāṇadā, prāṇarūpiṇī",
-    "meaning": "She is worshipped by heroes, of cosmic form, free from passion, facing all directions, the inner self, the supreme space, bestower of life, and the form of life breath.[cite: 1]"
+    "meaning": "She is worshipped by heroes, of cosmic form, free from passion, facing all directions, the inner self, the supreme space, bestower of life, and the form of life breath.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 150,
     "malayalam": "മാര്താംഡ ഭൈരവാരാധ്യാ, മംത്രിണീ ന്യസ്തരാജ്യധൂഃ । || ത്രിപുരേശീ, ജയത്സേനാ, നിസ്ത്രൈഗുണ്യാ, പരാപരാ",
     "sanskrit": "मार्तांड भैरवाराध्या, मंत्रिणी न्यस्तराज्यधूः । || त्रिपुरेशी, जयत्सेना, निस्त्रैगुण्या, परापरा",
     "english": "mārtāṇḍa bhairavārādhyā, mantriṇī nyastarājyadhūḥ । || tripurēśī, jayatsēnā, nistraiguṇyā, parāparā",
-    "meaning": "She is worshipped by Martanda Bhairava, entrusted the kingdom to Mantrini, Sovereign of Tripura, has a victorious army, and is beyond the three Gunas.[cite: 1]"
+    "meaning": "She is worshipped by Martanda Bhairava, entrusted the kingdom to Mantrini, Sovereign of Tripura, has a victorious army, and is beyond the three Gunas.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 151,
     "malayalam": "സത്യജ്ഞാനാഽനംദരൂപാ, സാമരസ്യ പരായണാ । || കപര്ദിനീ, കലാമാലാ, കാമധുക്,കാമരൂപിണീ",
     "sanskrit": "सत्यज्ञानाऽनंदरूपा, सामरस्य परायणा । || कपर्दिनी, कलामाला, कामधुक्,कामरूपिणी",
     "english": "satyajñānā'nandarūpā, sāmarasya parāyaṇā । || kapardinī, kalāmālā, kāmadhuk,kāmarūpiṇī",
-    "meaning": "She is the form of truth, knowledge, and bliss, devoted to perfect harmony, has matted hair, wears a garland of arts, grants all desires, and takes any form at will.[cite: 1]"
+    "meaning": "She is the form of truth, knowledge, and bliss, devoted to perfect harmony, has matted hair, wears a garland of arts, grants all desires, and takes any form at will.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 152,
     "malayalam": "കളാനിധിഃ, കാവ്യകളാ, രസജ്ഞാ, രസശേവധിഃ । || പുഷ്ടാ, പുരാതനാ, പൂജ്യാ, പുഷ്കരാ, പുഷ്കരേക്ഷണാ",
     "sanskrit": "कलानिधिः, काव्यकला, रसज्ञा, रसशेवधिः । || पुष्टा, पुरातना, पूज्या, पुष्करा, पुष्करेक्षणा",
     "english": "kaḻānidhiḥ, kāvyakaḻā, rasajñā, rasaśēvadhiḥ । || puṣṭā, purātanā, pūjyā, puṣkarā, puṣkarēkṣaṇā",
-    "meaning": "She is the treasure of arts, the art of poetry, knower and treasure of aesthetic essence, the nourished one, the ancient one, worthy of worship, the lotus, and lotus-eyed.[cite: 1]"
+    "meaning": "She is the treasure of arts, the art of poetry, knower and treasure of aesthetic essence, the nourished one, the ancient one, worthy of worship, the lotus, and lotus-eyed.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 153,
     "malayalam": "പരംജ്യോതിഃ, പരംധാമ, പരമാണുഃ, പരാത്പരാ । || പാശഹസ്താ, പാശഹംത്രീ, പരമംത്ര വിഭേദിനീ",
     "sanskrit": "परंज्योतिः, परंधाम, परमाणुः, परात्परा । || पाशहस्ता, पाशहंत्री, परमंत्र विभेदिनी",
     "english": "parañjyōtiḥ, parandhāma, paramāṇuḥ, parātparā । || pāśahastā, pāśahantrī, paramantra vibhēdinī",
-    "meaning": "She is the supreme light, supreme abode, supreme atom, supreme of the supreme, holding a noose, destroyer of bonds, and piercer of the supreme mantra.[cite: 1]"
+    "meaning": "She is the supreme light, supreme abode, supreme atom, supreme of the supreme, holding a noose, destroyer of bonds, and piercer of the supreme mantra.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 154,
     "malayalam": "മൂര്താ,ഽമൂര്താ,ഽനിത്യതൃപ്താ, മുനി മാനസ ഹംസികാ । || സത്യവ്രതാ, സത്യരൂപാ, സർവാംതര്യാമിനീ, സതീ",
     "sanskrit": "मूर्ता,ऽमूर्ता,ऽनित्यतृप्ता, मुनि मानस हंसिका । || सत्यव्रता, सत्यरूपा, सर्वांतर्यामिनी, सती",
     "english": "mūrtā,'mūrtā,'nityatṛptā, muni mānasa haṃsikā । || satyavratā, satyarūpā, sarvāntaryāminī, satī",
-    "meaning": "She is with and without form, eternally satisfied, the swan in the minds of sages, devoted to truth, the form of truth, inner controller, and the chaste one.[cite: 1]"
+    "meaning": "She is with and without form, eternally satisfied, the swan in the minds of sages, devoted to truth, the form of truth, inner controller, and the chaste one.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 155,
     "malayalam": "ബ്രഹ്മാണീ, ബ്രഹ്മജനനീ, ബഹുരൂപാ, ബുധാര്ചിതാ । || പ്രസവിത്രീ, പ്രചംഡാഽജ്ഞാ, പ്രതിഷ്ഠാ, പ്രകടാകൃതിഃ",
     "sanskrit": "ब्रह्माणी, ब्रह्मजननी, बहुरूपा, बुधार्चिता । || प्रसवित्री, प्रचंडाऽज्ञा, प्रतिष्ठा, प्रकटाकृतिः",
     "english": "brahmāṇī, brahmajananī, bahurūpā, budhārchitā । || prasavitrī, prachaṇḍā'jñā, pratiṣṭhā, prakaṭākṛtiḥ",
-    "meaning": "She is Goddess Brahmani, Mother of Brahma, of many forms, worshipped by the wise, Mother of all, whose commands are formidable, firmly established, and of manifest form.[cite: 1]"
+    "meaning": "She is Goddess Brahmani, Mother of Brahma, of many forms, worshipped by the wise, Mother of all, whose commands are formidable, firmly established, and of manifest form.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 156,
     "malayalam": "പ്രാണേശ്വരീ, പ്രാണദാത്രീ, പംചാശത്-പീഠരൂപിണീ । || വിശൃംഖലാ, വിവിക്തസ്ഥാ, വീരമാതാ, വിയത്പ്രസൂഃ",
     "sanskrit": "प्राणेश्वरी, प्राणदात्री, पंचाशत्-पीठरूपिणी । || विशृंखला, विविक्तस्था, वीरमाता, वियत्प्रसूः",
     "english": "prāṇēśvarī, prāṇadātrī, pañchāśat-pīṭharūpiṇī । || viśṛṅkhalā, viviktasthā, vīramātā, viyatprasūḥ",
-    "meaning": "She is Sovereign of life breath, giver of life breath, embodying the fifty Shakti Peethas, free from chains, stationed in solitude, mother of heroes, and creator of space.[cite: 1]"
+    "meaning": "She is Sovereign of life breath, giver of life breath, embodying the fifty Shakti Peethas, free from chains, stationed in solitude, mother of heroes, and creator of space.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 157,
     "malayalam": "മുകുംദാ, മുക്തി നിലയാ, മൂലവിഗ്രഹ രൂപിണീ । || ഭാവജ്ഞാ, ഭവരോഗഘ്നീ ഭവചക്ര പ്രവര്തിനീ",
     "sanskrit": "मुकुंदा, मुक्ति निलया, मूलविग्रह रूपिणी । || भावज्ञा, भवरोगघ्नी भवचक्र प्रवर्तिनी",
     "english": "mukundā, mukti nilayā, mūlavigraha rūpiṇī । || bhāvajñā, bhavarōgaghnī bhavachakra pravartinī",
-    "meaning": "She is bestower of liberation, abode of liberation, form of the original idol, knower of thoughts, destroyer of the disease of worldly existence, and turner of its wheel.[cite: 1]"
+    "meaning": "She is bestower of liberation, abode of liberation, form of the original idol, knower of thoughts, destroyer of the disease of worldly existence, and turner of its wheel.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 158,
     "malayalam": "ഛംദസ്സാരാ, ശാസ്ത്രസാരാ, മംത്രസാരാ, തലോദരീ । || ഉദാരകീര്തി, രുദ്ദാമവൈഭവാ, വര്ണരൂപിണീ",
     "sanskrit": "छंदस्सारा, शास्त्रसारा, मंत्रसारा, तलोदरी । || उदारकीर्ति, रुद्दामवैभवा, वर्णरूपिणी",
     "english": "Chandassārā, śāstrasārā, mantrasārā, talōdarī । || udārakīrti, ruddāmavaibhavā, varṇarūpiṇī",
-    "meaning": "She is the essence of meters, scriptures, and mantras, slender-waisted, of exalted fame, of unrestrained glory, and the form of the alphabet.[cite: 1]"
+    "meaning": "She is the essence of meters, scriptures, and mantras, slender-waisted, of exalted fame, of unrestrained glory, and the form of the alphabet.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 159,
     "malayalam": "ജന്മമൃത്യു ജരാതപ്ത ജന വിശ്രാംതി ദായിനീ । || സർവോപനിഷ ദുദ്ഘുഷ്ടാ, ശാംത്യതീത കളാത്മികാ",
     "sanskrit": "जन्ममृत्यु जरातप्त जन विश्रांति दायिनी । || सर्वोपनिष दुद्घुष्टा, शांत्यतीत कलात्मिका",
     "english": "janmamṛtyu jarātapta jana viśrānti dāyinī । || sarvōpaniṣa dudghuṣṭā, śāntyatīta kaḻātmikā",
-    "meaning": "She bestows rest to people tormented by birth, death, and old age, is proclaimed by all Upanishads, and is the soul of the art transcending peace.[cite: 1]"
+    "meaning": "She bestows rest to people tormented by birth, death, and old age, is proclaimed by all Upanishads, and is the soul of the art transcending peace.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 160,
     "malayalam": "ഗംഭീരാ, ഗഗനാംതഃസ്ഥാ, ഗർവിതാ, ഗാനലോലുപാ । || കല്പനാരഹിതാ, കാഷ്ഠാ, കാംതാ, കാംതാര്ധ വിഗ്രഹാ",
     "sanskrit": "गंभीरा, गगनांतःस्था, गर्विता, गानलोलुपा । || कल्पनारहिता, काष्ठा, कांता, कांतार्ध विग्रहा",
     "english": "gambhīrā, gaganāntaḥsthā, garvitā, gānalōlupā । || kalpanārahitā, kāṣṭhā, kāntā, kāntārdha vigrahā",
-    "meaning": "She is of profound depth, residing in the sky, proud, engrossed in music, free from imagination, the supreme limit, the Beloved, whose half body is Shiva.[cite: 1]"
+    "meaning": "She is of profound depth, residing in the sky, proud, engrossed in music, free from imagination, the supreme limit, the Beloved, whose half body is Shiva.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 161,
     "malayalam": "കാര്യകാരണ നിര്മുക്താ, കാമകേളി തരംഗിതാ । || കനത്-കനകതാടംകാ, ലീലാവിഗ്രഹ ധാരിണീ",
     "sanskrit": "कार्यकारण निर्मुक्ता, कामकेलि तरंगिता । || कनत्-कनकताटंका, लीलाविग्रह धारिणी",
     "english": "kāryakāraṇa nirmuktā, kāmakēḻi taraṅgitā । || kanat-kanakatāṭaṅkā, līlāvigraha dhāriṇī",
-    "meaning": "She is free from cause and effect, rippling with the sport of love, wearing glittering golden earrings, and assuming physical forms for divine sport.[cite: 1]"
+    "meaning": "She is free from cause and effect, rippling with the sport of love, wearing glittering golden earrings, and assuming physical forms for divine sport.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 162,
     "malayalam": "അജാക്ഷയ വിനിര്മുക്താ, മുഗ്ധാ ക്ഷിപ്രപ്രസാദിനീ । || അംതര്മുഖ സമാരാധ്യാ, ബഹിര്മുഖ സുദുര്ലഭാ",
     "sanskrit": "अजाक्षय विनिर्मुक्ता, मुग्धा क्षिप्रप्रसादिनी । || अंतर्मुख समाराध्या, बहिर्मुख सुदुर्लभा",
     "english": "ajākṣaya vinirmuktā, mugdhā kṣipraprasādinī । || antarmukha samārādhyā, bahirmukha sudurlabhā",
-    "meaning": "She is free from birth and decay, the charming one, granting boons instantly, worshipped by those looking inward, and difficult to attain for those looking outward.[cite: 1]"
+    "meaning": "She is free from birth and decay, the charming one, granting boons instantly, worshipped by those looking inward, and difficult to attain for those looking outward.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 163,
     "malayalam": "ത്രയീ, ത്രിവര്ഗ നിലയാ, ത്രിസ്ഥാ, ത്രിപുരമാലിനീ । || നിരാമയാ, നിരാലംബാ, സ്വാത്മാരാമാ, സുധാസൃതിഃ",
     "sanskrit": "त्रयी, त्रिवर्ग निलया, त्रिस्था, त्रिपुरमालिनी । || निरामया, निरालंबा, स्वात्मारामा, सुधासृतिः",
     "english": "trayī, trivarga nilayā, tristhā, tripuramālinī । || nirāmayā, nirālambā, svātmārāmā, sudhāsṛtiḥ",
-    "meaning": "She is the threefold Vedas, abode of the three goals, existing in three places, Goddess Tripura Malini, free from disease, without support, reveling in the self, and showering nectar.[cite: 1]"
+    "meaning": "She is the threefold Vedas, abode of the three goals, existing in three places, Goddess Tripura Malini, free from disease, without support, reveling in the self, and showering nectar.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 164,
     "malayalam": "സംസാരപംക നിര്മഗ്ന സമുദ്ധരണ പംഡിതാ । || യജ്ഞപ്രിയാ, യജ്ഞകര്ത്രീ, യജമാന സ്വരൂപിണീ",
     "sanskrit": "संसारपंक निर्मग्न समुद्धरण पंडिता । || यज्ञप्रिया, यज्ञकर्त्री, यजमान स्वरूपिणी",
     "english": "saṃsārapaṅka nirmagna samuddharaṇa paṇḍitā । || yajñapriyā, yajñakartrī, yajamāna svarūpiṇī",
-    "meaning": "She is the expert in lifting those drowning in worldly existence, fond of sacrifices, the performer of sacrifices, and the form of the patron of the sacrifice.[cite: 1]"
+    "meaning": "She is the expert in lifting those drowning in worldly existence, fond of sacrifices, the performer of sacrifices, and the form of the patron of the sacrifice.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 165,
     "malayalam": "ധര്മാധാരാ, ധനാധ്യക്ഷാ, ധനധാന്യ വിവര്ധിനീ । || വിപ്രപ്രിയാ, വിപ്രരൂപാ, വിശ്വഭ്രമണ കാരിണീ",
     "sanskrit": "धर्माधारा, धनाध्यक्षा, धनधान्य विवर्धिनी । || विप्रप्रिया, विप्ररूपा, विश्वभ्रमण कारिणी",
     "english": "dharmādhārā, dhanādhyakṣā, dhanadhānya vivardhinī । || viprapriyā, viprarūpā, viśvabhramaṇa kāriṇī",
-    "meaning": "She is the foundation of Dharma, controller of wealth, enhancer of wealth and grains, fond of the wise, in the form of the wise, and causing the universe to revolve.[cite: 1]"
+    "meaning": "She is the foundation of Dharma, controller of wealth, enhancer of wealth and grains, fond of the wise, in the form of the wise, and causing the universe to revolve.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 166,
     "malayalam": "വിശ്വഗ്രാസാ, വിദ്രുമാഭാ, വൈഷ്ണവീ, വിഷ്ണുരൂപിണീ । || അയോനി, ര്യോനിനിലയാ, കൂടസ്ഥാ, കുലരൂപിണീ",
     "sanskrit": "विश्वग्रासा, विद्रुमाभा, वैष्णवी, विष्णुरूपिणी । || अयोनि, र्योनिनिलया, कूटस्था, कुलरूपिणी",
     "english": "viśvagrāsā, vidrumābhā, vaiṣṇavī, viṣṇurūpiṇī । || ayōni, ryōninilayā, kūṭasthā, kularūpiṇī",
-    "meaning": "She is the devourer of the universe, radiant like coral, Goddess Vaishnavi, the form of Vishnu, without a source, the source of all, firmly established, and the form of the Kula.[cite: 1]"
+    "meaning": "She is the devourer of the universe, radiant like coral, Goddess Vaishnavi, the form of Vishnu, without a source, the source of all, firmly established, and the form of the Kula.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 167,
     "malayalam": "വീരഗോഷ്ഠീപ്രിയാ, വീരാ, നൈഷ്കര്മ്യാ, നാദരൂപിണീ । || വിജ്ഞാന കലനാ, കല്യാ വിദഗ്ധാ, ബൈംദവാസനാ",
     "sanskrit": "वीरगोष्ठीप्रिया, वीरा, नैष्कर्म्या, नादरूपिणी । || विज्ञान कलना, कल्या विदग्धा, बैंदवासना",
     "english": "vīragōṣṭhīpriyā, vīrā, naiṣkarmyā, nādarūpiṇī । || vijñāna kalanā, kalyā vidagdhā, baindavāsanā",
-    "meaning": "She is fond of the assembly of heroes, the Heroine, free from the bondage of actions, the form of primordial sound, creator of knowledge, healthy, skillful, and seated in the Bindu.[cite: 1]"
+    "meaning": "She is fond of the assembly of heroes, the Heroine, free from the bondage of actions, the form of primordial sound, creator of knowledge, healthy, skillful, and seated in the Bindu.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 168,
     "malayalam": "തത്ത്വാധികാ, തത്ത്വമയീ, തത്ത്വമര്ഥ സ്വരൂപിണീ । || സാമഗാനപ്രിയാ, സൌമ്യാ, സദാശിവ കുടുംബിനീ",
     "sanskrit": "तत्त्वाधिका, तत्त्वमयी, तत्त्वमर्थ स्वरूपिणी । || सामगानप्रिया, सौम्या, सदाशिव कुटुंबिनी",
     "english": "tattvādhikā, tattvamayī, tattvamartha svarūpiṇī । || sāmagānapriyā, saumyā, sadāśiva kuṭumbinī",
-    "meaning": "She transcends categories, embodies the categories, is the form of the meaning of truth, fond of Sama chants, of gentle nature, and the wife of Sadashiva.[cite: 1]"
+    "meaning": "She transcends categories, embodies the categories, is the form of the meaning of truth, fond of Sama chants, of gentle nature, and the wife of Sadashiva.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 169,
     "malayalam": "സവ്യാപസവ്യ മാര്ഗസ്ഥാ, സർവാപദ്വി നിവാരിണീ । || സ്വസ്ഥാ, സ്വഭാവമധുരാ, ധീരാ, ധീര സമര്ചിതാ",
     "sanskrit": "सव्यापसव्य मार्गस्था, सर्वापद्वि निवारिणी । || स्वस्था, स्वभावमधुरा, धीरा, धीर समर्चिता",
     "english": "savyāpasavya mārgasthā, sarvāpadvi nivāriṇī । || svasthā, svabhāvamadhurā, dhīrā, dhīra samarchitā",
-    "meaning": "She traverses the right and left paths, is the dispeller of all adversities, established in herself, sweet by nature, courageous, and worshipped by the courageous.[cite: 1]"
+    "meaning": "She traverses the right and left paths, is the dispeller of all adversities, established in herself, sweet by nature, courageous, and worshipped by the courageous.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 170,
     "malayalam": "ചൈതന്യാര്ഘ്യ സമാരാധ്യാ, ചൈതന്യ കുസുമപ്രിയാ । || സദോദിതാ, സദാതുഷ്ടാ, തരുണാദിത്യ പാടലാ",
     "sanskrit": "चैतन्यार्घ्य समाराध्या, चैतन्य कुसुमप्रिया । || सदोदिता, सदातुष्टा, तरुणादित्य पाटला",
     "english": "chaitanyārghya samārādhyā, chaitanya kusumapriyā । || sadōditā, sadātuṣṭā, taruṇāditya pāṭalā",
-    "meaning": "She is worshipped with the offering of consciousness, fond of the flower of consciousness, ever-risen, eternally satisfied, and radiant like the rising sun.[cite: 1]"
+    "meaning": "She is worshipped with the offering of consciousness, fond of the flower of consciousness, ever-risen, eternally satisfied, and radiant like the rising sun.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 171,
     "malayalam": "ദക്ഷിണാ, ദക്ഷിണാരാധ്യാ, ദരസ്മേര മുഖാംബുജാ । || കൌളിനീ കേവലാ,ഽനര്ഘ്യാ കൈവല്യ പദദായിനീ",
     "sanskrit": "दक्षिणा, दक्षिणाराध्या, दरस्मेर मुखांबुजा । || कौलिनी केवला,ऽनर्घ्या कैवल्य पददायिनी",
     "english": "dakṣiṇā, dakṣiṇārādhyā, darasmēra mukhāmbujā । || kauḻinī kēvalā,'narghyā kaivalya padadāyinī",
-    "meaning": "She is the southern path, worshipped facing south, with a gentle smile on her lotus face, the Kaulini, the absolute one, the priceless one, and bestower of ultimate liberation.[cite: 1]"
+    "meaning": "She is the southern path, worshipped facing south, with a gentle smile on her lotus face, the Kaulini, the absolute one, the priceless one, and bestower of ultimate liberation.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 172,
     "malayalam": "സ്തോത്രപ്രിയാ, സ്തുതിമതീ, ശ്രുതിസംസ്തുത വൈഭവാ । || മനസ്വിനീ, മാനവതീ, മഹേശീ, മംഗളാകൃതിഃ",
     "sanskrit": "स्तोत्रप्रिया, स्तुतिमती, श्रुतिसंस्तुत वैभवा । || मनस्विनी, मानवती, महेशी, मंगलाकृतिः",
     "english": "stōtrapriyā, stutimatī, śrutisaṃstuta vaibhavā । || manasvinī, mānavatī, mahēśī, maṅgaḻākṛtiḥ",
-    "meaning": "She is fond of hymns, the thoughtful one, whose glory is praised by the Vedas, the intelligent one, the honorable one, the Great Sovereign, and of auspicious form.[cite: 1]"
+    "meaning": "She is fond of hymns, the thoughtful one, whose glory is praised by the Vedas, the intelligent one, the honorable one, the Great Sovereign, and of auspicious form.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 173,
     "malayalam": "വിശ്വമാതാ, ജഗദ്ധാത്രീ, വിശാലാക്ഷീ, വിരാഗിണീ। || പ്രഗല്ഭാ, പരമോദാരാ, പരാമോദാ, മനോമയീ",
     "sanskrit": "विश्वमाता, जगद्धात्री, विशालाक्षी, विरागिणी। || प्रगल्भा, परमोदारा, परामोदा, मनोमयी",
     "english": "viśvamātā, jagaddhātrī, viśālākṣī, virāgiṇī। || pragalbhā, paramōdārā, parāmōdā, manōmayī",
-    "meaning": "She is the Mother of the universe, supporter of the world, large-eyed, passionless, bold, supremely generous, supremely joyful, and the form of the mind.[cite: 1]"
+    "meaning": "She is the Mother of the universe, supporter of the world, large-eyed, passionless, bold, supremely generous, supremely joyful, and the form of the mind.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 174,
     "malayalam": "വ്യോമകേശീ, വിമാനസ്ഥാ, വജ്രിണീ, വാമകേശ്വരീ । || പംചയജ്ഞപ്രിയാ, പംചപ്രേത മംചാധിശായിനീ",
     "sanskrit": "व्योमकेशी, विमानस्था, वज्रिणी, वामकेश्वरी । || पंचयज्ञप्रिया, पंचप्रेत मंचाधिशायिनी",
     "english": "vyōmakēśī, vimānasthā, vajriṇī, vāmakēśvarī । || pañchayajñapriyā, pañchaprēta mañchādhiśāyinī",
-    "meaning": "Her hair is the sky, she sits in celestial vehicles, wields the thunderbolt, is the Sovereign of the left path, fond of the five sacrifices, and reclines on five corpses.[cite: 1]"
+    "meaning": "Her hair is the sky, she sits in celestial vehicles, wields the thunderbolt, is the Sovereign of the left path, fond of the five sacrifices, and reclines on five corpses.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 175,
     "malayalam": "പംചമീ, പംചഭൂതേശീ, പംച സംഖ്യോപചാരിണീ । || ശാശ്വതീ, ശാശ്വതൈശ്വര്യാ, ശര്മദാ, ശംഭുമോഹിനീ",
     "sanskrit": "पंचमी, पंचभूतेशी, पंच संख्योपचारिणी । || शाश्वती, शाश्वतैश्वर्या, शर्मदा, शंभुमोहिनी",
     "english": "pañchamī, pañchabhūtēśī, pañcha saṅkhyōpachāriṇī । || śāśvatī, śāśvataiśvaryā, śarmadā, śambhumōhinī",
-    "meaning": "She is the fifth state, Sovereign of the five elements, worshipped with five-fold offerings, eternal, possessing eternal wealth, bestower of happiness, and enchantress of Shiva.[cite: 1]"
+    "meaning": "She is the fifth state, Sovereign of the five elements, worshipped with five-fold offerings, eternal, possessing eternal wealth, bestower of happiness, and enchantress of Shiva.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 176,
     "malayalam": "ധരാ, ധരസുതാ, ധന്യാ, ധര്മിണീ, ധര്മവര്ധിനീ । || ലോകാതീതാ, ഗുണാതീതാ, സർവാതീതാ, ശമാത്മികാ",
     "sanskrit": "धरा, धरसुता, धन्या, धर्मिणी, धर्मवर्धिनी । || लोकातीता, गुणातीता, सर्वातीता, शमात्मिका",
     "english": "dharā, dharasutā, dhanyā, dharmiṇī, dharmavardhinī । || lōkātītā, guṇātītā, sarvātītā, śamātmikā",
-    "meaning": "She is the Earth, daughter of the mountain, fortunate, righteous, promoter of righteousness, transcending worlds and Gunas, and the essence of peace.[cite: 1]"
+    "meaning": "She is the Earth, daughter of the mountain, fortunate, righteous, promoter of righteousness, transcending worlds and Gunas, and the essence of peace.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 177,
     "malayalam": "ബംധൂക കുസുമ പ്രഖ്യാ, ബാലാ, ലീലാവിനോദിനീ । || സുമംഗളീ, സുഖകരീ, സുവേഷാഡ്യാ, സുവാസിനീ",
     "sanskrit": "बंधूक कुसुम प्रख्या, बाला, लीलाविनोदिनी । || सुमंगली, सुखकरी, सुवेषाड्या, सुवासिनी",
     "english": "bandhūka kusuma prakhyā, bālā, līlāvinōdinī । || sumaṅgaḻī, sukhakarī, suvēṣāḍyā, suvāsinī",
-    "meaning": "She is radiant like the Bandhuka flower, the young girl, reveling in divine sport, highly auspicious, bestower of happiness, beautifully adorned, and an auspicious married woman.[cite: 1]"
+    "meaning": "She is radiant like the Bandhuka flower, the young girl, reveling in divine sport, highly auspicious, bestower of happiness, beautifully adorned, and an auspicious married woman.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 178,
     "malayalam": "സുവാസിന്യര്ചനപ്രീതാ, ശോഭനാ, ശുദ്ധ മാനസാ । || ബിംദു തര്പണ സംതുഷ്ടാ, പൂർവജാ, ത്രിപുരാംബികാ",
     "sanskrit": "सुवासिन्यर्चनप्रीता, शोभना, शुद्ध मानसा । || बिंदु तर्पण संतुष्टा, पूर्वजा, त्रिपुरांबिका",
     "english": "suvāsinyarchanaprītā, śōbhanā, śuddha mānasā । || bindu tarpaṇa santuṣṭā, pūrvajā, tripurāmbikā",
-    "meaning": "She is pleased by the worship of auspicious women, the radiant one, of pure mind, satisfied by the offering in the Bindu, the first-born, and Goddess Tripurambika.[cite: 1]"
+    "meaning": "She is pleased by the worship of auspicious women, the radiant one, of pure mind, satisfied by the offering in the Bindu, the first-born, and Goddess Tripurambika.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 179,
     "malayalam": "ദശമുദ്രാ സമാരാധ്യാ, ത്രിപുരാ ശ്രീവശംകരീ । || ജ്ഞാനമുദ്രാ, ജ്ഞാനഗമ്യാ, ജ്ഞാനജ്ഞേയ സ്വരൂപിണീ",
     "sanskrit": "दशमुद्रा समाराध्या, त्रिपुरा श्रीवशंकरी । || ज्ञानमुद्रा, ज्ञानगम्या, ज्ञानज्ञेय स्वरूपिणी",
     "english": "daśamudrā samārādhyā, tripurā śrīvaśaṅkarī । || jñānamudrā, jñānagamyā, jñānajñēya svarūpiṇī",
-    "meaning": "She is worshipped with the ten Mudras, Goddess Tripura, controlling prosperity, the Mudra of knowledge, attainable through knowledge, and the form of knower, knowledge, and known.[cite: 1]"
+    "meaning": "She is worshipped with the ten Mudras, Goddess Tripura, controlling prosperity, the Mudra of knowledge, attainable through knowledge, and the form of knower, knowledge, and known.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 180,
     "malayalam": "യോനിമുദ്രാ, ത്രിഖംഡേശീ, ത്രിഗുണാംബാ, ത്രികോണഗാ । || അനഘാദ്ഭുത ചാരിത്രാ, വാംഛിതാര്ഥ പ്രദായിനീ",
     "sanskrit": "योनिमुद्रा, त्रिखंडेशी, त्रिगुणांबा, त्रिकोणगा । || अनघाद्भुत चारित्रा, वांछितार्थ प्रदायिनी",
     "english": "yōnimudrā, trikhaṇḍēśī, triguṇāmbā, trikōṇagā । || anaghādbhuta chāritrā, vāñChitārtha pradāyinī",
-    "meaning": "She is the Yoni Mudra, Sovereign of the three segments, Mother of the three Gunas, residing in the triangle, of wondrous deeds, and bestower of desired goals.[cite: 1]"
+    "meaning": "She is the Yoni Mudra, Sovereign of the three segments, Mother of the three Gunas, residing in the triangle, of wondrous deeds, and bestower of desired goals.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 181,
     "malayalam": "അഭ്യാസാതി ശയജ്ഞാതാ, ഷഡധ്വാതീത രൂപിണീ । || അവ്യാജ കരുണാമൂര്തി, രജ്ഞാനധ്വാംത ദീപികാ",
     "sanskrit": "अभ्यासाति शयज्ञाता, षडध्वातीत रूपिणी । || अव्याज करुणामूर्ति, रज्ञानध्वांत दीपिका",
     "english": "abhyāsāti śayajñātā, ṣaḍadhvātīta rūpiṇī । || avyāja karuṇāmūrti, rajñānadhvānta dīpikā",
-    "meaning": "She is known through profound spiritual practice, the form transcending the six paths, embodiment of unconditional compassion, and lamp that dispels the darkness of ignorance.[cite: 1]"
+    "meaning": "She is known through profound spiritual practice, the form transcending the six paths, embodiment of unconditional compassion, and lamp that dispels the darkness of ignorance.[cite: 1]",
+    "end_time": null
   },
   {
     "id": 182,
     "malayalam": "ആബാലഗോപ വിദിതാ, സർവാനുല്ലംഘ്യ ശാസനാ । || ശ്രീ ചക്രരാജനിലയാ, ശ്രീമത്ത്രിപുര സുംദരീ",
     "sanskrit": "आबालगोप विदिता, सर्वानुल्लंघ्य शासना । || श्री चक्रराजनिलया, श्रीमत्त्रिपुर सुंदरी",
     "english": "ābālagōpa viditā, sarvānullaṅghya śāsanā । || śrī chakrarājanilayā, śrīmattripura sundarī",
-    "meaning": "She is known even to children and cowherds, whose commands cannot be transgressed, residing in the royal Sri Chakra, and the glorious and beautiful Goddess of the Three Cities.[cite: 1]"
+    "meaning": "She is known even to children and cowherds, whose commands cannot be transgressed, residing in the royal Sri Chakra, and the glorious and beautiful Goddess of the Three Cities.[cite: 1]",
+    "end_time": null
   }
 ]

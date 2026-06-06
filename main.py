@@ -16,6 +16,7 @@ STOTRAMS_CONFIG = {
         "title": "Lalitha Sahasranama",
         "description": "1000 names of the Divine Mother Tripurasundari.",
         "icon": "🌺",
+        "youtube_id": "nkuefVbYQwI",
         "files": {
             "verses": "verses.txt",
             "landing_mal": "landing-page-malayalam.txt",
@@ -28,6 +29,7 @@ STOTRAMS_CONFIG = {
         "title": "Vishnu Sahasranama",
         "description": "1000 names of Lord Vishnu.",
         "icon": "🌺",
+        "youtube_id": "PGRhM77OSU0", # Replace with actual Vishnu YT ID
         "files": {
             "verses": "vishnu_verses.txt",
             "landing_mal": "vishnu_landing-page-malayalam.txt",
@@ -41,7 +43,14 @@ STOTRAMS_CONFIG = {
 def load_verses():
     global STOTRAMS_DATA
     for sid, config in STOTRAMS_CONFIG.items():
-        data = {"verses": [], "landing_mal": "", "landing_san": "", "end_mal": "", "end_san": ""}
+        data = {
+            "verses": [], 
+            "landing_mal": "", 
+            "landing_san": "", 
+            "end_mal": "", 
+            "end_san": "",
+            "youtube_id": config.get("youtube_id")
+        }
         files = config["files"]
         try:
             v_path = os.path.join(BASE_DIR, files["verses"])

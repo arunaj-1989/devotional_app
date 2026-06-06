@@ -61,6 +61,9 @@
             </div>
         </div>
 
+        <!-- Hidden YouTube Player -->
+        <div id="yt-player" style="display: none;"></div>
+
         <div class="flashcard">
             <div id="verse-content">
                 <div class="card-header">
@@ -76,10 +79,6 @@
         <div class="navigation-buttons"></div>
     </div>
 
-    <footer class="app-footer">
-        <p>© 2024 Sanatana Stotra Sangrahah • Author: Arunaj • May all be blessed.</p>
-    </footer>
-
     <script>
         const stotramId = "{{ stotram_id }}";
         const stotramData = {{ stotram_data | tojson }};
@@ -90,6 +89,29 @@
         let theme = "{{ theme }}";
         let currentSanskrit = {{ verse.sanskrit | tojson }};
         let selectedVoice = null;
+        let currentAudio = null;
+        let ytTimer = null;
+        let ytPlayer = null;
+        const youtubeId = "{{ stotram_data.youtube_id }}";
+
+        // Load YouTube IFrame API
+        const tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        const firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        function onYouTubeIframeAPIReady() {
+            if (!youtubeId) return;
+            ytPlayer = new YT.Player('yt-player', {
+                height: '0',
+                width: '0',
+                videoId: youtubeId,
+                playerVars: { 'autoplay': 0, 'controls': 0, 'modestbranding': 1 },
+                events: {
+                    'onReady': () => console.log("YouTube Player Initialized for ID:", youtubeId)
+                }
+            });
+        }
 
         function setupSpeechVoice() {
             if ('speechSynthesis' in window) {
@@ -110,6 +132,19 @@
             // Stop any ongoing speech when navigating away from the current content
             if ('speechSynthesis' in window) {
                 window.speechSynthesis.cancel();
+            }
+            // Stop YouTube if navigating
+            if (ytPlayer && ytPlayer.pauseVideo) {
+                ytPlayer.pauseVideo();
+            }
+            if (ytTimer) {
+                clearTimeout(ytTimer);
+                ytTimer = null;
+            }
+            // Stop any ongoing MP3 playback
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio = null;
             }
 
             const container = document.getElementById('verse-content');
@@ -150,16 +185,69 @@
             }, 150);
         }
 
-        function speakText() {
-            if (!('speechSynthesis' in window)) {
-                alert("Text-to-speech is not supported in your browser.");
+        async function speakText() {
+            // Stop any ongoing speech or audio immediately
+            if (ytTimer) {
+                clearTimeout(ytTimer);
+                ytTimer = null;
+            }
+            if (currentAudio) currentAudio.pause();
+            currentAudio = null;
+            if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+            
+            const count = stotramData.verses.length;
+            let verse;
+            if (currentId === 0) verse = { start_time: 0 };
+            else if (currentId === count + 1) verse = { start_time: 1680 }; // Example end time
+            else verse = stotramData.verses[currentId - 1];
+
+            // 1. Priority: YouTube Sync
+            if (ytPlayer && verse.start_time !== undefined) {
+                console.log(`Seeking YouTube to ${verse.start_time}s`);
+                ytPlayer.seekTo(verse.start_time, true);
+                ytPlayer.playVideo();
+
+                if (verse.end_time !== undefined) {
+                    const duration = (verse.end_time - verse.start_time) * 1000;
+                    ytTimer = setTimeout(() => {
+                        ytPlayer.pauseVideo();
+                    }, duration);
+                }
                 return;
             }
 
-            // Chrome bug fix: explicitly resume the engine and clear any existing queue
-            window.speechSynthesis.resume();
-            window.speechSynthesis.cancel();
+            // 2. Secondary: Local MP3 Files
+            let audioFile;
+            if (currentId === 0) {
+                audioFile = "landing.mp3";
+            } else if (currentId === count + 1) {
+                audioFile = "conclusion.mp3";
+            } else {
+                const coupletId = Math.ceil(currentId / 2);
+                audioFile = `${coupletId}.mp3`;
+            }
 
+            const audioUrl = `/static/audio/${stotramId}/${audioFile}`;
+            
+            // Check if file exists before trying to play to maintain user gesture context
+            const check = await fetch(audioUrl, { method: 'HEAD' }).catch(() => ({ ok: false }));
+            
+            if (check.ok) {
+                currentAudio = new Audio(audioUrl);
+                currentAudio.play().catch(() => playTTSFallback());
+            } else {
+                console.warn(`Local audio not found at ${audioUrl}. Falling back to browser TTS.`);
+                playTTSFallback();
+            }
+        }
+
+        function playTTSFallback() {
+            if (!('speechSynthesis' in window)) {
+                console.error("TTS not supported.");
+                return;
+            }
+
+            window.speechSynthesis.resume();
             if (!currentSanskrit) return;
 
             // Clean text: replace Dandams with commas to create natural breathing pauses
