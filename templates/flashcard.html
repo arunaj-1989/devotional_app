@@ -49,14 +49,14 @@
                         <label for="meaning-on" class="on-label">ON</label>
                     </div>
                 </div>
-                <div class="theme-wrapper">
-                    <span class="toggle-title">Theme</span>
-                    <div class="language-toggle">
-                        <input type="radio" id="theme-light" name="theme" value="light" {% if theme == "light" %}checked{% endif %} onchange="setTheme('light')">
-                        <label for="theme-light" title="Light Theme">☀️</label>
-                        <input type="radio" id="theme-dark" name="theme" value="dark" {% if theme == "dark" %}checked{% endif %} onchange="setTheme('dark')">
-                        <label for="theme-dark" title="Dark Theme">🌙</label>
-                    </div>
+            </div>
+            <div class="theme-wrapper">
+                <span class="toggle-title">Theme</span>
+                <div class="language-toggle">
+                    <input type="radio" id="theme-light" name="theme" value="light" {% if theme == "light" %}checked{% endif %} onchange="setTheme('light')">
+                    <label for="theme-light" title="Light Theme">☀️</label>
+                    <input type="radio" id="theme-dark" name="theme" value="dark" {% if theme == "dark" %}checked{% endif %} onchange="setTheme('dark')">
+                    <label for="theme-dark" title="Dark Theme">🌙</label>
                 </div>
             </div>
         </div>

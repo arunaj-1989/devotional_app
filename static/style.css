@@ -346,15 +346,20 @@ body {
     .flashcard { padding: 40px 20px; }
     
     .controls-row {
-        justify-content: center;
+        justify-content: space-between;
         padding: 15px 0;
     }
     .home-link {
-        width: 100%;
+        width: auto;
         justify-content: flex-start;
+        order: 1;
+    }
+    .theme-wrapper {
+        order: 2;
     }
     .settings-controls {
         width: 100%;
         justify-content: space-between;
+        order: 3;
     }
 }
