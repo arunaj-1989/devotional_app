@@ -80,6 +80,7 @@ def get_flashcard(stotram_id, verse_id):
     # Get language from query param or session
     lang = request.args.get("lang") or session.get("language", "sanskrit")
     show_meaning = request.args.get("meaning") or session.get("show_meaning", "true")
+    theme = request.args.get("theme") or session.get("theme", "light")
     stotram = STOTRAMS_DATA.get(stotram_id)
     if not stotram:
         abort(404, description="Stotram not found")
@@ -92,6 +93,7 @@ def get_flashcard(stotram_id, verse_id):
 
     session["language"] = lang
     session["show_meaning"] = show_meaning
+    session["theme"] = theme
     
     if verse_id == 0:
         verse = {"sanskrit": stotram["landing_san"], "malayalam": stotram["landing_mal"], 
@@ -109,6 +111,7 @@ def get_flashcard(stotram_id, verse_id):
             "total_verses": count + 1,
             "selected_language": lang,
             "show_meaning": show_meaning,
+            "theme": theme,
             "stotram_title": STOTRAMS_CONFIG[stotram_id]["title"]
         }
 
@@ -119,6 +122,7 @@ def get_flashcard(stotram_id, verse_id):
         total_verses=count + 1,
         selected_language=lang,
         show_meaning=show_meaning,
+        theme=theme,
         languages=["sanskrit", "malayalam"],
         stotram_id=stotram_id,
         stotram_title=STOTRAMS_CONFIG[stotram_id]["title"],
@@ -139,6 +143,9 @@ def post_flashcard(stotram_id, verse_id):
     new_show_meaning = request.form.get("show_meaning", "false")
     session["show_meaning"] = new_show_meaning
     
+    new_theme = request.form.get("theme") or session.get("theme", "light")
+    session["theme"] = new_theme
+    
     new_id = verse_id
     direction = request.form.get("direction")
     if direction == "next":
@@ -146,7 +153,7 @@ def post_flashcard(stotram_id, verse_id):
     elif direction == "prev":
         new_id = max(verse_id - 1, 0)
     
-    return redirect(url_for('get_flashcard', stotram_id=stotram_id, verse_id=new_id, lang=new_lang, meaning=new_show_meaning))
+    return redirect(url_for('get_flashcard', stotram_id=stotram_id, verse_id=new_id, lang=new_lang, meaning=new_show_meaning, theme=new_theme))
 
 if __name__ == "__main__":
     app.run(debug=True)

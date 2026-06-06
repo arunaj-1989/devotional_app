@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="{{ theme }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ stotram_title }} - Stotra Reader</title>
     <link rel="stylesheet" href="/static/style.css">
     <style>
-        .meaning-wrapper, .language-wrapper {
+        .meaning-wrapper, .language-wrapper, .theme-wrapper {
             display: flex;
             align-items: center;
             gap: 6px;
@@ -49,6 +49,15 @@
                         <label for="meaning-on" class="on-label">ON</label>
                     </div>
                 </div>
+                <div class="theme-wrapper">
+                    <span class="toggle-title">Theme</span>
+                    <div class="language-toggle">
+                        <input type="radio" id="theme-light" name="theme" value="light" {% if theme == "light" %}checked{% endif %} onchange="setTheme('light')">
+                        <label for="theme-light" title="Light Theme">☀️</label>
+                        <input type="radio" id="theme-dark" name="theme" value="dark" {% if theme == "dark" %}checked{% endif %} onchange="setTheme('dark')">
+                        <label for="theme-dark" title="Dark Theme">🌙</label>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -78,6 +87,7 @@
         const totalVerses = {{ total_verses }};
         let lang = "{{ selected_language }}";
         let showMeaning = "{{ show_meaning }}";
+        let theme = "{{ theme }}";
         let currentSanskrit = {{ verse.sanskrit | tojson }};
         let selectedVoice = null;
 
@@ -134,7 +144,7 @@
                 document.querySelector('.meaning-text').style.display = showMeaning === 'true' ? 'block' : 'none';
                 
                 // Update URL without page refresh
-                const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}`;
+                const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}&theme=${theme}`;
                 window.history.pushState({vid, lang}, '', url);
                 container.classList.remove('verse-fade-out');
             }, 150);
@@ -174,6 +184,12 @@
 
         function setLanguage(newLang) {
             lang = newLang;
+            fetchVerse(currentId);
+        }
+
+        function setTheme(newTheme) {
+            theme = newTheme;
+            document.documentElement.setAttribute('data-theme', theme);
             fetchVerse(currentId);
         }
 
