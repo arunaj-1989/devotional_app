@@ -5,6 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ stotram_title }} - Stotra Reader</title>
     <link rel="stylesheet" href="/static/style.css">
+    <style>
+        .meaning-wrapper, .language-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .toggle-title {
+            font-size: 0.7rem;
+            font-weight: bold;
+            color: #666;
+            text-transform: uppercase;
+        }
+        /* Specific colors for the meaning toggle */
+        #meaning-on:checked + .on-label { background-color: #28a745 !important; color: white !important; border-color: #28a745 !important; }
+        #meaning-off:checked + .off-label { background-color: #dc3545 !important; color: white !important; border-color: #dc3545 !important; }
+    </style>
 </head>
 <body>
     <header class="app-header">
@@ -14,11 +30,23 @@
     <div class="flashcard-page-container">
         <div class="controls-row">
             <a href="/" class="home-link" title="Back to Home"><span class="nav-arrow">←</span> HOME</a>
-            <div class="language-toggle">
-                <input type="radio" id="lang-sanskrit" name="selected_language" value="sanskrit" {% if selected_language == "sanskrit" %}checked{% endif %} onchange="setLanguage(this.value)">
-                <label for="lang-sanskrit">S</label>
-                <input type="radio" id="lang-malayalam" name="selected_language" value="malayalam" {% if selected_language == "malayalam" %}checked{% endif %} onchange="setLanguage(this.value)">
-                <label for="lang-malayalam">M</label>
+            <div class="language-wrapper">
+                <span class="toggle-title">Language</span>
+                <div class="language-toggle">
+                    <input type="radio" id="lang-sanskrit" name="selected_language" value="sanskrit" {% if selected_language == "sanskrit" %}checked{% endif %} onchange="setLanguage(this.value)">
+                    <label for="lang-sanskrit">S</label>
+                    <input type="radio" id="lang-malayalam" name="selected_language" value="malayalam" {% if selected_language == "malayalam" %}checked{% endif %} onchange="setLanguage(this.value)">
+                    <label for="lang-malayalam">M</label>
+                </div>
+            </div>
+            <div class="meaning-wrapper">
+                <span class="toggle-title">Meaning</span>
+                <div class="language-toggle">
+                    <input type="radio" id="meaning-off" name="show_meaning" value="false" {% if show_meaning == "false" %}checked{% endif %} onchange="setMeaning(false)">
+                    <label for="meaning-off" class="off-label">OFF</label>
+                    <input type="radio" id="meaning-on" name="show_meaning" value="true" {% if show_meaning == "true" %}checked{% endif %} onchange="setMeaning(true)">
+                    <label for="meaning-on" class="on-label">ON</label>
+                </div>
             </div>
         </div>
 
@@ -29,7 +57,7 @@
             </div>
             <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
             <div class="english-text">{{ verse.english }}</div>
-            <div class="meaning-text">{{ verse.meaning }}</div>
+            <div class="meaning-text" style="display: {% if show_meaning == 'true' %}block{% else %}none{% endif %};">{{ verse.meaning }}</div>
         </div>
 
         <div class="navigation-buttons"></div>
@@ -44,6 +72,7 @@
         let currentId = {{ current_id }};
         const totalVerses = {{ total_verses }};
         let lang = "{{ selected_language }}";
+        let showMeaning = "{{ show_meaning }}";
         let currentSanskrit = {{ verse.sanskrit | tojson }};
         let selectedVoice = null;
 
@@ -67,7 +96,7 @@
             if ('speechSynthesis' in window) {
                 window.speechSynthesis.cancel();
             }
-            const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}`;
+            const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}`;
             try {
                 const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
                 const data = await response.json();
@@ -75,11 +104,14 @@
                 currentId = data.current_id;
                 currentSanskrit = data.verse.sanskrit;
                 
+                showMeaning = data.show_meaning;
+
                 // Update text content
                 document.querySelector('.verse-id').textContent = `#${data.current_id}`;
                 document.querySelector('.script-text').textContent = lang === 'sanskrit' ? data.verse.sanskrit : data.verse.malayalam;
                 document.querySelector('.english-text').textContent = data.verse.english;
                 document.querySelector('.meaning-text').textContent = data.verse.meaning;
+                document.querySelector('.meaning-text').style.display = showMeaning === 'true' ? 'block' : 'none';
                 
                 // Update URL without page refresh
                 window.history.pushState({vid, lang}, '', url);
@@ -122,6 +154,12 @@
 
         function setLanguage(newLang) {
             lang = newLang;
+            fetchVerse(currentId);
+        }
+
+        function setMeaning(checked) {
+            showMeaning = checked ? "true" : "false";
+            document.querySelector('.meaning-text').style.display = checked ? "block" : "none";
             fetchVerse(currentId);
         }
 

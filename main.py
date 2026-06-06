@@ -79,6 +79,7 @@ def home_page():
 def get_flashcard(stotram_id, verse_id):
     # Get language from query param or session
     lang = request.args.get("lang") or session.get("language", "sanskrit")
+    show_meaning = request.args.get("meaning") or session.get("show_meaning", "true")
     stotram = STOTRAMS_DATA.get(stotram_id)
     if not stotram:
         abort(404, description="Stotram not found")
@@ -90,6 +91,7 @@ def get_flashcard(stotram_id, verse_id):
         abort(404, description=f"Page {verse_id} not found.")
 
     session["language"] = lang
+    session["show_meaning"] = show_meaning
     
     if verse_id == 0:
         verse = {"sanskrit": stotram["landing_san"], "malayalam": stotram["landing_mal"], 
@@ -106,6 +108,7 @@ def get_flashcard(stotram_id, verse_id):
             "current_id": verse_id,
             "total_verses": count + 1,
             "selected_language": lang,
+            "show_meaning": show_meaning,
             "stotram_title": STOTRAMS_CONFIG[stotram_id]["title"]
         }
 
@@ -115,6 +118,7 @@ def get_flashcard(stotram_id, verse_id):
         current_id=verse_id,
         total_verses=count + 1,
         selected_language=lang,
+        show_meaning=show_meaning,
         languages=["sanskrit", "malayalam"],
         stotram_id=stotram_id,
         stotram_title=STOTRAMS_CONFIG[stotram_id]["title"]
@@ -129,6 +133,11 @@ def post_flashcard(stotram_id, verse_id):
     new_lang = request.form.get("selected_language") or session.get("language", "sanskrit")
     session["language"] = new_lang
     
+    # For a checkbox, if it's unchecked, it won't be in request.form.
+    # We default to "false" if the field is missing during a form post.
+    new_show_meaning = request.form.get("show_meaning", "false")
+    session["show_meaning"] = new_show_meaning
+    
     new_id = verse_id
     direction = request.form.get("direction")
     if direction == "next":
@@ -136,7 +145,7 @@ def post_flashcard(stotram_id, verse_id):
     elif direction == "prev":
         new_id = max(verse_id - 1, 0)
     
-    return redirect(url_for('get_flashcard', stotram_id=stotram_id, verse_id=new_id, lang=new_lang))
+    return redirect(url_for('get_flashcard', stotram_id=stotram_id, verse_id=new_id, lang=new_lang, meaning=new_show_meaning))
 
 if __name__ == "__main__":
     app.run(debug=True)
