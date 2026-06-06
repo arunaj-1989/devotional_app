@@ -53,13 +53,15 @@
         </div>
 
         <div class="flashcard">
-            <div class="card-header">
-                <div class="verse-id">#{{ current_id }}</div>
-                <button class="listen-btn" onclick="speakText()" title="Listen to Sanskrit">🔊</button>
+            <div id="verse-content">
+                <div class="card-header">
+                    <div class="verse-id">#{{ current_id }}</div>
+                    <button class="listen-btn" onclick="speakText()" title="Listen to Sanskrit">🔊</button>
+                </div>
+                <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
+                <div class="english-text">{{ verse.english }}</div>
+                <div class="meaning-text" style="display: {% if show_meaning == 'true' %}block{% else %}none{% endif %};">{{ verse.meaning }}</div>
             </div>
-            <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
-            <div class="english-text">{{ verse.english }}</div>
-            <div class="meaning-text" style="display: {% if show_meaning == 'true' %}block{% else %}none{% endif %};">{{ verse.meaning }}</div>
         </div>
 
         <div class="navigation-buttons"></div>
@@ -71,6 +73,7 @@
 
     <script>
         const stotramId = "{{ stotram_id }}";
+        const stotramData = {{ stotram_data | tojson }};
         let currentId = {{ current_id }};
         const totalVerses = {{ total_verses }};
         let lang = "{{ selected_language }}";
@@ -93,33 +96,48 @@
             setupSpeechVoice();
         }
 
-        async function fetchVerse(vid) {
+        function fetchVerse(vid) {
             // Stop any ongoing speech when navigating away from the current content
             if ('speechSynthesis' in window) {
                 window.speechSynthesis.cancel();
             }
-            const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}`;
-            try {
-                const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
-                const data = await response.json();
-                
-                currentId = data.current_id;
-                currentSanskrit = data.verse.sanskrit;
-                
-                showMeaning = data.show_meaning;
 
+            const container = document.getElementById('verse-content');
+            container.classList.add('verse-fade-out');
+
+            let verse;
+            const count = stotramData.verses.length;
+
+            if (vid === 0) {
+                verse = {
+                    sanskrit: stotramData.landing_san, malayalam: stotramData.landing_mal,
+                    english: "Dhyanam", meaning: "Opening Prayers"
+                };
+            } else if (vid === count + 1) {
+                verse = {
+                    sanskrit: stotramData.end_san, malayalam: stotramData.end_mal,
+                    english: "Conclusion", meaning: "Closing Prayers"
+                };
+            } else {
+                verse = stotramData.verses[vid - 1];
+            }
+
+            currentId = vid;
+            currentSanskrit = verse.sanskrit;
+
+            setTimeout(() => {
                 // Update text content
-                document.querySelector('.verse-id').textContent = `#${data.current_id}`;
-                document.querySelector('.script-text').textContent = lang === 'sanskrit' ? data.verse.sanskrit : data.verse.malayalam;
-                document.querySelector('.english-text').textContent = data.verse.english;
-                document.querySelector('.meaning-text').textContent = data.verse.meaning;
+                document.querySelector('.verse-id').textContent = `#${currentId}`;
+                document.querySelector('.script-text').textContent = lang === 'sanskrit' ? verse.sanskrit : verse.malayalam;
+                document.querySelector('.english-text').textContent = verse.english;
+                document.querySelector('.meaning-text').textContent = verse.meaning;
                 document.querySelector('.meaning-text').style.display = showMeaning === 'true' ? 'block' : 'none';
                 
                 // Update URL without page refresh
+                const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}`;
                 window.history.pushState({vid, lang}, '', url);
-            } catch (error) {
-                console.error("Failed to fetch verse:", error);
-            }
+                container.classList.remove('verse-fade-out');
+            }, 150);
         }
 
         function speakText() {
@@ -165,11 +183,11 @@
             fetchVerse(currentId);
         }
 
-        async function navigate(direction) {
+        function navigate(direction) {
             if (direction === 'next' && currentId < totalVerses) {
-                await fetchVerse(currentId + 1);
+                fetchVerse(currentId + 1);
             } else if (direction === 'prev' && currentId > 0) {
-                await fetchVerse(currentId - 1);
+                fetchVerse(currentId - 1);
             }
         }
 

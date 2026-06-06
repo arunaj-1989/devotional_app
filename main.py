@@ -121,7 +121,8 @@ def get_flashcard(stotram_id, verse_id):
         show_meaning=show_meaning,
         languages=["sanskrit", "malayalam"],
         stotram_id=stotram_id,
-        stotram_title=STOTRAMS_CONFIG[stotram_id]["title"]
+        stotram_title=STOTRAMS_CONFIG[stotram_id]["title"],
+        stotram_data=stotram
     )
     
 @app.route("/stotram/<stotram_id>/flashcard/<int:verse_id>", methods=["POST"])
