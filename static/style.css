@@ -170,10 +170,19 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
     width: 100%;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
     margin-bottom: 30px;
+}
+
+.settings-controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
 .home-link {
@@ -297,4 +306,17 @@ body {
     .hero-section { padding: 60px 20px; }
     .stotram-card { padding: 30px 20px; }
     .flashcard { padding: 40px 20px; }
+    
+    .controls-row {
+        justify-content: center;
+        padding: 15px 0;
+    }
+    .home-link {
+        width: 100%;
+        justify-content: flex-start;
+    }
+    .settings-controls {
+        width: 100%;
+        justify-content: space-between;
+    }
 }

@@ -30,22 +30,24 @@
     <div class="flashcard-page-container">
         <div class="controls-row">
             <a href="/" class="home-link" title="Back to Home"><span class="nav-arrow">←</span> HOME</a>
-            <div class="language-wrapper">
-                <span class="toggle-title">Language</span>
-                <div class="language-toggle">
-                    <input type="radio" id="lang-sanskrit" name="selected_language" value="sanskrit" {% if selected_language == "sanskrit" %}checked{% endif %} onchange="setLanguage(this.value)">
-                    <label for="lang-sanskrit">S</label>
-                    <input type="radio" id="lang-malayalam" name="selected_language" value="malayalam" {% if selected_language == "malayalam" %}checked{% endif %} onchange="setLanguage(this.value)">
-                    <label for="lang-malayalam">M</label>
+            <div class="settings-controls">
+                <div class="language-wrapper">
+                    <span class="toggle-title">Script</span>
+                    <div class="language-toggle">
+                        <input type="radio" id="lang-sanskrit" name="selected_language" value="sanskrit" {% if selected_language == "sanskrit" %}checked{% endif %} onchange="setLanguage(this.value)">
+                        <label for="lang-sanskrit">S</label>
+                        <input type="radio" id="lang-malayalam" name="selected_language" value="malayalam" {% if selected_language == "malayalam" %}checked{% endif %} onchange="setLanguage(this.value)">
+                        <label for="lang-malayalam">M</label>
+                    </div>
                 </div>
-            </div>
-            <div class="meaning-wrapper">
-                <span class="toggle-title">Meaning</span>
-                <div class="language-toggle">
-                    <input type="radio" id="meaning-off" name="show_meaning" value="false" {% if show_meaning == "false" %}checked{% endif %} onchange="setMeaning(false)">
-                    <label for="meaning-off" class="off-label">OFF</label>
-                    <input type="radio" id="meaning-on" name="show_meaning" value="true" {% if show_meaning == "true" %}checked{% endif %} onchange="setMeaning(true)">
-                    <label for="meaning-on" class="on-label">ON</label>
+                <div class="meaning-wrapper">
+                    <span class="toggle-title">Meaning</span>
+                    <div class="language-toggle">
+                        <input type="radio" id="meaning-off" name="show_meaning" value="false" {% if show_meaning == "false" %}checked{% endif %} onchange="setMeaning(false)">
+                        <label for="meaning-off" class="off-label">OFF</label>
+                        <input type="radio" id="meaning-on" name="show_meaning" value="true" {% if show_meaning == "true" %}checked{% endif %} onchange="setMeaning(true)">
+                        <label for="meaning-on" class="on-label">ON</label>
+                    </div>
                 </div>
             </div>
         </div>
