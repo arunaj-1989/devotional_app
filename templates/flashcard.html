@@ -24,7 +24,7 @@
 </head>
 <body>
     <header class="app-header">
-        <h3>Sanatana Stotra Sangrahah</h3>
+        <h3>{{ stotram_title }}</h3>
     </header>
 
     <div class="flashcard-page-container">
@@ -61,6 +61,10 @@
             </div>
         </div>
 
+        <div class="progress-container">
+            <div class="progress-indicator" id="progress-bar"></div>
+        </div>
+
         <div class="flashcard">
             <div id="verse-content">
                 <div class="card-header">
@@ -70,6 +74,7 @@
                 <div class="script-text">{% if selected_language == "sanskrit" %}{{ verse.sanskrit }}{% else %}{{ verse.malayalam }}{% endif %}</div>
                 <div class="english-text">{{ verse.english }}</div>
                 <div class="meaning-text" style="display: {% if show_meaning == 'true' %}block{% else %}none{% endif %};">{{ verse.meaning }}</div>
+                <div class="mantra-text">{% if selected_language == "sanskrit" %}ॐ श्री ललिताम्बिकायै नमः{% else %}ഓം ശ്രീ ലളിതാംബികായൈ നമഃ{% endif %}</div>
             </div>
         </div>
 
@@ -78,6 +83,7 @@
 
     <script>
         const stotramId = "{{ stotram_id }}";
+        const stotramTitle = "{{ stotram_title }}";
         const stotramData = {{ stotram_data | tojson }};
         let currentId = {{ current_id }};
         const totalVerses = {{ total_verses }};
@@ -133,12 +139,22 @@
 
             setTimeout(() => {
                 // Update text content
-                document.querySelector('.verse-id').textContent = `#${currentId}`;
+                const verseLabel = vid === 0 ? "Dhyanam" : (vid > count ? "Conclusion" : `#${vid}`);
+                document.querySelector('.verse-id').textContent = verseLabel;
+                
                 document.querySelector('.script-text').textContent = lang === 'sanskrit' ? verse.sanskrit : verse.malayalam;
                 document.querySelector('.english-text').textContent = verse.english;
                 document.querySelector('.meaning-text').textContent = verse.meaning;
                 document.querySelector('.meaning-text').style.display = showMeaning === 'true' ? 'block' : 'none';
+                document.querySelector('.mantra-text').textContent = lang === 'sanskrit' ? 'ॐ श्री ललिताम्बिकायै नमः' : 'ഓം ശ്രീ ലളിതാംബികായൈ നമഃ';
                 
+                // Update dynamic browser tab title
+                document.title = `${stotramTitle} - ${verseLabel}`;
+                
+                // Update Progress Bar
+                const progress = (vid / totalVerses) * 100;
+                document.getElementById('progress-bar').style.width = `${progress}%`;
+
                 // Update URL without page refresh
                 const url = `/stotram/${stotramId}/flashcard/${vid}?lang=${lang}&meaning=${showMeaning}&theme=${theme}`;
                 window.history.pushState({vid, lang}, '', url);
@@ -234,6 +250,9 @@
                 navigate('prev');
             }
         }
+
+        // Initial progress calculation
+        document.getElementById('progress-bar').style.width = `${(currentId / totalVerses) * 100}%`;
     </script>
 </body>
 </html>
