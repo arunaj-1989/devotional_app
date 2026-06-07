@@ -22,6 +22,11 @@
     --card-shadow: rgba(0,0,0,0.4);
 }
 
+html {
+    height: 100%;
+    overflow-x: hidden;
+}
+
 body {
     background-color: var(--bg-color) !important;
     color: var(--text-color);
@@ -30,7 +35,8 @@ body {
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100dvh;
+    overflow-x: hidden;
 }
 
 .app-header {
