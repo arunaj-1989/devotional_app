@@ -60,14 +60,11 @@ body {
 }
 
 .flashcard-page-container {
-    flex: 1;
     display: flex;
     flex-direction: column;
     max-width: 800px;
     width: 95%;
     margin: 0 auto;
-    padding-bottom: 20px;
-    overflow-y: auto;
 }
 
 /* --- Homepage Wix Style --- */
@@ -331,7 +328,8 @@ body {
     
     .controls-row {
         justify-content: space-between;
-        padding: 15px 0;
+        padding: 10px 0;
+        margin-bottom: 15px;
     }
     .home-link {
         width: auto;
